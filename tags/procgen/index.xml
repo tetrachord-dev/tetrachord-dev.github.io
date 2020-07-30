@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>procgen on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>aaronswindell.com/tags/procgen/</link>
+    <description>Recent content in procgen on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 28 Nov 2019 12:46:00 +0000</lastBuildDate>
+    
+	<atom:link href="aaronswindell.com/tags/procgen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>solar eclipse of the heart</title>
+      <link>aaronswindell.com/2019/11/28/solar-eclipse-of-the-heart/</link>
+      <pubDate>Thu, 28 Nov 2019 12:46:00 +0000</pubDate>
+      
+      <guid>aaronswindell.com/2019/11/28/solar-eclipse-of-the-heart/</guid>
+      <description>a full circle strange sort of things occuring lately
+attempting to go fully procedural for the planet creation with the help of a great series by Sabastain Lague. in retrospect, even though i have slowly been discovering the many benefits of working procedurally, i didnt exactly know this sort of thing was possible directly in Unity without some sort of third party implementation.</description>
+    </item>
+    
+  </channel>
+</rss>
