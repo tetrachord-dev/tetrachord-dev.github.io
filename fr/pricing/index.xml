@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Pricing on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
-    <link>aaronswindell.com/fr/pricing/</link>
+    <link>https://tetrachord-dev.github.io/fr/pricing/</link>
     <description>Recent content in Our Pricing on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
     
-	<atom:link href="aaronswindell.com/fr/pricing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tetrachord-dev.github.io/fr/pricing/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

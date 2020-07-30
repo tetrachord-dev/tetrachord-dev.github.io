@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
-    <link>aaronswindell.com/tags/</link>
+    <link>https://tetrachord-dev.github.io/tags/</link>
     <description>Recent content in Tags on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Thu, 28 Nov 2019 12:46:00 +0000</lastBuildDate>
     
-	<atom:link href="aaronswindell.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tetrachord-dev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>procgen</title>
-      <link>aaronswindell.com/tags/procgen/</link>
+      <link>https://tetrachord-dev.github.io/tags/procgen/</link>
       <pubDate>Thu, 28 Nov 2019 12:46:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/tags/procgen/</guid>
+      <guid>https://tetrachord-dev.github.io/tags/procgen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advice</title>
-      <link>aaronswindell.com/tags/advice/</link>
+      <link>https://tetrachord-dev.github.io/tags/advice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/tags/advice/</guid>
+      <guid>https://tetrachord-dev.github.io/tags/advice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>aaronswindell.com/tags/technology/</link>
+      <link>https://tetrachord-dev.github.io/tags/technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/tags/technology/</guid>
+      <guid>https://tetrachord-dev.github.io/tags/technology/</guid>
       <description></description>
     </item>
     
