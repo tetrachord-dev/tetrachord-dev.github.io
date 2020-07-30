@@ -2,647 +2,647 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaron McKinley Swindell | Game Developer &amp; Artist</title>
-    <link>aaronswindell.com/</link>
+    <link>https://tetrachord-dev.github.io/</link>
     <description>Recent content on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Tue, 21 Jul 2020 02:29:00 +0000</lastBuildDate>
     
-	<atom:link href="aaronswindell.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tetrachord-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>almost</title>
-      <link>aaronswindell.com/2020/07/20/almost/</link>
+      <link>https://tetrachord-dev.github.io/2020/07/20/almost/</link>
       <pubDate>Tue, 21 Jul 2020 02:29:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/07/20/almost/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/07/20/almost/</guid>
       <description>lots of headway, the time for release draws nearer. stupid things tripping me up lately, but i guess it&amp;rsquo;s all part of the process. today for example, i learned trigger events will still register for disabled colliders and even if the whole gameObject is disabled.</description>
     </item>
     
     <item>
       <title>what reginald meant</title>
-      <link>aaronswindell.com/2020/06/16/what-reginald-meant/</link>
+      <link>https://tetrachord-dev.github.io/2020/06/16/what-reginald-meant/</link>
       <pubDate>Wed, 17 Jun 2020 02:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/06/16/what-reginald-meant/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/06/16/what-reginald-meant/</guid>
       <description>idk if the new regiment is increasing or decreasing my productivity. i am still getting things checked off, but it is difficult to gauge whether or not it is an improvement honestly, i&amp;rsquo;m not even sure i&amp;rsquo;ve followed it at all this week; but it is good to still have a general idea of the direction i should be moving</description>
     </item>
     
     <item>
       <title>operation: octo-squid</title>
-      <link>aaronswindell.com/2020/06/03/operation-octo-squid/</link>
+      <link>https://tetrachord-dev.github.io/2020/06/03/operation-octo-squid/</link>
       <pubDate>Thu, 04 Jun 2020 00:05:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/06/03/operation-octo-squid/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/06/03/operation-octo-squid/</guid>
       <description>i made a new regiment and tried to schedule my time for the day, taking into account my new goals i&amp;rsquo;m basically breaking the day into two sections, one for study and one for self-learning.</description>
     </item>
     
     <item>
       <title>two weeks off</title>
-      <link>aaronswindell.com/2020/05/28/two-weeks-off/</link>
+      <link>https://tetrachord-dev.github.io/2020/05/28/two-weeks-off/</link>
       <pubDate>Thu, 28 May 2020 23:43:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/05/28/two-weeks-off/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/05/28/two-weeks-off/</guid>
       <description>today was first day I&amp;rsquo;ve tried working on the game in a few weeks. kinda felt good, but I tried to keep it simple for the first day back at.it. still working on the first boss&amp;rsquo; attack pattern.</description>
     </item>
     
     <item>
       <title>hit boxes and attack loop logic</title>
-      <link>aaronswindell.com/2020/05/11/hit-boxes-and-attack-loop-logic/</link>
+      <link>https://tetrachord-dev.github.io/2020/05/11/hit-boxes-and-attack-loop-logic/</link>
       <pubDate>Tue, 12 May 2020 01:08:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/05/11/hit-boxes-and-attack-loop-logic/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/05/11/hit-boxes-and-attack-loop-logic/</guid>
       <description>made a neat animated material to indicate the weak areas of the boss&amp;hellip; they glow. still need to adjust the colliders a bit, i think. started to create the attack loop logic.</description>
     </item>
     
     <item>
       <title>boss battle</title>
-      <link>aaronswindell.com/2020/04/29/boss-battle/</link>
+      <link>https://tetrachord-dev.github.io/2020/04/29/boss-battle/</link>
       <pubDate>Thu, 30 Apr 2020 02:28:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/04/29/boss-battle/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/04/29/boss-battle/</guid>
       <description>laid out the boss UI yesterday, designed it the day before began implementation of boss battle mechanics. currently the boss is attackable and has an entrance followed by looping attack animation.</description>
     </item>
     
     <item>
       <title>currency sfx and bugfixes</title>
-      <link>aaronswindell.com/2020/04/19/currency-sfx-and-bugfixes/</link>
+      <link>https://tetrachord-dev.github.io/2020/04/19/currency-sfx-and-bugfixes/</link>
       <pubDate>Mon, 20 Apr 2020 01:19:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/04/19/currency-sfx-and-bugfixes/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/04/19/currency-sfx-and-bugfixes/</guid>
       <description>made a PlayRandom function that plays a randomized AudioClip from one of my AudioClipSet scriptableobjects. also randomizes the pitch. created five samples to use from a long open source clip i found online someone made with pocket change.</description>
     </item>
     
     <item>
       <title>begin official spring/summer vacation/birthday break/personal development hiatus!</title>
-      <link>aaronswindell.com/2020/04/13/begin-official-spring-summer-vacation-birthday-break-personal-development-hiatus/</link>
+      <link>https://tetrachord-dev.github.io/2020/04/13/begin-official-spring-summer-vacation-birthday-break-personal-development-hiatus/</link>
       <pubDate>Tue, 14 Apr 2020 01:06:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/04/13/begin-official-spring-summer-vacation-birthday-break-personal-development-hiatus/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/04/13/begin-official-spring-summer-vacation-birthday-break-personal-development-hiatus/</guid>
       <description>yeah, all that stuff rolled into one. we&amp;rsquo;ll see how long it can last without me starting to feel like a waste-case. the original plan was for a month long duration, April 10th through May, however my FF7R shipment didn&amp;rsquo;t arrive on time so I got off to a bit of a late start, hahah.</description>
     </item>
     
     <item>
       <title>currency and level stat bonuses</title>
-      <link>aaronswindell.com/2020/04/08/currency-and-level-stat-bonuses/</link>
+      <link>https://tetrachord-dev.github.io/2020/04/08/currency-and-level-stat-bonuses/</link>
       <pubDate>Thu, 09 Apr 2020 01:05:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/04/08/currency-and-level-stat-bonuses/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/04/08/currency-and-level-stat-bonuses/</guid>
       <description>i keep going back and forth between feeling really accomplished and totally unproductive. can my disposition be attributed to the current pandemic the world faces? who knows? the level stat bonuses and currency collection actually add a refreshing dynamic to the game loop and drive the player to perform other behaviors than just attack and dodge.</description>
     </item>
     
     <item>
       <title>save system progress</title>
-      <link>aaronswindell.com/2020/03/30/save-system-progress/</link>
+      <link>https://tetrachord-dev.github.io/2020/03/30/save-system-progress/</link>
       <pubDate>Mon, 30 Mar 2020 22:35:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/03/30/save-system-progress/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/03/30/save-system-progress/</guid>
       <description>nearing initial phase of save system completion at which point testing can finally begin still need a good solution for controlling the world map state. everything is coming together, it&amp;rsquo;s just taking a long time</description>
     </item>
     
     <item>
       <title>new norm?</title>
-      <link>aaronswindell.com/2020/03/22/new-norm/</link>
+      <link>https://tetrachord-dev.github.io/2020/03/22/new-norm/</link>
       <pubDate>Sun, 22 Mar 2020 12:57:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/03/22/new-norm/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/03/22/new-norm/</guid>
       <description>still working on save system when it&amp;rsquo;s busy like this, it seems like i am only able to log around once a week having doubts about the project think I&amp;rsquo;ve been working on it too long</description>
     </item>
     
     <item>
       <title>save system alpha</title>
-      <link>aaronswindell.com/2020/03/16/save-system-alpha/</link>
+      <link>https://tetrachord-dev.github.io/2020/03/16/save-system-alpha/</link>
       <pubDate>Mon, 16 Mar 2020 22:12:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/03/16/save-system-alpha/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/03/16/save-system-alpha/</guid>
       <description>kinda complicated shit going on at this stage. ended up using two static variables, a bool and a byte, to keep track of isLoading state and a selected save slot index.</description>
     </item>
     
     <item>
       <title>stage select UI done, save system otw</title>
-      <link>aaronswindell.com/2020/03/10/stage-select-ui-done-save-system-otw/</link>
+      <link>https://tetrachord-dev.github.io/2020/03/10/stage-select-ui-done-save-system-otw/</link>
       <pubDate>Wed, 11 Mar 2020 01:45:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/03/10/stage-select-ui-done-save-system-otw/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/03/10/stage-select-ui-done-save-system-otw/</guid>
       <description>feels like long time since last update again i guess i don&amp;rsquo;t chronicle my exploits much when they mostly go smoothly anyhoo, a lot has happened instead of typing I&amp;rsquo;ll just tease my progress with a GIF, like the pros&amp;hellip; should prolly get used to that anyway wonder how much space LJ allows for uploads?</description>
     </item>
     
     <item>
       <title>wowzers</title>
-      <link>aaronswindell.com/2020/03/01/wowzers/</link>
+      <link>https://tetrachord-dev.github.io/2020/03/01/wowzers/</link>
       <pubDate>Sun, 01 Mar 2020 14:35:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/03/01/wowzers/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/03/01/wowzers/</guid>
       <description>long time, no entry&amp;hellip; at least not a proper one. still working on the map, it is almost complete, or at least functional having a few issues when hopping in and out of levels, couple values not being reset properly&amp;hellip; but all the core operability i was worried about seems to be working&amp;hellip; just needs a few tweaks the info system i made from the modal panel seems to be working.</description>
     </item>
     
     <item>
       <title>more world map</title>
-      <link>aaronswindell.com/2020/02/24/more-world-map/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/24/more-world-map/</link>
       <pubDate>Tue, 25 Feb 2020 04:02:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/24/more-world-map/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/24/more-world-map/</guid>
       <description>still plucking away</description>
     </item>
     
     <item>
       <title>whurralds</title>
-      <link>aaronswindell.com/2020/02/18/whurralds/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/18/whurralds/</link>
       <pubDate>Wed, 19 Feb 2020 00:51:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/18/whurralds/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/18/whurralds/</guid>
       <description>a world map is a map of the world, so i guess i&amp;rsquo;ve been working on the worlds map&amp;hellip; a map of the worlds, heh i have been worrying about it quit a bit and luckily it looks like once again Unity has some magic up its sleeve.</description>
     </item>
     
     <item>
       <title>something said for difficulty</title>
-      <link>aaronswindell.com/2020/02/16/something-said-for-difficulty/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/16/something-said-for-difficulty/</link>
       <pubDate>Sun, 16 Feb 2020 23:43:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/16/something-said-for-difficulty/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/16/something-said-for-difficulty/</guid>
       <description>restart or retry means you redo kinda laughing a bit at that line here. before it just kind of restarted the spawn loop, reset your position and healed you up. now, any experience you obtained while playing the stage is lost when you either manually restart the level, or die and try agsin funny that it took as much effort as it did, perhaps that is a symptom of modern gamedev&amp;hellip; some strange snafu when something oft considered an aged, old fashioned type of mechanic or functionality is actually harder to implement than a more sophisticated mainstream approach a time worn game rule: you die; you go back.</description>
     </item>
     
     <item>
       <title>roundtrip</title>
-      <link>aaronswindell.com/2020/02/13/roundtrip/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/13/roundtrip/</link>
       <pubDate>Fri, 14 Feb 2020 03:10:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/13/roundtrip/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/13/roundtrip/</guid>
       <description>seems like destroying the persistent player on the loading screen when returning to the title screen solved the issue i was having with the modal window as a bonus, it appears that when i was working through all the ADB errors yesterday trying everything i could, i fixed a few bugs i had no idea how to tackle not sure how i should proceed tomorrow.</description>
     </item>
     
     <item>
       <title>redone redos</title>
-      <link>aaronswindell.com/2020/02/12/redone-redos/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/12/redone-redos/</link>
       <pubDate>Thu, 13 Feb 2020 01:07:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/12/redone-redos/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/12/redone-redos/</guid>
       <description>i kinda feel like i am continually fixing the same problems over and over maybe thats just what development feels like? i can&amp;rsquo;t really be sure yet, the process is still rather new to me i hope with experience, i learn to write more easily extensible code.</description>
     </item>
     
     <item>
       <title>life interference</title>
-      <link>aaronswindell.com/2020/02/11/life-interference/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/11/life-interference/</link>
       <pubDate>Wed, 12 Feb 2020 01:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/11/life-interference/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/11/life-interference/</guid>
       <description>been pretty chaotic lately managed to get the level system growth curve implementation going&amp;hellip; only the experience is working currently, but the stats should be much the same i&amp;rsquo;m not sure if the data structure I was working on for saving level progress is going to work&amp;hellip; I should probably look into serializing the scriptable object itself instead of copying the relevant info into a class specifically for saving restarting the level picks up from the correct iteration now and the quit button has a map and gameplay context.</description>
     </item>
     
     <item>
       <title>the gears are turning</title>
-      <link>aaronswindell.com/2020/02/05/the-gears-are-turning/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/05/the-gears-are-turning/</link>
       <pubDate>Thu, 06 Feb 2020 03:04:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/05/the-gears-are-turning/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/05/the-gears-are-turning/</guid>
       <description>spent the majority of the day trying to implement a data structure for keeping track of level completion. i tried to keep things as simple as possible, thinking it a simple task.</description>
     </item>
     
     <item>
       <title>website update</title>
-      <link>aaronswindell.com/2020/02/04/website-update/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/04/website-update/</link>
       <pubDate>Tue, 04 Feb 2020 23:27:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/04/website-update/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/04/website-update/</guid>
       <description>need to get in the habit of updating my blog entries monthly or something&amp;hellip; too many duplicates to remove. didn&amp;rsquo;t get a whole lot done today, had to fix up a package for an item that sold on eBay.</description>
     </item>
     
     <item>
       <title>ease in</title>
-      <link>aaronswindell.com/2020/02/03/ease-in/</link>
+      <link>https://tetrachord-dev.github.io/2020/02/03/ease-in/</link>
       <pubDate>Mon, 03 Feb 2020 23:23:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/02/03/ease-in/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/02/03/ease-in/</guid>
       <description>finishing up a bit early today, due to it being a good stopping point and that i am satisfied with my progress. it wasn&amp;rsquo;t exactly a full day, but some of the changes were pretty big, as far as helpfulness and consideration, even if they were small in terms of effort or actual work.</description>
     </item>
     
     <item>
       <title>retroactive update</title>
-      <link>aaronswindell.com/2020/01/31/retroactive-update/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/31/retroactive-update/</link>
       <pubDate>Sat, 01 Feb 2020 01:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/31/retroactive-update/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/31/retroactive-update/</guid>
       <description>things got crazy toward the end of the week, so i am posting what was meant to be Friday&amp;rsquo;s entree a day backdated. i went from thinking i had irrevocably broken things and having to loose a week&amp;rsquo;s worth or so of work from going in the wrong direction, to almost getting the exact functionality i was looking for.</description>
     </item>
     
     <item>
       <title>broke too soon</title>
-      <link>aaronswindell.com/2020/01/29/broke-too-soon/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/29/broke-too-soon/</link>
       <pubDate>Thu, 30 Jan 2020 02:55:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/29/broke-too-soon/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/29/broke-too-soon/</guid>
       <description>only halfway through the day i found so many problems with the code i posted yesterday more restructuring today created a WorldLevel class to hold level information, such as the level spawn position texture, a level complete bool and a ScriptableObject array for that level&amp;rsquo;s dialogue all this rework comes with implementing save functionality fully.</description>
     </item>
     
     <item>
       <title>data system work</title>
-      <link>aaronswindell.com/2020/01/28/data-system-work/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/28/data-system-work/</link>
       <pubDate>Wed, 29 Jan 2020 03:22:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/28/data-system-work/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/28/data-system-work/</guid>
       <description>more structural changes and minor fixes began the final implementations of the data saving system refactored the player&amp;rsquo;s level system a bit so the design makes more sense and will be more workable in the future it is now directly accessible from the player script, as opposed to being handled by the game controller.</description>
     </item>
     
     <item>
       <title>slight fixes and remixes</title>
-      <link>aaronswindell.com/2020/01/27/slight-fixes-and-remixes/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/27/slight-fixes-and-remixes/</link>
       <pubDate>Tue, 28 Jan 2020 02:24:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/27/slight-fixes-and-remixes/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/27/slight-fixes-and-remixes/</guid>
       <description>corrected the loading issue i had, as well as one with the menu/back button; it should work for every case now. then i got a bit distracted maybe, maybe not&amp;hellip; i needed more music anyway, but it felt like it took too long to make or something.</description>
     </item>
     
     <item>
       <title>the week of waste</title>
-      <link>aaronswindell.com/2020/01/24/the-week-of-waste/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/24/the-week-of-waste/</link>
       <pubDate>Sat, 25 Jan 2020 00:56:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/24/the-week-of-waste/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/24/the-week-of-waste/</guid>
       <description>went back to original loading screen code, for the most part. tried to optimize and consolidate different methods for fading scenes. still feel like i am loosing frames during the loading process, at this point i no clue which code has better performance.</description>
     </item>
     
     <item>
       <title>asynchronous struggle</title>
-      <link>aaronswindell.com/2020/01/23/asynchronous-struggle/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/23/asynchronous-struggle/</link>
       <pubDate>Fri, 24 Jan 2020 02:02:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/23/asynchronous-struggle/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/23/asynchronous-struggle/</guid>
       <description>been struggling&amp;hellip; all week, really trying to get the procedurally generated map to load without the huge hiccup i am currently experiencing almost 20k milliseconds of hiccup, to give a better idea of magnitude here currently doing builds and trying to get more friendly with the profiler.</description>
     </item>
     
     <item>
       <title>shader improvements, anyone? reflections maybe? some fresnel, perhaps?</title>
-      <link>aaronswindell.com/2020/01/16/shader-improvements-anyone-reflections-maybe-some-fresnel-perhaps/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/16/shader-improvements-anyone-reflections-maybe-some-fresnel-perhaps/</link>
       <pubDate>Fri, 17 Jan 2020 03:08:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/16/shader-improvements-anyone-reflections-maybe-some-fresnel-perhaps/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/16/shader-improvements-anyone-reflections-maybe-some-fresnel-perhaps/</guid>
       <description>totally off course, but what the hey; perfect example of why i&amp;rsquo;ll probably never finish the game. maybe i needed a break from the regiment, a slight deviation from the plan.</description>
     </item>
     
     <item>
       <title>further refinement</title>
-      <link>aaronswindell.com/2020/01/15/further-refinement/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/15/further-refinement/</link>
       <pubDate>Thu, 16 Jan 2020 03:29:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/15/further-refinement/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/15/further-refinement/</guid>
       <description>hard day today started out fixing a few trickle down effect issues from restructuring I&amp;rsquo;ve inadvertently been going through this week. also shortened the tutorial further, trying to make it more concise removed the command character, thought maybe I&amp;rsquo;d save him for the appearance of the first live enemies seemed overly complex to stop the spawn loop on player death</description>
     </item>
     
     <item>
       <title>decoupling and dependency reduction</title>
-      <link>aaronswindell.com/2020/01/14/decoupling-and-dependency-reduction/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/14/decoupling-and-dependency-reduction/</link>
       <pubDate>Wed, 15 Jan 2020 00:41:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/14/decoupling-and-dependency-reduction/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/14/decoupling-and-dependency-reduction/</guid>
       <description>spent this entire week reworking the overall layout of my UI. i am really not sure if this new approach is more performant, but after taking the holiday break and looking at the structure of my project with new eyes, it feels like a more organized way of doing things (see subject).</description>
     </item>
     
     <item>
       <title>stage complete screen progress</title>
-      <link>aaronswindell.com/2020/01/10/stage-complete-screen-progress/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/10/stage-complete-screen-progress/</link>
       <pubDate>Sat, 11 Jan 2020 02:45:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/10/stage-complete-screen-progress/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/10/stage-complete-screen-progress/</guid>
       <description>got the basic flow going afraid it is going to get complicated when i start to implement saving and level restart. its been kind of a simple solution thus far of reloading the scene file, but that may have to change soon.</description>
     </item>
     
     <item>
       <title>started level complete screen and more dialogue improvement</title>
-      <link>aaronswindell.com/2020/01/09/started-level-complete-screen-and-more-dialogue-improvement/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/09/started-level-complete-screen-and-more-dialogue-improvement/</link>
       <pubDate>Fri, 10 Jan 2020 02:31:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/09/started-level-complete-screen-and-more-dialogue-improvement/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/09/started-level-complete-screen-and-more-dialogue-improvement/</guid>
       <description>fixed the need for manual line returns by reworking the dialogue controller a bit based on a video made by textmeshpro. took a few hours to make it work and a lot of experimentation, but it works and the code doesn&amp;rsquo;t feel hacky.</description>
     </item>
     
     <item>
       <title>dialogue progress</title>
-      <link>aaronswindell.com/2020/01/07/dialogue-progress/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/07/dialogue-progress/</link>
       <pubDate>Wed, 08 Jan 2020 03:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/07/dialogue-progress/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/07/dialogue-progress/</guid>
       <description>got the back and forth working with the game and dialogue controllers. still needs a bit of refining.
 essentially i used a black pixel (for now) in the level spawn texture to trigger conversations from an array of scriptable objects.</description>
     </item>
     
     <item>
       <title>development resumption</title>
-      <link>aaronswindell.com/2020/01/06/development-resumption/</link>
+      <link>https://tetrachord-dev.github.io/2020/01/06/development-resumption/</link>
       <pubDate>Tue, 07 Jan 2020 01:12:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2020/01/06/development-resumption/</guid>
+      <guid>https://tetrachord-dev.github.io/2020/01/06/development-resumption/</guid>
       <description>i have resumed work on the game for the year. today was hard.
 at first, it seemed like the house of cards i have slowly been building was collapsing before my very eyes; but then it all started to make sense again.</description>
     </item>
     
     <item>
       <title>let the people be free</title>
-      <link>aaronswindell.com/2019/12/23/let-the-people-be-free/</link>
+      <link>https://tetrachord-dev.github.io/2019/12/23/let-the-people-be-free/</link>
       <pubDate>Tue, 24 Dec 2019 02:18:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/12/23/let-the-people-be-free/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/12/23/let-the-people-be-free/</guid>
       <description>decided to take a winter break Google tells me the kids are off from Dec.23 to to the 3rd of 2020. sounds great on paper, or in type, or whatever.</description>
     </item>
     
     <item>
       <title>r&amp;d</title>
-      <link>aaronswindell.com/2019/12/22/rd-2/</link>
+      <link>https://tetrachord-dev.github.io/2019/12/22/rd-2/</link>
       <pubDate>Sun, 22 Dec 2019 16:39:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/12/22/rd-2/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/12/22/rd-2/</guid>
       <description>been taking the weekends off fairly consistently as of late. although that does not necessarily mean not working on the game, although it technically kinda does.
 this may seem confusing, but i have been using the weekends for inspiration and learning.</description>
     </item>
     
     <item>
       <title>r&amp;d</title>
-      <link>aaronswindell.com/2019/12/22/rd/</link>
+      <link>https://tetrachord-dev.github.io/2019/12/22/rd/</link>
       <pubDate>Sun, 22 Dec 2019 16:39:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/12/22/rd/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/12/22/rd/</guid>
       <description>been taking the weekends off fairly consistently as of late. although that does not necessarily mean not working on the game, although it technically kinda does.
 this may seem confusing, but i have been using the weekends for inspiration and learning.</description>
     </item>
     
     <item>
       <title>started developing dialogue system</title>
-      <link>aaronswindell.com/2019/12/16/started-developing-dialogue-system/</link>
+      <link>https://tetrachord-dev.github.io/2019/12/16/started-developing-dialogue-system/</link>
       <pubDate>Tue, 17 Dec 2019 02:28:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/12/16/started-developing-dialogue-system/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/12/16/started-developing-dialogue-system/</guid>
       <description>so i decided it was time for dialogue in my the game. seeing as how ive been coding everything from the ground up, i naturally looked toward this approach again. a bit of explanation is probably in order here.</description>
     </item>
     
     <item>
       <title>back button</title>
-      <link>aaronswindell.com/2019/12/10/back-button/</link>
+      <link>https://tetrachord-dev.github.io/2019/12/10/back-button/</link>
       <pubDate>Wed, 11 Dec 2019 02:25:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/12/10/back-button/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/12/10/back-button/</guid>
       <description>spent most of the day implementing the Android back button read it was a requirement to be featured on Google Play Games, so I figured better do it now, rather than later when things get hairy</description>
     </item>
     
     <item>
       <title>return to research</title>
-      <link>aaronswindell.com/2019/12/09/return-to-research/</link>
+      <link>https://tetrachord-dev.github.io/2019/12/09/return-to-research/</link>
       <pubDate>Tue, 10 Dec 2019 02:15:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/12/09/return-to-research/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/12/09/return-to-research/</guid>
       <description>returned to my Houdini training have to finish up the last couple chapters even though I suppose I started to loose interest because I&amp;rsquo;d absorbed most of the techniques, I think it&amp;rsquo;s important to finish out the course</description>
     </item>
     
     <item>
       <title>feedback *tap, tap* (repeat 400x)</title>
-      <link>aaronswindell.com/2019/12/06/feedback-tap-tap-repeat-400x/</link>
+      <link>https://tetrachord-dev.github.io/2019/12/06/feedback-tap-tap-repeat-400x/</link>
       <pubDate>Fri, 06 Dec 2019 14:58:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/12/06/feedback-tap-tap-repeat-400x/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/12/06/feedback-tap-tap-repeat-400x/</guid>
       <description>so many great suggestions already and only one tester!
 creating with Unity gives me the freedom to design the game systems any way I want, but hearing straight up from another gamer what would be cooler in terms of design is amazing.</description>
     </item>
     
     <item>
       <title>officially started internal testing and integrated google play game services</title>
-      <link>aaronswindell.com/2019/12/05/officially-started-internal-testing-and-integrated-google-play-game-services/</link>
+      <link>https://tetrachord-dev.github.io/2019/12/05/officially-started-internal-testing-and-integrated-google-play-game-services/</link>
       <pubDate>Fri, 06 Dec 2019 01:59:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/12/05/officially-started-internal-testing-and-integrated-google-play-game-services/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/12/05/officially-started-internal-testing-and-integrated-google-play-game-services/</guid>
       <description>big steps!
 implemented Google Play Games Services for the game, the only thing left to add in is cloud save. did it all surprisingly quickly; so far it has taken less than a week, granted the instructions i&amp;rsquo;m following say it should take about an hour.</description>
     </item>
     
     <item>
       <title>solar eclipse of the heart</title>
-      <link>aaronswindell.com/2019/11/28/solar-eclipse-of-the-heart/</link>
+      <link>https://tetrachord-dev.github.io/2019/11/28/solar-eclipse-of-the-heart/</link>
       <pubDate>Thu, 28 Nov 2019 12:46:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/11/28/solar-eclipse-of-the-heart/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/11/28/solar-eclipse-of-the-heart/</guid>
       <description>a full circle strange sort of things occuring lately
 attempting to go fully procedural for the planet creation with the help of a great series by Sabastain Lague. in retrospect, even though i have slowly been discovering the many benefits of working procedurally, i didnt exactly know this sort of thing was possible directly in Unity without some sort of third party implementation.</description>
     </item>
     
     <item>
       <title>everybody say hello</title>
-      <link>aaronswindell.com/2019/11/21/everybody-say-hello/</link>
+      <link>https://tetrachord-dev.github.io/2019/11/21/everybody-say-hello/</link>
       <pubDate>Fri, 22 Nov 2019 03:14:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/11/21/everybody-say-hello/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/11/21/everybody-say-hello/</guid>
       <description>bit of a whirlwind lately went from having a mental creativity block to various progress on multiple fronts
 the process is still in progress, but I think I finally figured out how to solve the issues I was having upgrading to the Light Weight Render Pipeline in Unity.</description>
     </item>
     
     <item>
       <title>Houdini modeling practice</title>
-      <link>aaronswindell.com/2019/11/08/houdini-modeling-practice/</link>
+      <link>https://tetrachord-dev.github.io/2019/11/08/houdini-modeling-practice/</link>
       <pubDate>Sat, 09 Nov 2019 02:29:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/11/08/houdini-modeling-practice/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/11/08/houdini-modeling-practice/</guid>
       <description>the Houdini course I&amp;rsquo;m taking on uDemy that I got for free is actually put together really well. the instructor repeatedly drills the same techniques, preformed in slightly different manners and contexts, and goes over every aspect thoroughly&amp;hellip; at least at first.</description>
     </item>
     
     <item>
       <title>first world terrain and player leveling system implemented</title>
-      <link>aaronswindell.com/2019/11/05/first-world-terrain-and-player-leveling-system-implemented/</link>
+      <link>https://tetrachord-dev.github.io/2019/11/05/first-world-terrain-and-player-leveling-system-implemented/</link>
       <pubDate>Tue, 05 Nov 2019 23:14:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/11/05/first-world-terrain-and-player-leveling-system-implemented/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/11/05/first-world-terrain-and-player-leveling-system-implemented/</guid>
       <description>got the seams out of the terrain, just decided &amp;lsquo;eff it and painted them out in Photoshop. what was weird was I still had some kinda seam between the tiles, but a bit of overlap where the tile repeats took care of the job.</description>
     </item>
     
     <item>
       <title>double side tracked</title>
-      <link>aaronswindell.com/2019/11/01/double-side-tracked/</link>
+      <link>https://tetrachord-dev.github.io/2019/11/01/double-side-tracked/</link>
       <pubDate>Sat, 02 Nov 2019 03:11:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/11/01/double-side-tracked/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/11/01/double-side-tracked/</guid>
       <description>i couldn&amp;rsquo;t stand it anymore so i took a brief reprieve from learning Houdini; two days, to be exact. i decided to give myself a midterm of sorts, seeing as I am around halfway through the course.</description>
     </item>
     
     <item>
       <title>skillSet.Enhance();</title>
-      <link>aaronswindell.com/2019/10/24/skillset-enhance/</link>
+      <link>https://tetrachord-dev.github.io/2019/10/24/skillset-enhance/</link>
       <pubDate>Thu, 24 Oct 2019 21:43:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/10/24/skillset-enhance/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/10/24/skillset-enhance/</guid>
       <description>it is getting harder and harder to not feel like i am wasting time here. every day that passes, where i don&amp;rsquo;t touch Unity, feels like a wasted opportunity.
 this seem to zip, whoosh and click when i am programming; but DCC is a completely different animal, almost a hostile one&amp;hellip; a hostile sloth, if there is such a thing.</description>
     </item>
     
     <item>
       <title>new monitors and slight detour</title>
-      <link>aaronswindell.com/2019/10/22/new-monitors-and-slight-detour/</link>
+      <link>https://tetrachord-dev.github.io/2019/10/22/new-monitors-and-slight-detour/</link>
       <pubDate>Wed, 23 Oct 2019 01:24:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/10/22/new-monitors-and-slight-detour/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/10/22/new-monitors-and-slight-detour/</guid>
       <description>the new monitors look great and overall I am happy with my decision to buy them. still getting the proper position and angle nailed down; first time ever having two displays that match, so it kinda feels like i have to shift over, rather than turn my head, if the position isn&amp;rsquo;t just right.</description>
     </item>
     
     <item>
       <title>ordered new equipment and inventory progress</title>
-      <link>aaronswindell.com/2019/10/14/ordered-new-equipment-and-inventory-progress/</link>
+      <link>https://tetrachord-dev.github.io/2019/10/14/ordered-new-equipment-and-inventory-progress/</link>
       <pubDate>Mon, 14 Oct 2019 19:32:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/10/14/ordered-new-equipment-and-inventory-progress/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/10/14/ordered-new-equipment-and-inventory-progress/</guid>
       <description>bought two 27 inch monitors off ebay with eBay earnings.
 tweaked the inventory UI a bit, made the item slot frames thinner by increasing PPU and added equipment type labels to the equipment panel.</description>
     </item>
     
     <item>
       <title>more of the same</title>
-      <link>aaronswindell.com/2019/10/09/more-of-the-same/</link>
+      <link>https://tetrachord-dev.github.io/2019/10/09/more-of-the-same/</link>
       <pubDate>Thu, 10 Oct 2019 01:30:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/10/09/more-of-the-same/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/10/09/more-of-the-same/</guid>
       <description>didnt get much time to work on it today, but i implemented the calculation for player damage dealt to use the new character stats and actually be effected by equipment, so it feels big to be able to hit a character button, equip a weapon and see an immediate increase in damage.</description>
     </item>
     
     <item>
       <title>web presence and inventory integration</title>
-      <link>aaronswindell.com/2019/10/08/web-presence-and-inventory-integration/</link>
+      <link>https://tetrachord-dev.github.io/2019/10/08/web-presence-and-inventory-integration/</link>
       <pubDate>Wed, 09 Oct 2019 02:57:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/10/08/web-presence-and-inventory-integration/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/10/08/web-presence-and-inventory-integration/</guid>
       <description>starting a new once a week commitment to building a web and social media presence for my projects. have officially signed up as a Google Play developer under the name Tetrachord.</description>
     </item>
     
     <item>
       <title>inventory</title>
-      <link>aaronswindell.com/2019/10/04/inventory/</link>
+      <link>https://tetrachord-dev.github.io/2019/10/04/inventory/</link>
       <pubDate>Sat, 05 Oct 2019 01:58:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/10/04/inventory/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/10/04/inventory/</guid>
       <description>things have been really hard going these last few days. I don&amp;rsquo;t know if I am slipping or if the learning curve just ramped itself up. been following an excellent set of lessons and have been trying to refactor and comment a bit as i go; i thought it would help me understand how complex systems like the ones I&amp;rsquo;m used to interacting with in just about every game I like, are created and designed.</description>
     </item>
     
     <item>
       <title>wow</title>
-      <link>aaronswindell.com/2019/09/29/wow/</link>
+      <link>https://tetrachord-dev.github.io/2019/09/29/wow/</link>
       <pubDate>Mon, 30 Sep 2019 01:03:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/09/29/wow/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/09/29/wow/</guid>
       <description>hard day rect transforms and anchors and nested objects</description>
     </item>
     
     <item>
       <title>inventory and character stats work</title>
-      <link>aaronswindell.com/2019/09/28/inventory-and-character-stats-work/</link>
+      <link>https://tetrachord-dev.github.io/2019/09/28/inventory-and-character-stats-work/</link>
       <pubDate>Sun, 29 Sep 2019 00:52:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/09/28/inventory-and-character-stats-work/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/09/28/inventory-and-character-stats-work/</guid>
       <description>been working on the inventory and character stats for about a week now, it is coming along well, but not without some struggle&amp;hellip; i suppose it is always that way.</description>
     </item>
     
     <item>
       <title>more ah-ha</title>
-      <link>aaronswindell.com/2019/09/20/more-ah-ha/</link>
+      <link>https://tetrachord-dev.github.io/2019/09/20/more-ah-ha/</link>
       <pubDate>Fri, 20 Sep 2019 23:05:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/09/20/more-ah-ha/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/09/20/more-ah-ha/</guid>
       <description>scriptable objects, scriptable objects&amp;hellip; holy crap, scriptable objects! how many times have i overlooked articles or videos regarding this topic because i thought i already knew what they were. oh, how wrong i had been.</description>
     </item>
     
     <item>
       <title>health pickup and more; an ah-ha moment</title>
-      <link>aaronswindell.com/2019/09/13/health-pickup-and-more-an-ah-ha-moment/</link>
+      <link>https://tetrachord-dev.github.io/2019/09/13/health-pickup-and-more-an-ah-ha-moment/</link>
       <pubDate>Sat, 14 Sep 2019 02:12:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/09/13/health-pickup-and-more-an-ah-ha-moment/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/09/13/health-pickup-and-more-an-ah-ha-moment/</guid>
       <description>i&amp;rsquo;ve struggled with a lot over the past few days&amp;hellip;actually still a few battles in progress i haven&amp;rsquo;t yet won.
 i want to focus on something good, the sort of ah-ha moment i had sometime after watching a tutorial video mimicking the Mario Odyssey kingdom select menu.</description>
     </item>
     
     <item>
       <title>messing with world map/world select</title>
-      <link>aaronswindell.com/2019/09/09/messing-with-world-map-world-select/</link>
+      <link>https://tetrachord-dev.github.io/2019/09/09/messing-with-world-map-world-select/</link>
       <pubDate>Mon, 09 Sep 2019 04:03:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/09/09/messing-with-world-map-world-select/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/09/09/messing-with-world-map-world-select/</guid>
       <description>lots of headaches trying to follow an online example&amp;hellip; eventually tracked down the culprit accidental - but progress</description>
     </item>
     
     <item>
       <title>setup a high score table</title>
-      <link>aaronswindell.com/2019/09/07/setup-a-high-score-table/</link>
+      <link>https://tetrachord-dev.github.io/2019/09/07/setup-a-high-score-table/</link>
       <pubDate>Sun, 08 Sep 2019 03:58:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/09/07/setup-a-high-score-table/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/09/07/setup-a-high-score-table/</guid>
       <description>topic
 have not implemented yet. took like three days of monkeying around.</description>
     </item>
     
     <item>
       <title>sfx and -2 to do list</title>
-      <link>aaronswindell.com/2019/09/03/sfx-and-2-to-do-list/</link>
+      <link>https://tetrachord-dev.github.io/2019/09/03/sfx-and-2-to-do-list/</link>
       <pubDate>Tue, 03 Sep 2019 20:20:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/09/03/sfx-and-2-to-do-list/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/09/03/sfx-and-2-to-do-list/</guid>
       <description>health bars and damage blinking effect added to all asteroid prefabs. did this really quickly after already finding out mecanim is the easiest route and discovering the power of the Prefab Variant.</description>
     </item>
     
     <item>
       <title>tons of progress :D</title>
-      <link>aaronswindell.com/2019/09/02/tons-of-progress-d/</link>
+      <link>https://tetrachord-dev.github.io/2019/09/02/tons-of-progress-d/</link>
       <pubDate>Tue, 03 Sep 2019 03:38:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/09/02/tons-of-progress-d/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/09/02/tons-of-progress-d/</guid>
       <description>love logs like the one i am about to write. it feels like i got so much done in so little time&amp;hellip; or maybe time has been flying by. woke up at 5 am this morning with my mind itching and have just called it quits.</description>
     </item>
     
     <item>
       <title>more damage/heal progress</title>
-      <link>aaronswindell.com/2019/08/31/more-damage-heal-progress/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/31/more-damage-heal-progress/</link>
       <pubDate>Sat, 31 Aug 2019 20:58:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/31/more-damage-heal-progress/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/31/more-damage-heal-progress/</guid>
       <description>spent most of the day fixing a bug with the damage effects&amp;hellip; think i finally got it sorted out. it was a problem with the way my health tank system works.</description>
     </item>
     
     <item>
       <title>damage/heal function progress</title>
-      <link>aaronswindell.com/2019/08/30/damage-heal-function-progress/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/30/damage-heal-function-progress/</link>
       <pubDate>Sat, 31 Aug 2019 00:15:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/30/damage-heal-function-progress/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/30/damage-heal-function-progress/</guid>
       <description>&amp;ldquo;85% of the time, it works every time.&amp;rdquo; -dev
 idk, where the actual quote is from, but i know the sentiment well. i am reluctant to say the methods are complete because i have thought this to be the case many,many times this week, but they seem to be working&amp;hellip; for now.</description>
     </item>
     
     <item>
       <title>still programming damage/heal functions</title>
-      <link>aaronswindell.com/2019/08/29/still-programming-damage-heal-functions/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/29/still-programming-damage-heal-functions/</link>
       <pubDate>Fri, 30 Aug 2019 02:58:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/29/still-programming-damage-heal-functions/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/29/still-programming-damage-heal-functions/</guid>
       <description>well, its been all week in my case and still not fully working. granted there has been hurricane prep and helping rents get the house refinanced in the time allotment too, but it seems to be taking forever.</description>
     </item>
     
     <item>
       <title>foray into 3D animation in Unity</title>
-      <link>aaronswindell.com/2019/08/23/foray-into-3d-animation-in-unity/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/23/foray-into-3d-animation-in-unity/</link>
       <pubDate>Fri, 23 Aug 2019 21:18:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/23/foray-into-3d-animation-in-unity/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/23/foray-into-3d-animation-in-unity/</guid>
       <description>i have begun the journey&amp;hellip; coming from UDK in college, Unity&amp;rsquo;s implementation of 3D animation pipeline seems light-years ahead of my experience with Unreal, granted this was before Unreal Engine 4.</description>
     </item>
     
     <item>
       <title>uvw and textures bossShip_01 done</title>
-      <link>aaronswindell.com/2019/08/22/uvw-and-textures-bossship_01-done/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/22/uvw-and-textures-bossship_01-done/</link>
       <pubDate>Thu, 22 Aug 2019 23:16:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/22/uvw-and-textures-bossship_01-done/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/22/uvw-and-textures-bossship_01-done/</guid>
       <description>laid out the uv&amp;rsquo;s and textured the base section of the first boss model. really nice how quick this process is nowadays.</description>
     </item>
     
     <item>
       <title>uvw and texture progress on bossShip_01</title>
-      <link>aaronswindell.com/2019/08/21/uvw-and-texture-progress-on-bossship_01/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/21/uvw-and-texture-progress-on-bossship_01/</link>
       <pubDate>Wed, 21 Aug 2019 23:17:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/21/uvw-and-texture-progress-on-bossship_01/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/21/uvw-and-texture-progress-on-bossship_01/</guid>
       <description>kind of a troublesome day&amp;hellip;
 accomplished: laid out the uv&amp;rsquo;s and textured the wing section of the first boss model.
 fights: had some problems early on in the day, everything i exported from zBrush was coming out with fragmented sections of polys.</description>
@@ -650,494 +650,494 @@ fights: had some problems early on in the day, everything i exported from zBrush
     
     <item>
       <title>not finished &gt; no progress</title>
-      <link>aaronswindell.com/2019/08/19/not-finished-no-progress/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/19/not-finished-no-progress/</link>
       <pubDate>Mon, 19 Aug 2019 13:52:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/19/not-finished-no-progress/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/19/not-finished-no-progress/</guid>
       <description>i can&amp;rsquo;t believe its been a week and this model isn&amp;rsquo;t retopologized yet. to be fair, i lost a few days this week to unexpected circumstances, but i really thought it could be done by today and i am still working on topology&amp;hellip; when topology doesn&amp;rsquo;t even matter.</description>
     </item>
     
     <item>
       <title>boss model decimated</title>
-      <link>aaronswindell.com/2019/08/11/boss-model-decimated/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/11/boss-model-decimated/</link>
       <pubDate>Mon, 12 Aug 2019 01:04:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/11/boss-model-decimated/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/11/boss-model-decimated/</guid>
       <description>cannot believe this is all i really got done today! kinda upset about it. was having a lot of issues getting meshes to decimate. they would either disappear or start to blink randomly when viewed from certain angles.</description>
     </item>
     
     <item>
       <title>zBrush painting/sculpting done</title>
-      <link>aaronswindell.com/2019/08/10/zbrush-painting-sculpting-done/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/10/zbrush-painting-sculpting-done/</link>
       <pubDate>Sun, 11 Aug 2019 00:10:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/10/zbrush-painting-sculpting-done/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/10/zbrush-painting-sculpting-done/</guid>
       <description>finished the painting and sculpting i needed to do in zBrush, which wasn&amp;rsquo;t much. my zBrush phase now consists of: vertex painting material IDs for Substance Painter, making sure the various forms and layering of subtools are watertight for retopology in Topogun with the good &amp;lsquo;ol move brush, and lastly, decimating everything into a more bitesized polygon count and merging it all into a single subtool.</description>
     </item>
     
     <item>
       <title>boss (spaceShip_004) high res done</title>
-      <link>aaronswindell.com/2019/08/09/boss-spaceship_004-high-res-done/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/09/boss-spaceship_004-high-res-done/</link>
       <pubDate>Sat, 10 Aug 2019 02:39:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/09/boss-spaceship_004-high-res-done/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/09/boss-spaceship_004-high-res-done/</guid>
       <description>finished the high resolution model for the first boss model and got everything into zBrush and organized into appropriate subtool grouping. this time i am merging more subtools together that are similar/same base color and do not require any additional vertex painting.</description>
     </item>
     
     <item>
       <title>boss high poly modeling almost done</title>
-      <link>aaronswindell.com/2019/08/07/boss-high-poly-modeling-almost-done/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/07/boss-high-poly-modeling-almost-done/</link>
       <pubDate>Thu, 08 Aug 2019 00:07:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/07/boss-high-poly-modeling-almost-done/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/07/boss-high-poly-modeling-almost-done/</guid>
       <description>second day of modeling&amp;hellip; really didn&amp;rsquo;t do much yesterday, but was pretty productive today. always seems like it just takes a bit of time for the form to sink in.</description>
     </item>
     
     <item>
       <title>study and a return to dcc</title>
-      <link>aaronswindell.com/2019/08/06/study-and-a-return-to-dcc/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/06/study-and-a-return-to-dcc/</link>
       <pubDate>Tue, 06 Aug 2019 23:50:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/06/study-and-a-return-to-dcc/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/06/study-and-a-return-to-dcc/</guid>
       <description>didn&amp;rsquo;t do anything yesterday starting to think taking a break every now and again after long periods of perserverence is actually necessary
 today I didn&amp;rsquo;t do much either. spent some time studying up on things i will need to know later, like data persistence and started the first boss model.</description>
     </item>
     
     <item>
       <title>basic framework fully implemented</title>
-      <link>aaronswindell.com/2019/08/04/basic-framework-fully-implemented/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/04/basic-framework-fully-implemented/</link>
       <pubDate>Sun, 04 Aug 2019 23:58:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/04/basic-framework-fully-implemented/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/04/basic-framework-fully-implemented/</guid>
       <description>most of the basic functionality you&amp;rsquo;d expect from a game interface is in place, the modal window is functioning properly and has been customized further to allow for momentary in-game announcements as well.</description>
     </item>
     
     <item>
       <title>modal window done; audio controller implemented</title>
-      <link>aaronswindell.com/2019/08/02/modal-window-done-audio-controller-implemented/</link>
+      <link>https://tetrachord-dev.github.io/2019/08/02/modal-window-done-audio-controller-implemented/</link>
       <pubDate>Sat, 03 Aug 2019 02:15:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/08/02/modal-window-done-audio-controller-implemented/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/08/02/modal-window-done-audio-controller-implemented/</guid>
       <description>the model window is done and seems to be functioning properly. i even adjusted it a bit to allow for an even more generic version with no buttons and just text that i can use for my ready and game over panels.</description>
     </item>
     
     <item>
       <title>working on generic window</title>
-      <link>aaronswindell.com/2019/07/31/working-on-generic-window/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/31/working-on-generic-window/</link>
       <pubDate>Thu, 01 Aug 2019 01:53:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/31/working-on-generic-window/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/31/working-on-generic-window/</guid>
       <description>been working on a generic sort of window/panel for a few days now.</description>
     </item>
     
     <item>
       <title>autofire glitch, really really fixed this time</title>
-      <link>aaronswindell.com/2019/07/29/autofire-glitch-really-really-fixed-this-time/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/29/autofire-glitch-really-really-fixed-this-time/</link>
       <pubDate>Mon, 29 Jul 2019 21:37:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/29/autofire-glitch-really-really-fixed-this-time/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/29/autofire-glitch-really-really-fixed-this-time/</guid>
       <description>i realised that somehow when i thought i fixed my autofire glitch i had going on, i also made the player uncontrollable during the ready phase at the start of each level.</description>
     </item>
     
     <item>
       <title>restless night turned early morning</title>
-      <link>aaronswindell.com/2019/07/29/restless-night-turned-early-morning/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/29/restless-night-turned-early-morning/</link>
       <pubDate>Mon, 29 Jul 2019 11:32:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/29/restless-night-turned-early-morning/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/29/restless-night-turned-early-morning/</guid>
       <description>i felt like i got a good amount done yesterday, so i am not sure why sleep was so elusive last night. i even squashed the automatic fire glitch i was getting upon level restart after player death.</description>
     </item>
     
     <item>
       <title>enemy health bars</title>
-      <link>aaronswindell.com/2019/07/28/enemy-health-bars/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/28/enemy-health-bars/</link>
       <pubDate>Mon, 29 Jul 2019 01:57:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/28/enemy-health-bars/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/28/enemy-health-bars/</guid>
       <description>got the health system working, i think&amp;hellip; or implemented on one enemy at least. really happy about getting it going in one day. there are some really good examples of this online and some really bad ones too, much like everything on the internet i suppose.</description>
     </item>
     
     <item>
       <title>dealt by number</title>
-      <link>aaronswindell.com/2019/07/25/dealt-by-number/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/25/dealt-by-number/</link>
       <pubDate>Thu, 25 Jul 2019 19:22:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/25/dealt-by-number/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/25/dealt-by-number/</guid>
       <description>finally got the damage popup text to work&amp;hellip; was definitely a bit of a struggle. i had to hack together a few different examples i found online and basically get it working my own way.</description>
     </item>
     
     <item>
       <title>added UI sound and audio control</title>
-      <link>aaronswindell.com/2019/07/23/added-ui-sound-and-audio-control/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/23/added-ui-sound-and-audio-control/</link>
       <pubDate>Tue, 23 Jul 2019 17:48:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/23/added-ui-sound-and-audio-control/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/23/added-ui-sound-and-audio-control/</guid>
       <description>i have come to loathe rain&amp;hellip; it means getting no work done until i am able to invest in a larger UPS. wasn&amp;rsquo;t a complete loss of a day though, i did manage to get the audio settings panel hooked up and working.</description>
     </item>
     
     <item>
       <title>small player input upgrade, not sure the UI will ever be done</title>
-      <link>aaronswindell.com/2019/07/20/small-player-input-upgrade-not-sure-the-ui-will-ever-be-done/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/20/small-player-input-upgrade-not-sure-the-ui-will-ever-be-done/</link>
       <pubDate>Sat, 20 Jul 2019 20:43:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/20/small-player-input-upgrade-not-sure-the-ui-will-ever-be-done/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/20/small-player-input-upgrade-not-sure-the-ui-will-ever-be-done/</guid>
       <description>i guess i&amp;rsquo;m making progress, but it feels like i keep fixing the same things over and over again. also feels like there has got to be a more elegant way to accomplish what i am trying to pull off.</description>
     </item>
     
     <item>
       <title>...more UI and Mecanim...</title>
-      <link>aaronswindell.com/2019/07/19/more-ui-and-mecanim/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/19/more-ui-and-mecanim/</link>
       <pubDate>Fri, 19 Jul 2019 22:25:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/19/more-ui-and-mecanim/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/19/more-ui-and-mecanim/</guid>
       <description>i have concluded triggers aren&amp;rsquo;t what i want for displaying UI elements&amp;hellip; at least with my current understanding of them. during my testing i used a single trigger to flip between visibility states and encountered what i now call &amp;ldquo;the double-click problem&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>UI refinement? Mecanim xp? Idk</title>
-      <link>aaronswindell.com/2019/07/17/ui-refinement-mecanim-xp-idk/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/17/ui-refinement-mecanim-xp-idk/</link>
       <pubDate>Wed, 17 Jul 2019 00:27:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/17/ui-refinement-mecanim-xp-idk/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/17/ui-refinement-mecanim-xp-idk/</guid>
       <description>after deciding i needed more research and not knowing where to begin i looked at the Unity Learn pages and read everything I could find on the Animator component and Mecanim.</description>
     </item>
     
     <item>
       <title>need more power</title>
-      <link>aaronswindell.com/2019/07/15/need-more-power/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/15/need-more-power/</link>
       <pubDate>Mon, 15 Jul 2019 20:43:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/15/need-more-power/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/15/need-more-power/</guid>
       <description>spent the entire day hacking away at a solution for fading between scenes and using a loading bar. feeling pretty helpless. created a bunch of problems thinking i know how to code and spent more time trying ideas out than actually getting things done.</description>
     </item>
     
     <item>
       <title>level 1 background music complete</title>
-      <link>aaronswindell.com/2019/07/14/level-1-background-music-complete/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/14/level-1-background-music-complete/</link>
       <pubDate>Sun, 14 Jul 2019 20:34:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/14/level-1-background-music-complete/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/14/level-1-background-music-complete/</guid>
       <description>spent the majority of the day creating a background music loop for the first stage/world of my game. overall, i got this done way faster than i expected and am pleased.</description>
     </item>
     
     <item>
       <title>bare bones menu/pause implemented</title>
-      <link>aaronswindell.com/2019/07/10/bare-bones-menu-pause-implemented/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/10/bare-bones-menu-pause-implemented/</link>
       <pubDate>Wed, 10 Jul 2019 22:30:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/10/bare-bones-menu-pause-implemented/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/10/bare-bones-menu-pause-implemented/</guid>
       <description>i feel like a lot of progress has occured since my last DevLog. i have been working on the menu system for my game and have a rudimentary build already playable on my phone.</description>
     </item>
     
     <item>
       <title>first enemy type finished and began UI</title>
-      <link>aaronswindell.com/2019/07/06/first-enemy-type-finished-and-began-ui/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/06/first-enemy-type-finished-and-began-ui/</link>
       <pubDate>Sat, 06 Jul 2019 20:47:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/06/first-enemy-type-finished-and-began-ui/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/06/first-enemy-type-finished-and-began-ui/</guid>
       <description>decent progress today, finished implementing the first enemy type&amp;hellip; definitely makes the game more difficult, hah.
 i also stated work on the UI, by creating custom 9-sliced sprites i rendered from hi-res geometry made in Maya and composited in Photoshop.</description>
     </item>
     
     <item>
       <title>learnt unity particle system and created engine fx</title>
-      <link>aaronswindell.com/2019/07/05/learnt-unity-particle-system-and-created-engine-fx/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/05/learnt-unity-particle-system-and-created-engine-fx/</link>
       <pubDate>Fri, 05 Jul 2019 08:58:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/05/learnt-unity-particle-system-and-created-engine-fx/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/05/learnt-unity-particle-system-and-created-engine-fx/</guid>
       <description>spent some time learning the Unity particle system Shuriken&amp;hellip; its really not THAT much different from what i was used to from Unreal Engine 3 in college. i created the player and enemy engine fx.</description>
     </item>
     
     <item>
       <title>finished texturing first enemy ship type</title>
-      <link>aaronswindell.com/2019/07/02/finished-texturing-first-enemy-ship-type/</link>
+      <link>https://tetrachord-dev.github.io/2019/07/02/finished-texturing-first-enemy-ship-type/</link>
       <pubDate>Tue, 02 Jul 2019 17:10:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/07/02/finished-texturing-first-enemy-ship-type/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/07/02/finished-texturing-first-enemy-ship-type/</guid>
       <description>textured the entire first enemy ship in less than a day. very impressed with Substance Painter.</description>
     </item>
     
     <item>
       <title>decided to forego Unity&#39;s SRP, at least for this project</title>
-      <link>aaronswindell.com/2019/06/28/decided-to-forego-unitys-srp-at-least-for-this-project/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/28/decided-to-forego-unitys-srp-at-least-for-this-project/</link>
       <pubDate>Fri, 28 Jun 2019 12:05:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/28/decided-to-forego-unitys-srp-at-least-for-this-project/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/28/decided-to-forego-unitys-srp-at-least-for-this-project/</guid>
       <description>being lazy doesn&amp;rsquo;t pay off. i thought i could take a shortcut by using Unity&amp;rsquo;s new LWRP and Shader Graph for animating materials but it turned into a long cut. had nasty lighting seams all over my models.</description>
     </item>
     
     <item>
       <title>finished retopologizing first enemy type</title>
-      <link>aaronswindell.com/2019/06/27/finished-retopologizing-first-enemy-type/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/27/finished-retopologizing-first-enemy-type/</link>
       <pubDate>Thu, 27 Jun 2019 23:18:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/27/finished-retopologizing-first-enemy-type/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/27/finished-retopologizing-first-enemy-type/</guid>
       <description>so, i guess you really do need containing edges everywhere you have an extreme angle. this second ship, i went a little less liberal with the edge count and i wound up with projection errors.</description>
     </item>
     
     <item>
       <title>began first enemy ship type model</title>
-      <link>aaronswindell.com/2019/06/23/began-first-enemy-ship-type-model/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/23/began-first-enemy-ship-type-model/</link>
       <pubDate>Sun, 23 Jun 2019 11:53:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/23/began-first-enemy-ship-type-model/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/23/began-first-enemy-ship-type-model/</guid>
       <description>i have begun work on the first of what will probably be many enemy spaceship models.
 it always takes longer than expected. i thought this would be a simple one, but working with only an aerial reference leads to quite a lot of figuring in the other two dimensions.</description>
     </item>
     
     <item>
       <title>joystick controller sprite finished</title>
-      <link>aaronswindell.com/2019/06/19/joystick-controller-sprite-finished/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/19/joystick-controller-sprite-finished/</link>
       <pubDate>Wed, 19 Jun 2019 13:35:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/19/joystick-controller-sprite-finished/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/19/joystick-controller-sprite-finished/</guid>
       <description>took longer than i would have expected to generate the user interface sprites for the movement controller in my game, but it is done and it works well.
 i rendered it from 3D in Maya to make it look nice and consequently had to learn some of the new nodes the Arnold renderer uses.</description>
     </item>
     
     <item>
       <title>decided to test game with proper builds as opposed to Unity Remote</title>
-      <link>aaronswindell.com/2019/06/17/decided-to-test-game-with-proper-builds-as-opposed-to-unity-remote/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/17/decided-to-test-game-with-proper-builds-as-opposed-to-unity-remote/</link>
       <pubDate>Mon, 17 Jun 2019 19:24:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/17/decided-to-test-game-with-proper-builds-as-opposed-to-unity-remote/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/17/decided-to-test-game-with-proper-builds-as-opposed-to-unity-remote/</guid>
       <description>for whatever reason, getting the editor to see my device (Pixel 2) on the Unity Remote app is a bit clumsy, at best. i&amp;rsquo;m not really too sure how i even got it to work.</description>
     </item>
     
     <item>
       <title>tried like hell to test mobile input using Unity Remote</title>
-      <link>aaronswindell.com/2019/06/16/tried-like-hell-to-test-mobile-input-using-unity-remote/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/16/tried-like-hell-to-test-mobile-input-using-unity-remote/</link>
       <pubDate>Sun, 16 Jun 2019 20:19:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/16/tried-like-hell-to-test-mobile-input-using-unity-remote/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/16/tried-like-hell-to-test-mobile-input-using-unity-remote/</guid>
       <description>so, i went through a bit of an ordeal setting up Unity Remote, i wanted to test out the mobile controls i have been working on for the game on an actual touchscreen device.</description>
     </item>
     
     <item>
       <title>nailed down importing FBX files with PBR textures pre-attached into Unity</title>
-      <link>aaronswindell.com/2019/06/16/nailed-down-importing-fbx-files-with-pbr-textures-pre-attached-into-unity/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/16/nailed-down-importing-fbx-files-with-pbr-textures-pre-attached-into-unity/</link>
       <pubDate>Sun, 16 Jun 2019 06:07:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/16/nailed-down-importing-fbx-files-with-pbr-textures-pre-attached-into-unity/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/16/nailed-down-importing-fbx-files-with-pbr-textures-pre-attached-into-unity/</guid>
       <description>extensive sleep alluded me i think i figured out the whole importing into unity with embedded materials thing
 save the textures into the unity project with the same name (convention?) first.</description>
     </item>
     
     <item>
       <title>research</title>
-      <link>aaronswindell.com/2019/06/12/research/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/12/research/</link>
       <pubDate>Wed, 12 Jun 2019 21:42:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/12/research/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/12/research/</guid>
       <description>been doing a lot of inadvertent research into newer character production pipelines than i am familiar with. i feel i have been stagnant for too long and my workflow was possibly dated before i learnt it in college, so progress is progress.</description>
     </item>
     
     <item>
       <title>what&#39;s in the cage?</title>
-      <link>aaronswindell.com/2019/06/11/whats-in-the-cage/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/11/whats-in-the-cage/</link>
       <pubDate>Tue, 11 Jun 2019 09:33:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/11/whats-in-the-cage/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/11/whats-in-the-cage/</guid>
       <description>had a little problem trying a new technique that seemed solid beforehand. i needed some asteroids for the project so, thinking it would be a fairly simple model, i thought to try a little change-up in my workflow in attempt to expedite the process.</description>
     </item>
     
     <item>
       <title>booyah achieved</title>
-      <link>aaronswindell.com/2019/06/05/booyah-achieved/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/05/booyah-achieved/</link>
       <pubDate>Wed, 05 Jun 2019 10:30:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/05/booyah-achieved/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/05/booyah-achieved/</guid>
       <description>unless ive done something wrong in my testing; which is quite possible, it is not only unnecessary but will yield poorer results to not utilize mikktspace inside unity.
 to summarize, for my own notes:</description>
     </item>
     
     <item>
       <title>testing, testing; 1, 2, 3...</title>
-      <link>aaronswindell.com/2019/06/04/testing-testing-1-2-3/</link>
+      <link>https://tetrachord-dev.github.io/2019/06/04/testing-testing-1-2-3/</link>
       <pubDate>Tue, 04 Jun 2019 13:57:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/06/04/testing-testing-1-2-3/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/06/04/testing-testing-1-2-3/</guid>
       <description>been doing a series of tests regarding how to properly compute tangents between unity and substance painter.
 thought i had everything figured out until i realized some information i was referencing was slightly out of date.</description>
     </item>
     
     <item>
       <title>installing...</title>
-      <link>aaronswindell.com/2019/05/09/installing/</link>
+      <link>https://tetrachord-dev.github.io/2019/05/09/installing/</link>
       <pubDate>Thu, 09 May 2019 18:51:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/05/09/installing/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/05/09/installing/</guid>
       <description>got os and all production software up and running</description>
     </item>
     
     <item>
       <title>new hardware</title>
-      <link>aaronswindell.com/2019/05/07/new-hardware/</link>
+      <link>https://tetrachord-dev.github.io/2019/05/07/new-hardware/</link>
       <pubDate>Tue, 07 May 2019 14:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/05/07/new-hardware/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/05/07/new-hardware/</guid>
       <description>it has arrived&amp;hellip;</description>
     </item>
     
     <item>
       <title>ordered new pc</title>
-      <link>aaronswindell.com/2019/05/01/ordered-new-pc/</link>
+      <link>https://tetrachord-dev.github.io/2019/05/01/ordered-new-pc/</link>
       <pubDate>Wed, 01 May 2019 11:54:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/05/01/ordered-new-pc/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/05/01/ordered-new-pc/</guid>
       <description>good deal on newegg</description>
     </item>
     
     <item>
       <title>not feeling it</title>
-      <link>aaronswindell.com/2019/04/24/not-feeling-it/</link>
+      <link>https://tetrachord-dev.github.io/2019/04/24/not-feeling-it/</link>
       <pubDate>Wed, 24 Apr 2019 10:56:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/04/24/not-feeling-it/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/04/24/not-feeling-it/</guid>
       <description>spaceship redo, new reference</description>
     </item>
     
     <item>
       <title>spaceship model</title>
-      <link>aaronswindell.com/2019/04/09/spaceship-model/</link>
+      <link>https://tetrachord-dev.github.io/2019/04/09/spaceship-model/</link>
       <pubDate>Tue, 09 Apr 2019 12:03:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/04/09/spaceship-model/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/04/09/spaceship-model/</guid>
       <description>begins</description>
     </item>
     
     <item>
       <title>enter the third dimension</title>
-      <link>aaronswindell.com/2019/04/08/enter-the-third-dimension/</link>
+      <link>https://tetrachord-dev.github.io/2019/04/08/enter-the-third-dimension/</link>
       <pubDate>Mon, 08 Apr 2019 19:19:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/04/08/enter-the-third-dimension/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/04/08/enter-the-third-dimension/</guid>
       <description>maya 2019 installed on RHEL7</description>
     </item>
     
     <item>
       <title>dual booted</title>
-      <link>aaronswindell.com/2019/04/08/dual-booted/</link>
+      <link>https://tetrachord-dev.github.io/2019/04/08/dual-booted/</link>
       <pubDate>Mon, 08 Apr 2019 16:09:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/04/08/dual-booted/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/04/08/dual-booted/</guid>
       <description>RHEL7 installed</description>
     </item>
     
     <item>
       <title>dual booting linux</title>
-      <link>aaronswindell.com/2019/04/04/dual-booting-linux/</link>
+      <link>https://tetrachord-dev.github.io/2019/04/04/dual-booting-linux/</link>
       <pubDate>Thu, 04 Apr 2019 09:50:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/04/04/dual-booting-linux/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/04/04/dual-booting-linux/</guid>
       <description>Ubuntu and RHEL7</description>
     </item>
     
     <item>
       <title>hardware limitations</title>
-      <link>aaronswindell.com/2019/01/20/hardware-limitations/</link>
+      <link>https://tetrachord-dev.github.io/2019/01/20/hardware-limitations/</link>
       <pubDate>Sun, 20 Jan 2019 10:19:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2019/01/20/hardware-limitations/</guid>
+      <guid>https://tetrachord-dev.github.io/2019/01/20/hardware-limitations/</guid>
       <description>burnt laptop from college working on less than ideal machine no windows, using ubuntu alternative software for linux got unity first, tried blender</description>
     </item>
     
     <item>
       <title>proclamation</title>
-      <link>aaronswindell.com/2018/11/15/proclamation/</link>
+      <link>https://tetrachord-dev.github.io/2018/11/15/proclamation/</link>
       <pubDate>Thu, 15 Nov 2018 10:17:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2018/11/15/proclamation/</guid>
+      <guid>https://tetrachord-dev.github.io/2018/11/15/proclamation/</guid>
       <description>ive decided to make a game.</description>
     </item>
     
     <item>
       <title>rough estimate</title>
-      <link>aaronswindell.com/2016/05/10/rough-estimate/</link>
+      <link>https://tetrachord-dev.github.io/2016/05/10/rough-estimate/</link>
       <pubDate>Tue, 10 May 2016 11:36:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/2016/05/10/rough-estimate/</guid>
+      <guid>https://tetrachord-dev.github.io/2016/05/10/rough-estimate/</guid>
       <description>this is when i believe i began studying up on contemporary programing and implementation. i downloaded a pdf (head first c#) and downloaded visual studio to my mother&amp;rsquo;s laptop after my college workhorse started having issues.</description>
     </item>
     
     <item>
       <title>Aaron McKinley Swindell</title>
-      <link>aaronswindell.com/author/john-doe/</link>
+      <link>https://tetrachord-dev.github.io/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/author/john-doe/</guid>
+      <guid>https://tetrachord-dev.github.io/author/john-doe/</guid>
       <description>Start talking.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>aaronswindell.com/blog/_example/</link>
+      <link>https://tetrachord-dev.github.io/blog/_example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/blog/_example/</guid>
+      <guid>https://tetrachord-dev.github.io/blog/_example/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>aaronswindell.com/author/mark-dinn/</link>
+      <link>https://tetrachord-dev.github.io/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/author/mark-dinn/</guid>
+      <guid>https://tetrachord-dev.github.io/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
       <title>Rio Furniture</title>
-      <link>aaronswindell.com/project/rio-furniture-1/</link>
+      <link>https://tetrachord-dev.github.io/project/rio-furniture-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/project/rio-furniture-1/</guid>
+      <guid>https://tetrachord-dev.github.io/project/rio-furniture-1/</guid>
       <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
     </item>
     
     <item>
       <title>Rio Furniture</title>
-      <link>aaronswindell.com/project/rio-furniture-2/</link>
+      <link>https://tetrachord-dev.github.io/project/rio-furniture-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/project/rio-furniture-2/</guid>
+      <guid>https://tetrachord-dev.github.io/project/rio-furniture-2/</guid>
       <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
     </item>
     
     <item>
       <title>Rio Furniture</title>
-      <link>aaronswindell.com/project/rio-furniture-3/</link>
+      <link>https://tetrachord-dev.github.io/project/rio-furniture-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/project/rio-furniture-3/</guid>
+      <guid>https://tetrachord-dev.github.io/project/rio-furniture-3/</guid>
       <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
     </item>
     
     <item>
       <title>Rio Furniture</title>
-      <link>aaronswindell.com/project/rio-furniture-4/</link>
+      <link>https://tetrachord-dev.github.io/project/rio-furniture-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/project/rio-furniture-4/</guid>
+      <guid>https://tetrachord-dev.github.io/project/rio-furniture-4/</guid>
       <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
     </item>
     
     <item>
       <title>Rio Furniture</title>
-      <link>aaronswindell.com/project/rio-furniture-5/</link>
+      <link>https://tetrachord-dev.github.io/project/rio-furniture-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/project/rio-furniture-5/</guid>
+      <guid>https://tetrachord-dev.github.io/project/rio-furniture-5/</guid>
       <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
     </item>
     
     <item>
       <title>Rio Furniture</title>
-      <link>aaronswindell.com/project/rio-furniture-6/</link>
+      <link>https://tetrachord-dev.github.io/project/rio-furniture-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>aaronswindell.com/project/rio-furniture-6/</guid>
+      <guid>https://tetrachord-dev.github.io/project/rio-furniture-6/</guid>
       <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
     </item>
     
