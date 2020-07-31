@@ -638,17 +638,7 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/author/john-doe/"
-                />
+    <loc>https://aaronswindell.com/author/aaron-swindell/</loc>
   </url>
   
   <url>
@@ -666,17 +656,7 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/tags/advice/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/tags/advice/"
-                />
+    <loc>https://aaronswindell.com/project/video-2/</loc>
   </url>
   
   <url>
@@ -694,6 +674,10 @@
   </url>
   
   <url>
+    <loc>https://aaronswindell.com/project/camaro/</loc>
+  </url>
+  
+  <url>
     <loc>https://aaronswindell.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -704,20 +688,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aaronswindell.com/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/categories/company-news/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/categories/company-news/"
                 />
   </url>
   
@@ -750,21 +720,47 @@
   </url>
   
   <url>
+    <loc>https://aaronswindell.com/project/video-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/project/figure-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/project/figure-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/project/figure-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/project/figure-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/project/figure-5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/project/figure-6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/project/figure-7/</loc>
+  </url>
+  
+  <url>
     <loc>https://aaronswindell.com/blog/_example/</loc>
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/author/mark-dinn/"
-                />
+    <loc>https://aaronswindell.com/project/hydra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/project/kiley/</loc>
   </url>
   
   <url>
@@ -792,104 +788,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aaronswindell.com/pricing/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/rio-furniture-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/project/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/rio-furniture-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/project/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/rio-furniture-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/project/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/rio-furniture-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/project/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/rio-furniture-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/project/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/rio-furniture-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/tags/technology/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/tags/technology/"
                 />
   </url>
   
