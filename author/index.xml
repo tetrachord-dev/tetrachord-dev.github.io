@@ -13,20 +13,11 @@
     
     <item>
       <title>Aaron McKinley Swindell</title>
-      <link>https://aaronswindell.com/author/john-doe/</link>
+      <link>https://aaronswindell.com/author/aaron-swindell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronswindell.com/author/john-doe/</guid>
+      <guid>https://aaronswindell.com/author/aaron-swindell/</guid>
       <description>Start talking.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://aaronswindell.com/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
   </channel>

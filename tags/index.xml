@@ -21,23 +21,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Advice</title>
-      <link>https://aaronswindell.com/tags/advice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/tags/advice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://aaronswindell.com/tags/technology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/tags/technology/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
