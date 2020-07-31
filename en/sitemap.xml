@@ -639,6 +639,16 @@
   
   <url>
     <loc>https://aaronswindell.com/author/aaron-swindell/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/author/aaron-swindell/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/author/aaron-swindell/"
+                />
   </url>
   
   <url>
@@ -657,6 +667,16 @@
   
   <url>
     <loc>https://aaronswindell.com/project/video-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/video-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/video-2/"
+                />
   </url>
   
   <url>
@@ -675,6 +695,16 @@
   
   <url>
     <loc>https://aaronswindell.com/project/camaro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/camaro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/camaro/"
+                />
   </url>
   
   <url>
@@ -721,34 +751,114 @@
   
   <url>
     <loc>https://aaronswindell.com/project/video-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/video-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/video-1/"
+                />
   </url>
   
   <url>
     <loc>https://aaronswindell.com/project/figure-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-1/"
+                />
   </url>
   
   <url>
     <loc>https://aaronswindell.com/project/figure-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-2/"
+                />
   </url>
   
   <url>
     <loc>https://aaronswindell.com/project/figure-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-3/"
+                />
   </url>
   
   <url>
     <loc>https://aaronswindell.com/project/figure-4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-4/"
+                />
   </url>
   
   <url>
     <loc>https://aaronswindell.com/project/figure-5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-5/"
+                />
   </url>
   
   <url>
     <loc>https://aaronswindell.com/project/figure-6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-6/"
+                />
   </url>
   
   <url>
     <loc>https://aaronswindell.com/project/figure-7/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-7/"
+                />
   </url>
   
   <url>
@@ -757,10 +867,30 @@
   
   <url>
     <loc>https://aaronswindell.com/project/hydra/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/hydra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/hydra/"
+                />
   </url>
   
   <url>
     <loc>https://aaronswindell.com/project/kiley/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/kiley/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/kiley/"
+                />
   </url>
   
   <url>

@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://aaronswindell.com/fr/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://aaronswindell.com/fr/faq/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,146 +33,16 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/fr/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/tags/ai/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/tags/android/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/categories/artificial-intelligence/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/categories/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>https://aaronswindell.com/fr/author/aaron-swindell/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aaronswindell.com/categories/"
+                href="https://aaronswindell.com/author/aaron-swindell/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://aaronswindell.com/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/tags/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/about/"
+                href="https://aaronswindell.com/fr/author/aaron-swindell/"
                 />
   </url>
   
@@ -191,6 +61,48 @@
   </url>
   
   <url>
+    <loc>https://aaronswindell.com/fr/project/video-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/video-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/video-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/camaro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/camaro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/camaro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aaronswindell.com/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -205,11 +117,157 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/fr/author/john-doe/</loc>
+    <loc>https://aaronswindell.com/fr/project/figure-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-1/"
+                />
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/fr/author/mark-dinn/</loc>
+    <loc>https://aaronswindell.com/fr/project/figure-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/figure-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/figure-4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/figure-5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-5/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/figure-6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-6/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/figure-7/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-7/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/video-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/video-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/video-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/hydra/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/hydra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/hydra/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/project/kiley/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/kiley/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/kiley/"
+                />
   </url>
   
   <url>
@@ -241,30 +299,6 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/fr/project/rio-furniture-1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/rio-furniture-2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/rio-furniture-3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/rio-furniture-4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/rio-furniture-5/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/rio-furniture-6/</loc>
-  </url>
-  
-  <url>
     <loc>https://aaronswindell.com/fr/service/</loc>
     <xhtml:link
                 rel="alternate"
@@ -275,6 +309,34 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/about/"
                 />
   </url>
   
