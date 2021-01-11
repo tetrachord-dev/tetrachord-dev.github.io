@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>note to self on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/note-to-self/</link>
+    <description>Recent content in note to self on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Fri, 23 Oct 2020 18:27:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/note-to-self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hey self</title>
+      <link>https://aaronswindell.com/2020/10/23/hey-self/</link>
+      <pubDate>Fri, 23 Oct 2020 18:27:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/23/hey-self/</guid>
+      <description>note to self: all hell breaks loose on title and map if the LevelComplete animator parameter is set to displayed i wonder why?</description>
+    </item>
+    
+  </channel>
+</rss>

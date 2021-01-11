@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zbrush on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/zbrush/</link>
+    <description>Recent content in zbrush on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 31 Dec 2020 23:31:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/zbrush/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deja poo</title>
+      <link>https://aaronswindell.com/2020/12/31/deja-poo/</link>
+      <pubDate>Thu, 31 Dec 2020 23:31:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/31/deja-poo/</guid>
+      <description>almost finished the final low resolution model within the year, tired of clicking. gonna look back and see what i was working on a year ago, exactly. hopefully doesn&amp;rsquo;t make me too sad, hahah</description>
+    </item>
+    
+    <item>
+      <title>progresso?</title>
+      <link>https://aaronswindell.com/2020/12/29/progresso/</link>
+      <pubDate>Tue, 29 Dec 2020 23:05:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/29/progresso/</guid>
+      <description>finished the hummingbirds course. also completed the decimation/export process from zBrush and got the low-res model going. managed to use some of the old topology from spaceShip 5, so have a decent start not sure why i feel like i didn&amp;rsquo;t do anything, that sounds productive doesn&amp;rsquo;t it?</description>
+    </item>
+    
+    <item>
+      <title>boss 2 zBrush complete</title>
+      <link>https://aaronswindell.com/2020/12/24/boss-2-zbrush-complete/</link>
+      <pubDate>Thu, 24 Dec 2020 20:42:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/24/boss-2-zbrush-complete/</guid>
+      <description>finished the hi-res painting and sculpting for the second boss ship model. i have gotten a decent collection of generic alpha shapes over the course of this project and am getting used to using zremesher on everything i need to paint on monday i plan to decimate the model and begin topology construction to get the poly count of the final low-res mesh as low as possible.</description>
+    </item>
+    
+    <item>
+      <title>unwritten words</title>
+      <link>https://aaronswindell.com/2020/11/02/unwritten-words/</link>
+      <pubDate>Tue, 03 Nov 2020 01:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/11/02/unwritten-words/</guid>
+      <description>i think i need to start documenting more things in this log&amp;hellip;
+working on the second terrain and i realised i couldn&amp;rsquo;t really remember the exact workflow i used, just a couple notes on the polygon count that were actually misleading after digging into the old project files.</description>
+    </item>
+    
+    <item>
+      <title>shrimp on shrimp action</title>
+      <link>https://aaronswindell.com/2020/08/14/shrimp-on-shrimp-action/</link>
+      <pubDate>Sat, 15 Aug 2020 01:16:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/14/shrimp-on-shrimp-action/</guid>
+      <description>with the majority of yesterday lost to thunder and a surprise visitor, it was somewhat annoying to have another thunderous day in south Florida. i ended up back on track rather than ahead of schedule.</description>
+    </item>
+    
+    <item>
+      <title>the latest in shrimp tech</title>
+      <link>https://aaronswindell.com/2020/08/12/the-latest-in-shrimp-tech/</link>
+      <pubDate>Thu, 13 Aug 2020 00:14:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/12/the-latest-in-shrimp-tech/</guid>
+      <description>still a few more details to sculpt before painting the vertex color tomorrow and decimating for export. should be able to get it done and start retopolgising Friday, putting me about a day ahead of my schedule&amp;hellip; still don&amp;rsquo;t see having it done quicker than my normal two weeks, but meh</description>
+    </item>
+    
+    <item>
+      <title>seemingly on track</title>
+      <link>https://aaronswindell.com/2020/08/12/seemingly-on-track/</link>
+      <pubDate>Wed, 12 Aug 2020 19:17:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/12/seemingly-on-track/</guid>
+      <description>got the ship into zBrush and have started remeshing the pieces i need to sculpt/paint on; the sound of looming thunder has thwarted my progress once more, for now. i can definitely feel my years of experience paying off with zBrush.</description>
+    </item>
+    
+  </channel>
+</rss>

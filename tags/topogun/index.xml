@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>topogun on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/topogun/</link>
+    <description>Recent content in topogun on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Mon, 04 Jan 2021 03:57:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/topogun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>boss ship 2 initial topology done</title>
+      <link>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</link>
+      <pubDate>Mon, 04 Jan 2021 03:57:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</guid>
+      <description>still need to get the count down a bit and lay out the UVs in Maya, then texture and a tiny bit of rigging</description>
+    </item>
+    
+    <item>
+      <title>deja poo</title>
+      <link>https://aaronswindell.com/2020/12/31/deja-poo/</link>
+      <pubDate>Thu, 31 Dec 2020 23:31:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/31/deja-poo/</guid>
+      <description>almost finished the final low resolution model within the year, tired of clicking. gonna look back and see what i was working on a year ago, exactly. hopefully doesn&amp;rsquo;t make me too sad, hahah</description>
+    </item>
+    
+    <item>
+      <title>progresso?</title>
+      <link>https://aaronswindell.com/2020/12/29/progresso/</link>
+      <pubDate>Tue, 29 Dec 2020 23:05:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/29/progresso/</guid>
+      <description>finished the hummingbirds course. also completed the decimation/export process from zBrush and got the low-res model going. managed to use some of the old topology from spaceShip 5, so have a decent start not sure why i feel like i didn&amp;rsquo;t do anything, that sounds productive doesn&amp;rsquo;t it?</description>
+    </item>
+    
+    <item>
+      <title>retopologizing day 3</title>
+      <link>https://aaronswindell.com/2020/08/20/retopologizing-day-3/</link>
+      <pubDate>Thu, 20 Aug 2020 12:23:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/20/retopologizing-day-3/</guid>
+      <description>i am writing this the morning of the fourth day actually, topology always takes more time than i plan for. i managed to get the model itself done, but it is still lacking UVWs the plan for today is just to get them done, maybe i will make it as far as to bring the model into substance painter to bake the base maps and check for projection errors.</description>
+    </item>
+    
+    <item>
+      <title>retopologizing day 2</title>
+      <link>https://aaronswindell.com/2020/08/19/retopologizing-day-2/</link>
+      <pubDate>Wed, 19 Aug 2020 17:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/19/retopologizing-day-2/</guid>
+      <description>currently stopped again from thunder, model approximately 2/3 done. i wonder how much concern is warranted and how much is paranoia in regard to lightning frying electronics i keep reminding myself to just get the mesh out as quickly as possible and that i will still optimize it in maya before laying out the UVW, but it is hard to altogether keep myself from considering topology.</description>
+    </item>
+    
+    <item>
+      <title>retopologizing day 1</title>
+      <link>https://aaronswindell.com/2020/08/18/retopologizing-day-1/</link>
+      <pubDate>Tue, 18 Aug 2020 23:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/18/retopologizing-day-1/</guid>
+      <description>didn&amp;rsquo;t have a ton of time to work today, about a third of the way through the model spent yesterday decimating everything and exporting different detail levels from zBrush</description>
+    </item>
+    
+  </channel>
+</rss>
