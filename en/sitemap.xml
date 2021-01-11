@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://aaronswindell.com/</loc>
-    <lastmod>2020-07-21T02:29:00+00:00</lastmod>
+    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/2020/07/20/almost/</loc>
-    <lastmod>2020-07-21T02:29:00+00:00</lastmod>
+    <loc>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</loc>
+    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronswindell.com/blog/</loc>
-    <lastmod>2020-07-21T02:29:00+00:00</lastmod>
+    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -35,6 +35,291 @@
                 hreflang="en"
                 href="https://aaronswindell.com/blog/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/maya/</loc>
+    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/</loc>
+    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/topogun/</loc>
+    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/12/31/deja-poo/</loc>
+    <lastmod>2020-12-31T23:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/zbrush/</loc>
+    <lastmod>2020-12-31T23:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/12/29/progresso/</loc>
+    <lastmod>2020-12-29T23:05:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/12/24/boss-2-zbrush-complete/</loc>
+    <lastmod>2020-12-24T20:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/photoshop/</loc>
+    <lastmod>2020-12-24T20:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/12/18/boss-2-sub-d-complete/</loc>
+    <lastmod>2020-12-18T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/artificial-intelligence/</loc>
+    <lastmod>2020-12-18T01:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/c-sharp/</loc>
+    <lastmod>2020-12-18T01:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/12/17/hello-machines/</loc>
+    <lastmod>2020-12-18T01:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/ml-agents/</loc>
+    <lastmod>2020-12-18T01:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/unity/</loc>
+    <lastmod>2020-12-18T01:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/12/15/create-learn/</loc>
+    <lastmod>2020-12-16T00:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/machine-learning/</loc>
+    <lastmod>2020-12-16T00:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/12/06/long-time-no-production/</loc>
+    <lastmod>2020-12-07T01:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/physx/</loc>
+    <lastmod>2020-12-07T01:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/11/16/homerun/</loc>
+    <lastmod>2020-11-17T03:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/houdini/</loc>
+    <lastmod>2020-11-03T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/substance/</loc>
+    <lastmod>2020-11-03T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/terrain/</loc>
+    <lastmod>2020-11-03T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/11/02/unwritten-words/</loc>
+    <lastmod>2020-11-03T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/26/dressed-like-a-cat/</loc>
+    <lastmod>2020-10-27T01:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/23/level-complete-2-0/</loc>
+    <lastmod>2020-10-24T01:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/23/hey-self/</loc>
+    <lastmod>2020-10-23T18:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/note-to-self/</loc>
+    <lastmod>2020-10-23T18:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/21/consumption-function-wtf-tion/</loc>
+    <lastmod>2020-10-21T21:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/editor/</loc>
+    <lastmod>2020-10-20T01:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/19/make-it-make-more-sense/</loc>
+    <lastmod>2020-10-20T01:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/15/creative-angst/</loc>
+    <lastmod>2020-10-15T12:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/research/</loc>
+    <lastmod>2020-10-15T12:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/12/terrestrial-research/</loc>
+    <lastmod>2020-10-13T01:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/03/little-bit-of-saturday-work/</loc>
+    <lastmod>2020-10-03T15:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/10/02/shop-alpha-and-item-use/</loc>
+    <lastmod>2020-10-03T01:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/09/26/help-i-cant-count/</loc>
+    <lastmod>2020-09-27T00:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</loc>
+    <lastmod>2020-09-20T23:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/ui/</loc>
+    <lastmod>2020-09-20T23:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/09/14/shop-system-buy-interface/</loc>
+    <lastmod>2020-09-15T02:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/painter/</loc>
+    <lastmod>2020-08-31T20:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/31/the-late-bird-gets-the-shrimp/</loc>
+    <lastmod>2020-08-31T20:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/25/project-woe/</loc>
+    <lastmod>2020-08-25T17:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/projection/</loc>
+    <lastmod>2020-08-25T17:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/20/retopologizing-day-3/</loc>
+    <lastmod>2020-08-20T12:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/19/retopologizing-day-2/</loc>
+    <lastmod>2020-08-19T17:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/18/retopologizing-day-1/</loc>
+    <lastmod>2020-08-18T23:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/14/shrimp-on-shrimp-action/</loc>
+    <lastmod>2020-08-15T01:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/12/the-latest-in-shrimp-tech/</loc>
+    <lastmod>2020-08-13T00:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/12/seemingly-on-track/</loc>
+    <lastmod>2020-08-12T19:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/11/shrimp-progress/</loc>
+    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/10/world-2-shrimp/</loc>
+    <lastmod>2020-08-11T02:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/06/website-and-demo-live/</loc>
+    <lastmod>2020-08-06T23:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/05/great-forbode/</loc>
+    <lastmod>2020-08-05T18:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/08/03/the-little-shrimps/</loc>
+    <lastmod>2020-08-03T21:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2020/07/20/almost/</loc>
+    <lastmod>2020-07-21T02:29:00+00:00</lastmod>
   </url>
   
   <url>
@@ -233,11 +518,6 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/2019/12/22/rd-2/</loc>
-    <lastmod>2019-12-22T16:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aaronswindell.com/2019/12/22/rd/</loc>
     <lastmod>2019-12-22T16:39:00+00:00</lastmod>
   </url>
@@ -275,21 +555,6 @@
   <url>
     <loc>https://aaronswindell.com/2019/11/28/solar-eclipse-of-the-heart/</loc>
     <lastmod>2019-11-28T12:46:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/tags/</loc>
-    <lastmod>2019-11-28T12:46:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/tags/"
-                />
   </url>
   
   <url>

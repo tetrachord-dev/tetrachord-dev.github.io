@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photoshop on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/photoshop/</link>
+    <description>Recent content in photoshop on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 24 Dec 2020 20:42:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>boss 2 zBrush complete</title>
+      <link>https://aaronswindell.com/2020/12/24/boss-2-zbrush-complete/</link>
+      <pubDate>Thu, 24 Dec 2020 20:42:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/24/boss-2-zbrush-complete/</guid>
+      <description>finished the hi-res painting and sculpting for the second boss ship model. i have gotten a decent collection of generic alpha shapes over the course of this project and am getting used to using zremesher on everything i need to paint on monday i plan to decimate the model and begin topology construction to get the poly count of the final low-res mesh as low as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

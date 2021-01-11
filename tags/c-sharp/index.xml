@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c-sharp on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/c-sharp/</link>
+    <description>Recent content in c-sharp on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Fri, 18 Dec 2020 01:29:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello machines</title>
+      <link>https://aaronswindell.com/2020/12/17/hello-machines/</link>
+      <pubDate>Fri, 18 Dec 2020 01:29:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/17/hello-machines/</guid>
+      <description>i guess the machine learning seminar i took got me thinking started playing with the ML-Agents package in Unity. idk if I am hoping I can somehow program robots to finish the game for me, or if I am just bored and needed some new influx of input it is definitely intriguing and I&amp;rsquo;m surprised how quickly the agents could outperform me.</description>
+    </item>
+    
+    <item>
+      <title>create &#43; learn</title>
+      <link>https://aaronswindell.com/2020/12/15/create-learn/</link>
+      <pubDate>Wed, 16 Dec 2020 00:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/15/create-learn/</guid>
+      <description>been working on the boss ship 2 model, hi-res almost done changed out my learning.regiment from Unity&amp;rsquo;s artificial intelligence course to an intro to the ML-Agents package, the hummingbirds. it seems to incorporate new solutions to traditional AI problems, which should keep my brain seeking and growing, while potentially finding some new behavior for an enemy or possibly balancing out some mechanics for the game time will tell, but i feel the influx of new ideas, practices and technologies to be crucial to developing</description>
+    </item>
+    
+    <item>
+      <title>long time, no production</title>
+      <link>https://aaronswindell.com/2020/12/06/long-time-no-production/</link>
+      <pubDate>Mon, 07 Dec 2020 01:04:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/06/long-time-no-production/</guid>
+      <description>i feel like i&amp;rsquo;ve lost weeks! in actuality, it&amp;rsquo;s probably been about a week&amp;hellip; in total, over the course of several weeks, but i still feel behind i&amp;rsquo;ve done numerous things and added functionality that has been on my list for a long time, but i feel like i&amp;rsquo;m really just avoiding the most pressing concern of modeling more stuff, namely the second boss i did add models for different ore items for selling and did some further delving into the shader graph, to get a more appealing metallic material with just a bit of fresnel from the graph.</description>
+    </item>
+    
+    <item>
+      <title>homerun</title>
+      <link>https://aaronswindell.com/2020/11/16/homerun/</link>
+      <pubDate>Tue, 17 Nov 2020 03:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/11/16/homerun/</guid>
+      <description>got planet 2 rudimentary implementation going. i had a few problems wrapping my head around this particular bit of my old code, due to not having looked at it in almost a year.</description>
+    </item>
+    
+    <item>
+      <title>dressed like a cat</title>
+      <link>https://aaronswindell.com/2020/10/26/dressed-like-a-cat/</link>
+      <pubDate>Tue, 27 Oct 2020 01:39:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/26/dressed-like-a-cat/</guid>
+      <description>two steps forward and three steps back. seems like every time i fix something, i break it later. why must this be? more problems unequipping things&amp;hellip; at least i finally replicated the issue; it will only occur on the first stage.</description>
+    </item>
+    
+    <item>
+      <title>level complete 2.0</title>
+      <link>https://aaronswindell.com/2020/10/23/level-complete-2-0/</link>
+      <pubDate>Sat, 24 Oct 2020 01:51:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/23/level-complete-2-0/</guid>
+      <description>the level complete screen now displays loot obtained during the level, it seems to work. the list of lootObtained is in the Playercontroller class and it gets reset in both the Save/ResetStageGrowth methods.</description>
+    </item>
+    
+    <item>
+      <title>consumption function, wtf-tion</title>
+      <link>https://aaronswindell.com/2020/10/21/consumption-function-wtf-tion/</link>
+      <pubDate>Wed, 21 Oct 2020 21:54:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/21/consumption-function-wtf-tion/</guid>
+      <description>added logic for resetting the player&amp;rsquo;s inventory/equipment on death to the state it was when the stage began my first thoughts were to add the items consumed to a list when used, then add them back into the inventory on retry, but through further consideration i realised there would be issues with equipment and that i should probably save/restore that along with the inventory.</description>
+    </item>
+    
+    <item>
+      <title>creative angst</title>
+      <link>https://aaronswindell.com/2020/10/15/creative-angst/</link>
+      <pubDate>Thu, 15 Oct 2020 12:20:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/15/creative-angst/</guid>
+      <description>entered another phase of indecision shop system seems to work, although it still needs UI animation the gameplay itself also needs balancing; to address this i have begun leaning on my favorite pillar of design philosophy, research!</description>
+    </item>
+    
+    <item>
+      <title>little bit of saturday work</title>
+      <link>https://aaronswindell.com/2020/10/03/little-bit-of-saturday-work/</link>
+      <pubDate>Sat, 03 Oct 2020 15:29:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/03/little-bit-of-saturday-work/</guid>
+      <description>i guess it was bugging the crap out of me, no pun intended, so i ended up fixing the inventory issue i was having in build turns out, for whatever reason the old saveData was invalid.</description>
+    </item>
+    
+    <item>
+      <title>shop alpha and item use</title>
+      <link>https://aaronswindell.com/2020/10/02/shop-alpha-and-item-use/</link>
+      <pubDate>Sat, 03 Oct 2020 01:49:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/02/shop-alpha-and-item-use/</guid>
+      <description>i guess the shop is now in alpha stage, ready for testing. it still needs animation, but that will come with beta. buying and selling seem to work had problems serializing a list of item class, then i realised that its normal, i guess?</description>
+    </item>
+    
+    <item>
+      <title>help! i can&#39;t count</title>
+      <link>https://aaronswindell.com/2020/09/26/help-i-cant-count/</link>
+      <pubDate>Sun, 27 Sep 2020 00:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/09/26/help-i-cant-count/</guid>
+      <description>saturday work have i tried to work on a saturday before and not found success? feels familiar, but i suppose failure in general should&amp;hellip; it&amp;rsquo;s okay, i am not insane yet; but i am getting there.</description>
+    </item>
+    
+    <item>
+      <title>slider &amp; input field link script</title>
+      <link>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</link>
+      <pubDate>Sun, 20 Sep 2020 23:28:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</guid>
+      <description>worked on a sunday that was probably a mistake feel okay anyway, i like the script i wrote
+after posting it here, it looks like the entire for loop is unnecessary, after adding in the ValueChanged function maybe i should just keep it as a sort of insurance policy?</description>
+    </item>
+    
+  </channel>
+</rss>

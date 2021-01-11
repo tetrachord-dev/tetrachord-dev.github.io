@@ -7,10 +7,323 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Tue, 21 Jul 2020 02:29:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 03:57:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>boss ship 2 initial topology done</title>
+      <link>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</link>
+      <pubDate>Mon, 04 Jan 2021 03:57:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</guid>
+      <description>still need to get the count down a bit and lay out the UVs in Maya, then texture and a tiny bit of rigging</description>
+    </item>
     
-	<atom:link href="https://aaronswindell.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deja poo</title>
+      <link>https://aaronswindell.com/2020/12/31/deja-poo/</link>
+      <pubDate>Thu, 31 Dec 2020 23:31:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/31/deja-poo/</guid>
+      <description>almost finished the final low resolution model within the year, tired of clicking. gonna look back and see what i was working on a year ago, exactly. hopefully doesn&amp;rsquo;t make me too sad, hahah</description>
+    </item>
     
+    <item>
+      <title>progresso?</title>
+      <link>https://aaronswindell.com/2020/12/29/progresso/</link>
+      <pubDate>Tue, 29 Dec 2020 23:05:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/29/progresso/</guid>
+      <description>finished the hummingbirds course. also completed the decimation/export process from zBrush and got the low-res model going. managed to use some of the old topology from spaceShip 5, so have a decent start not sure why i feel like i didn&amp;rsquo;t do anything, that sounds productive doesn&amp;rsquo;t it?</description>
+    </item>
+    
+    <item>
+      <title>boss 2 zBrush complete</title>
+      <link>https://aaronswindell.com/2020/12/24/boss-2-zbrush-complete/</link>
+      <pubDate>Thu, 24 Dec 2020 20:42:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/24/boss-2-zbrush-complete/</guid>
+      <description>finished the hi-res painting and sculpting for the second boss ship model. i have gotten a decent collection of generic alpha shapes over the course of this project and am getting used to using zremesher on everything i need to paint on monday i plan to decimate the model and begin topology construction to get the poly count of the final low-res mesh as low as possible.</description>
+    </item>
+    
+    <item>
+      <title>boss 2 sub-D complete</title>
+      <link>https://aaronswindell.com/2020/12/18/boss-2-sub-d-complete/</link>
+      <pubDate>Fri, 18 Dec 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/18/boss-2-sub-d-complete/</guid>
+      <description>didn&amp;rsquo;t get a lot of time to work on the actual project this week, spent most of my time studying. hopefully get the zBrush work done next week at least, who knows</description>
+    </item>
+    
+    <item>
+      <title>hello machines</title>
+      <link>https://aaronswindell.com/2020/12/17/hello-machines/</link>
+      <pubDate>Fri, 18 Dec 2020 01:29:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/17/hello-machines/</guid>
+      <description>i guess the machine learning seminar i took got me thinking started playing with the ML-Agents package in Unity. idk if I am hoping I can somehow program robots to finish the game for me, or if I am just bored and needed some new influx of input it is definitely intriguing and I&amp;rsquo;m surprised how quickly the agents could outperform me.</description>
+    </item>
+    
+    <item>
+      <title>create &#43; learn</title>
+      <link>https://aaronswindell.com/2020/12/15/create-learn/</link>
+      <pubDate>Wed, 16 Dec 2020 00:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/15/create-learn/</guid>
+      <description>been working on the boss ship 2 model, hi-res almost done changed out my learning.regiment from Unity&amp;rsquo;s artificial intelligence course to an intro to the ML-Agents package, the hummingbirds. it seems to incorporate new solutions to traditional AI problems, which should keep my brain seeking and growing, while potentially finding some new behavior for an enemy or possibly balancing out some mechanics for the game time will tell, but i feel the influx of new ideas, practices and technologies to be crucial to developing</description>
+    </item>
+    
+    <item>
+      <title>long time, no production</title>
+      <link>https://aaronswindell.com/2020/12/06/long-time-no-production/</link>
+      <pubDate>Mon, 07 Dec 2020 01:04:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/06/long-time-no-production/</guid>
+      <description>i feel like i&amp;rsquo;ve lost weeks! in actuality, it&amp;rsquo;s probably been about a week&amp;hellip; in total, over the course of several weeks, but i still feel behind i&amp;rsquo;ve done numerous things and added functionality that has been on my list for a long time, but i feel like i&amp;rsquo;m really just avoiding the most pressing concern of modeling more stuff, namely the second boss i did add models for different ore items for selling and did some further delving into the shader graph, to get a more appealing metallic material with just a bit of fresnel from the graph.</description>
+    </item>
+    
+    <item>
+      <title>homerun</title>
+      <link>https://aaronswindell.com/2020/11/16/homerun/</link>
+      <pubDate>Tue, 17 Nov 2020 03:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/11/16/homerun/</guid>
+      <description>got planet 2 rudimentary implementation going. i had a few problems wrapping my head around this particular bit of my old code, due to not having looked at it in almost a year.</description>
+    </item>
+    
+    <item>
+      <title>unwritten words</title>
+      <link>https://aaronswindell.com/2020/11/02/unwritten-words/</link>
+      <pubDate>Tue, 03 Nov 2020 01:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/11/02/unwritten-words/</guid>
+      <description>i think i need to start documenting more things in this log&amp;hellip;
+working on the second terrain and i realised i couldn&amp;rsquo;t really remember the exact workflow i used, just a couple notes on the polygon count that were actually misleading after digging into the old project files.</description>
+    </item>
+    
+    <item>
+      <title>dressed like a cat</title>
+      <link>https://aaronswindell.com/2020/10/26/dressed-like-a-cat/</link>
+      <pubDate>Tue, 27 Oct 2020 01:39:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/26/dressed-like-a-cat/</guid>
+      <description>two steps forward and three steps back. seems like every time i fix something, i break it later. why must this be? more problems unequipping things&amp;hellip; at least i finally replicated the issue; it will only occur on the first stage.</description>
+    </item>
+    
+    <item>
+      <title>level complete 2.0</title>
+      <link>https://aaronswindell.com/2020/10/23/level-complete-2-0/</link>
+      <pubDate>Sat, 24 Oct 2020 01:51:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/23/level-complete-2-0/</guid>
+      <description>the level complete screen now displays loot obtained during the level, it seems to work. the list of lootObtained is in the Playercontroller class and it gets reset in both the Save/ResetStageGrowth methods.</description>
+    </item>
+    
+    <item>
+      <title>hey self</title>
+      <link>https://aaronswindell.com/2020/10/23/hey-self/</link>
+      <pubDate>Fri, 23 Oct 2020 18:27:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/23/hey-self/</guid>
+      <description>note to self: all hell breaks loose on title and map if the LevelComplete animator parameter is set to displayed i wonder why?</description>
+    </item>
+    
+    <item>
+      <title>consumption function, wtf-tion</title>
+      <link>https://aaronswindell.com/2020/10/21/consumption-function-wtf-tion/</link>
+      <pubDate>Wed, 21 Oct 2020 21:54:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/21/consumption-function-wtf-tion/</guid>
+      <description>added logic for resetting the player&amp;rsquo;s inventory/equipment on death to the state it was when the stage began my first thoughts were to add the items consumed to a list when used, then add them back into the inventory on retry, but through further consideration i realised there would be issues with equipment and that i should probably save/restore that along with the inventory.</description>
+    </item>
+    
+    <item>
+      <title>make it make more sense</title>
+      <link>https://aaronswindell.com/2020/10/19/make-it-make-more-sense/</link>
+      <pubDate>Tue, 20 Oct 2020 01:50:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/19/make-it-make-more-sense/</guid>
+      <description>you&amp;rsquo;d think this sort if thing would be more obvious from a design standpoint, but it&amp;rsquo;s the kind of thing you need to learn first hand or have previous experience, i guess anyway, after questioning the entire health orb mechanic now that healing inventory items work, i came to the conclusion the drop conditions should just be adjusted.</description>
+    </item>
+    
+    <item>
+      <title>creative angst</title>
+      <link>https://aaronswindell.com/2020/10/15/creative-angst/</link>
+      <pubDate>Thu, 15 Oct 2020 12:20:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/15/creative-angst/</guid>
+      <description>entered another phase of indecision shop system seems to work, although it still needs UI animation the gameplay itself also needs balancing; to address this i have begun leaning on my favorite pillar of design philosophy, research!</description>
+    </item>
+    
+    <item>
+      <title>terrestrial research</title>
+      <link>https://aaronswindell.com/2020/10/12/terrestrial-research/</link>
+      <pubDate>Tue, 13 Oct 2020 01:54:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/12/terrestrial-research/</guid>
+      <description>been looking into procedurally generating desert landscapes and generally brushing up on my terrain skills in general. hard to believe i was already two versions behind when i made the landstrip for the first planet haven&amp;rsquo;t discovered anything immediately useful, but maybe something i can put to use for one of the later planets</description>
+    </item>
+    
+    <item>
+      <title>little bit of saturday work</title>
+      <link>https://aaronswindell.com/2020/10/03/little-bit-of-saturday-work/</link>
+      <pubDate>Sat, 03 Oct 2020 15:29:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/03/little-bit-of-saturday-work/</guid>
+      <description>i guess it was bugging the crap out of me, no pun intended, so i ended up fixing the inventory issue i was having in build turns out, for whatever reason the old saveData was invalid.</description>
+    </item>
+    
+    <item>
+      <title>shop alpha and item use</title>
+      <link>https://aaronswindell.com/2020/10/02/shop-alpha-and-item-use/</link>
+      <pubDate>Sat, 03 Oct 2020 01:49:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/02/shop-alpha-and-item-use/</guid>
+      <description>i guess the shop is now in alpha stage, ready for testing. it still needs animation, but that will come with beta. buying and selling seem to work had problems serializing a list of item class, then i realised that its normal, i guess?</description>
+    </item>
+    
+    <item>
+      <title>help! i can&#39;t count</title>
+      <link>https://aaronswindell.com/2020/09/26/help-i-cant-count/</link>
+      <pubDate>Sun, 27 Sep 2020 00:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/09/26/help-i-cant-count/</guid>
+      <description>saturday work have i tried to work on a saturday before and not found success? feels familiar, but i suppose failure in general should&amp;hellip; it&amp;rsquo;s okay, i am not insane yet; but i am getting there.</description>
+    </item>
+    
+    <item>
+      <title>slider &amp; input field link script</title>
+      <link>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</link>
+      <pubDate>Sun, 20 Sep 2020 23:28:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</guid>
+      <description>worked on a sunday that was probably a mistake feel okay anyway, i like the script i wrote
+after posting it here, it looks like the entire for loop is unnecessary, after adding in the ValueChanged function maybe i should just keep it as a sort of insurance policy?</description>
+    </item>
+    
+    <item>
+      <title>shop system buy interface</title>
+      <link>https://aaronswindell.com/2020/09/14/shop-system-buy-interface/</link>
+      <pubDate>Tue, 15 Sep 2020 02:06:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/09/14/shop-system-buy-interface/</guid>
+      <description>got the UI for the shop system&amp;rsquo;s buy function pretty much locked down, anchors work for stretching screen width and everything. still need to do the sell portion and write all the functionality, of course; but i feel more confident about it now overall for some reason getting to the point i am now, confounded me for two entire days last week and worried me all weekend.</description>
+    </item>
+    
+    <item>
+      <title>the late bird gets the shrimp</title>
+      <link>https://aaronswindell.com/2020/08/31/the-late-bird-gets-the-shrimp/</link>
+      <pubDate>Mon, 31 Aug 2020 20:55:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/31/the-late-bird-gets-the-shrimp/</guid>
+      <description>more lost time! hurray, hurrah! after loosing around a week due to my refusal to work without air conditioning, today was the first day i was back in full capacity. unfortunately, more poor weather has me returning to my studies, as well as a bit of logging and blogging rain, rain, go away; why can&amp;rsquo;t i think of another cliché?</description>
+    </item>
+    
+    <item>
+      <title>project woe</title>
+      <link>https://aaronswindell.com/2020/08/25/project-woe/</link>
+      <pubDate>Tue, 25 Aug 2020 17:52:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/25/project-woe/</guid>
+      <description>having issues projecting hires geometry on to low, once again lol i think I just need to add more edges. given the use case of this model, I&amp;rsquo;m leaving it as is.</description>
+    </item>
+    
+    <item>
+      <title>retopologizing day 3</title>
+      <link>https://aaronswindell.com/2020/08/20/retopologizing-day-3/</link>
+      <pubDate>Thu, 20 Aug 2020 12:23:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/20/retopologizing-day-3/</guid>
+      <description>i am writing this the morning of the fourth day actually, topology always takes more time than i plan for. i managed to get the model itself done, but it is still lacking UVWs the plan for today is just to get them done, maybe i will make it as far as to bring the model into substance painter to bake the base maps and check for projection errors.</description>
+    </item>
+    
+    <item>
+      <title>retopologizing day 2</title>
+      <link>https://aaronswindell.com/2020/08/19/retopologizing-day-2/</link>
+      <pubDate>Wed, 19 Aug 2020 17:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/19/retopologizing-day-2/</guid>
+      <description>currently stopped again from thunder, model approximately 2/3 done. i wonder how much concern is warranted and how much is paranoia in regard to lightning frying electronics i keep reminding myself to just get the mesh out as quickly as possible and that i will still optimize it in maya before laying out the UVW, but it is hard to altogether keep myself from considering topology.</description>
+    </item>
+    
+    <item>
+      <title>retopologizing day 1</title>
+      <link>https://aaronswindell.com/2020/08/18/retopologizing-day-1/</link>
+      <pubDate>Tue, 18 Aug 2020 23:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/18/retopologizing-day-1/</guid>
+      <description>didn&amp;rsquo;t have a ton of time to work today, about a third of the way through the model spent yesterday decimating everything and exporting different detail levels from zBrush</description>
+    </item>
+    
+    <item>
+      <title>shrimp on shrimp action</title>
+      <link>https://aaronswindell.com/2020/08/14/shrimp-on-shrimp-action/</link>
+      <pubDate>Sat, 15 Aug 2020 01:16:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/14/shrimp-on-shrimp-action/</guid>
+      <description>with the majority of yesterday lost to thunder and a surprise visitor, it was somewhat annoying to have another thunderous day in south Florida. i ended up back on track rather than ahead of schedule.</description>
+    </item>
+    
+    <item>
+      <title>the latest in shrimp tech</title>
+      <link>https://aaronswindell.com/2020/08/12/the-latest-in-shrimp-tech/</link>
+      <pubDate>Thu, 13 Aug 2020 00:14:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/12/the-latest-in-shrimp-tech/</guid>
+      <description>still a few more details to sculpt before painting the vertex color tomorrow and decimating for export. should be able to get it done and start retopolgising Friday, putting me about a day ahead of my schedule&amp;hellip; still don&amp;rsquo;t see having it done quicker than my normal two weeks, but meh</description>
+    </item>
+    
+    <item>
+      <title>seemingly on track</title>
+      <link>https://aaronswindell.com/2020/08/12/seemingly-on-track/</link>
+      <pubDate>Wed, 12 Aug 2020 19:17:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/12/seemingly-on-track/</guid>
+      <description>got the ship into zBrush and have started remeshing the pieces i need to sculpt/paint on; the sound of looming thunder has thwarted my progress once more, for now. i can definitely feel my years of experience paying off with zBrush.</description>
+    </item>
+    
+    <item>
+      <title>shrimp progress</title>
+      <link>https://aaronswindell.com/2020/08/11/shrimp-progress/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/11/shrimp-progress/</guid>
+      <description>i was seriously hating this monday. by the end of day 2, i was happy enough to carry on to zBrush the next day</description>
+    </item>
+    
+    <item>
+      <title>world 2 shrimp</title>
+      <link>https://aaronswindell.com/2020/08/10/world-2-shrimp/</link>
+      <pubDate>Tue, 11 Aug 2020 02:42:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/10/world-2-shrimp/</guid>
+      <description>started work on the enemy ship for the second planet. took the time to go ahead and select designs for the rest of what i have planned for the game plenty of assets to art up still while I&amp;rsquo;m happily awaiting feedback.</description>
+    </item>
+    
+    <item>
+      <title>website and demo live</title>
+      <link>https://aaronswindell.com/2020/08/06/website-and-demo-live/</link>
+      <pubDate>Thu, 06 Aug 2020 23:37:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/06/website-and-demo-live/</guid>
+      <description>nobody knows yet, but they are both up there and waiting; site took about two weeks, first actual demo release. not sure about how to release them yet, maybe i should have another screenshoot</description>
+    </item>
+    
+    <item>
+      <title>great forbode</title>
+      <link>https://aaronswindell.com/2020/08/05/great-forbode/</link>
+      <pubDate>Wed, 05 Aug 2020 18:09:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/05/great-forbode/</guid>
+      <description>the time draws near</description>
+    </item>
+    
+    <item>
+      <title>the little shrimps</title>
+      <link>https://aaronswindell.com/2020/08/03/the-little-shrimps/</link>
+      <pubDate>Mon, 03 Aug 2020 21:38:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/03/the-little-shrimps/</guid>
+      <description>i forgot about the little ships! still shooting for Friday demo release, been too long and have had so much progress. managed to get them integrated in pretty quickly, but was having an issue appling the tilt.</description>
+    </item>
     
     <item>
       <title>almost</title>
@@ -45,7 +358,7 @@
       <pubDate>Thu, 28 May 2020 23:43:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/2020/05/28/two-weeks-off/</guid>
-      <description>today was first day I&amp;rsquo;ve tried working on the game in a few weeks. kinda felt good, but I tried to keep it simple for the first day back at.it. still working on the first boss&amp;rsquo; attack pattern.</description>
+      <description>today was first day I&amp;rsquo;ve tried working on the game in a few weeks. kinda felt good, but I tried to keep it simple for the first day back at.it. still working on the first boss&#39; attack pattern.</description>
     </item>
     
     <item>
@@ -345,16 +658,6 @@ at first, it seemed like the house of cards i have slowly been building was coll
       
       <guid>https://aaronswindell.com/2019/12/23/let-the-people-be-free/</guid>
       <description>decided to take a winter break Google tells me the kids are off from Dec.23 to to the 3rd of 2020. sounds great on paper, or in type, or whatever.</description>
-    </item>
-    
-    <item>
-      <title>r&amp;d</title>
-      <link>https://aaronswindell.com/2019/12/22/rd-2/</link>
-      <pubDate>Sun, 22 Dec 2019 16:39:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/2019/12/22/rd-2/</guid>
-      <description>been taking the weekends off fairly consistently as of late. although that does not necessarily mean not working on the game, although it technically kinda does.
-this may seem confusing, but i have been using the weekends for inspiration and learning.</description>
     </item>
     
     <item>

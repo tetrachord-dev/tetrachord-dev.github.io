@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projection on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/projection/</link>
+    <description>Recent content in projection on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Tue, 25 Aug 2020 17:52:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/projection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>project woe</title>
+      <link>https://aaronswindell.com/2020/08/25/project-woe/</link>
+      <pubDate>Tue, 25 Aug 2020 17:52:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/08/25/project-woe/</guid>
+      <description>having issues projecting hires geometry on to low, once again lol i think I just need to add more edges. given the use case of this model, I&amp;rsquo;m leaving it as is.</description>
+    </item>
+    
+  </channel>
+</rss>

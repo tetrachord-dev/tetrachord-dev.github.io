@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/research/</link>
+    <description>Recent content in research on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 15 Oct 2020 12:20:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>creative angst</title>
+      <link>https://aaronswindell.com/2020/10/15/creative-angst/</link>
+      <pubDate>Thu, 15 Oct 2020 12:20:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/15/creative-angst/</guid>
+      <description>entered another phase of indecision shop system seems to work, although it still needs UI animation the gameplay itself also needs balancing; to address this i have begun leaning on my favorite pillar of design philosophy, research!</description>
+    </item>
+    
+  </channel>
+</rss>
