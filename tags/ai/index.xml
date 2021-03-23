@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ai on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/ai/</link>
+    <description>Recent content in ai on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Fri, 18 Dec 2020 01:29:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello machines</title>
+      <link>https://aaronswindell.com/2020/12/17/hello-machines/</link>
+      <pubDate>Fri, 18 Dec 2020 01:29:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/12/17/hello-machines/</guid>
+      <description>i guess the machine learning seminar i took got me thinking started playing with the ML-Agents package in Unity. idk if I am hoping I can somehow program robots to finish the game for me, or if I am just bored and needed some new influx of input it is definitely intriguing and I&amp;rsquo;m surprised how quickly the agents could outperform me.</description>
+    </item>
+    
+  </channel>
+</rss>

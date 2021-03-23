@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://aaronswindell.com/</loc>
-    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+    <lastmod>2021-03-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -18,13 +18,28 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</loc>
-    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+    <loc>https://aaronswindell.com/faq/</loc>
+    <lastmod>2021-03-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/c-sharp/</loc>
+    <lastmod>2021-03-10T02:44:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronswindell.com/blog/</loc>
-    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+    <lastmod>2021-03-10T02:44:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -38,13 +53,13 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/tags/maya/</loc>
-    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+    <loc>https://aaronswindell.com/2021/03/09/moving-forward/</loc>
+    <lastmod>2021-03-10T02:44:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronswindell.com/tags/</loc>
-    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+    <lastmod>2021-03-10T02:44:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -55,6 +70,41 @@
                 hreflang="en"
                 href="https://aaronswindell.com/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/unity/</loc>
+    <lastmod>2021-03-10T02:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/dcc/</loc>
+    <lastmod>2021-02-22T23:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2021/02/22/testing-huge-rewrite/</loc>
+    <lastmod>2021-02-22T23:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2021/02/18/huge-rewrite-in-progress/</loc>
+    <lastmod>2021-02-19T01:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2021/01/29/the-feeling-of-fruitlessness/</loc>
+    <lastmod>2021-01-30T00:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</loc>
+    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/tags/maya/</loc>
+    <lastmod>2021-01-04T03:57:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,12 +143,7 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/tags/artificial-intelligence/</loc>
-    <lastmod>2020-12-18T01:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/tags/c-sharp/</loc>
+    <loc>https://aaronswindell.com/tags/ai/</loc>
     <lastmod>2020-12-18T01:29:00+00:00</lastmod>
   </url>
   
@@ -113,8 +158,8 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/tags/unity/</loc>
-    <lastmod>2020-12-18T01:29:00+00:00</lastmod>
+    <loc>https://aaronswindell.com/tags/artificial-intelligence/</loc>
+    <lastmod>2020-12-16T00:48:00+00:00</lastmod>
   </url>
   
   <url>
@@ -368,21 +413,6 @@
   </url>
   
   <url>
-    <loc>https://aaronswindell.com/faq/</loc>
-    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/faq/"
-                />
-  </url>
-  
-  <url>
     <loc>https://aaronswindell.com/2020/03/22/new-norm/</loc>
     <lastmod>2020-03-22T12:57:00+00:00</lastmod>
   </url>
@@ -515,6 +545,11 @@
   <url>
     <loc>https://aaronswindell.com/2019/12/23/let-the-people-be-free/</loc>
     <lastmod>2019-12-24T02:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronswindell.com/2019/12/22/rd-2/</loc>
+    <lastmod>2019-12-22T16:39:00+00:00</lastmod>
   </url>
   
   <url>
