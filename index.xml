@@ -6,8 +6,45 @@
     <description>Recent content on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 03:57:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 13:05:29 +0600</lastBuildDate><atom:link href="https://aaronswindell.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>moving forward</title>
+      <link>https://aaronswindell.com/2021/03/09/moving-forward/</link>
+      <pubDate>Wed, 10 Mar 2021 02:44:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/09/moving-forward/</guid>
+      <description>feeling rather unproductive, but slowly trudging along&amp;hellip; been learning about and implementing preprocessor directives as i finish off the massive stage progression system update and world section integration, which i am still hoping will work out okay in the end; it seems to be so far the preprocessor clauses should prevent a bit of user (developer?</description>
+    </item>
+    
+    <item>
+      <title>testing huge rewrite</title>
+      <link>https://aaronswindell.com/2021/02/22/testing-huge-rewrite/</link>
+      <pubDate>Mon, 22 Feb 2021 23:49:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/02/22/testing-huge-rewrite/</guid>
+      <description>finally got what i am hoping to be the major changes involved in this &amp;ldquo;huge rewrite&amp;rdquo; completed and have started testing. lots and lots of notes/bugs already, it is hard to feel like i am making progress, but these things should have been this way from the start.</description>
+    </item>
+    
+    <item>
+      <title>huge rewrite in progress</title>
+      <link>https://aaronswindell.com/2021/02/18/huge-rewrite-in-progress/</link>
+      <pubDate>Fri, 19 Feb 2021 01:51:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/02/18/huge-rewrite-in-progress/</guid>
+      <description>making everything the way it should have always been. am learning a lot and also realizing how much i have already.
+you know you wrote some sexy code, when what you added to the code base is less than you removed and it does MORE stuff&amp;hellip; the stuff you really want</description>
+    </item>
+    
+    <item>
+      <title>the feeling of fruitlessness</title>
+      <link>https://aaronswindell.com/2021/01/29/the-feeling-of-fruitlessness/</link>
+      <pubDate>Sat, 30 Jan 2021 00:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/01/29/the-feeling-of-fruitlessness/</guid>
+      <description>feeling ultra unmotivated this feels like such a wasted week&amp;hellip; or weeks, maybe? i really did do some constructive things, but life is really hard dealing with death. i miss him already.</description>
+    </item>
+    
     <item>
       <title>boss ship 2 initial topology done</title>
       <link>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</link>
@@ -658,6 +695,16 @@ at first, it seemed like the house of cards i have slowly been building was coll
       
       <guid>https://aaronswindell.com/2019/12/23/let-the-people-be-free/</guid>
       <description>decided to take a winter break Google tells me the kids are off from Dec.23 to to the 3rd of 2020. sounds great on paper, or in type, or whatever.</description>
+    </item>
+    
+    <item>
+      <title>r&amp;d</title>
+      <link>https://aaronswindell.com/2019/12/22/rd-2/</link>
+      <pubDate>Sun, 22 Dec 2019 16:39:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2019/12/22/rd-2/</guid>
+      <description>been taking the weekends off fairly consistently as of late. although that does not necessarily mean not working on the game, although it technically kinda does.
+this may seem confusing, but i have been using the weekends for inspiration and learning.</description>
     </item>
     
     <item>

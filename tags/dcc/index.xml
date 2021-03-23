@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dcc on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/dcc/</link>
+    <description>Recent content in dcc on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Mon, 22 Feb 2021 23:49:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/dcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>testing huge rewrite</title>
+      <link>https://aaronswindell.com/2021/02/22/testing-huge-rewrite/</link>
+      <pubDate>Mon, 22 Feb 2021 23:49:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/02/22/testing-huge-rewrite/</guid>
+      <description>finally got what i am hoping to be the major changes involved in this &amp;ldquo;huge rewrite&amp;rdquo; completed and have started testing. lots and lots of notes/bugs already, it is hard to feel like i am making progress, but these things should have been this way from the start.</description>
+    </item>
+    
+  </channel>
+</rss>

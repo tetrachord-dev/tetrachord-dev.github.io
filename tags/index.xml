@@ -6,8 +6,35 @@
     <description>Recent content in Tags on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 03:57:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Wed, 10 Mar 2021 02:44:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c-sharp</title>
+      <link>https://aaronswindell.com/tags/c-sharp/</link>
+      <pubDate>Wed, 10 Mar 2021 02:44:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/c-sharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unity</title>
+      <link>https://aaronswindell.com/tags/unity/</link>
+      <pubDate>Wed, 10 Mar 2021 02:44:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dcc</title>
+      <link>https://aaronswindell.com/tags/dcc/</link>
+      <pubDate>Mon, 22 Feb 2021 23:49:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/dcc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>maya</title>
       <link>https://aaronswindell.com/tags/maya/</link>
@@ -45,20 +72,11 @@
     </item>
     
     <item>
-      <title>artificial intelligence</title>
-      <link>https://aaronswindell.com/tags/artificial-intelligence/</link>
+      <title>ai</title>
+      <link>https://aaronswindell.com/tags/ai/</link>
       <pubDate>Fri, 18 Dec 2020 01:29:00 +0000</pubDate>
       
-      <guid>https://aaronswindell.com/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>c-sharp</title>
-      <link>https://aaronswindell.com/tags/c-sharp/</link>
-      <pubDate>Fri, 18 Dec 2020 01:29:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/tags/c-sharp/</guid>
+      <guid>https://aaronswindell.com/tags/ai/</guid>
       <description></description>
     </item>
     
@@ -72,11 +90,11 @@
     </item>
     
     <item>
-      <title>unity</title>
-      <link>https://aaronswindell.com/tags/unity/</link>
-      <pubDate>Fri, 18 Dec 2020 01:29:00 +0000</pubDate>
+      <title>artificial intelligence</title>
+      <link>https://aaronswindell.com/tags/artificial-intelligence/</link>
+      <pubDate>Wed, 16 Dec 2020 00:48:00 +0000</pubDate>
       
-      <guid>https://aaronswindell.com/tags/unity/</guid>
+      <guid>https://aaronswindell.com/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
