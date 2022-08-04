@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aaronswindell.com/fr/</loc>
-    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <lastmod>2022-08-04T13:50:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +14,9 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/faq/</loc>
-    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <lastmod>2022-08-04T13:50:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,9 +27,19 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aaronswindell.com/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/about/"
+                />
+  </url><url>
     <loc>https://aaronswindell.com/fr/author/aaron-swindell/</loc>
     <xhtml:link
                 rel="alternate"
@@ -44,9 +51,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/author/aaron-swindell/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -58,9 +63,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/author/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/project/video-2/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,9 +75,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/project/video-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/project/camaro/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,9 +87,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/project/camaro/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -100,9 +99,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -114,107 +111,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/contact/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/figure-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/figure-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/figure-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/figure-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/figure-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/figure-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/figure-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/figure-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/figure-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/figure-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/figure-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/figure-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/figure-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/figure-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/figure-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/figure-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/figure-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/figure-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/project/figure-7/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/project/figure-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/project/figure-7/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/project/video-1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -226,9 +123,91 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/project/video-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aaronswindell.com/fr/project/figure-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-1/"
+                />
+  </url><url>
+    <loc>https://aaronswindell.com/fr/project/figure-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-2/"
+                />
+  </url><url>
+    <loc>https://aaronswindell.com/fr/project/figure-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-3/"
+                />
+  </url><url>
+    <loc>https://aaronswindell.com/fr/project/figure-4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-4/"
+                />
+  </url><url>
+    <loc>https://aaronswindell.com/fr/project/figure-5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-5/"
+                />
+  </url><url>
+    <loc>https://aaronswindell.com/fr/project/figure-6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-6/"
+                />
+  </url><url>
+    <loc>https://aaronswindell.com/fr/project/figure-7/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aaronswindell.com/project/figure-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aaronswindell.com/fr/project/figure-7/"
+                />
+  </url><url>
     <loc>https://aaronswindell.com/fr/project/hydra/</loc>
     <xhtml:link
                 rel="alternate"
@@ -240,9 +219,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/project/hydra/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/blog/</loc>
     <xhtml:link
                 rel="alternate"
@@ -254,9 +231,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/project/kiley/</loc>
     <xhtml:link
                 rel="alternate"
@@ -268,9 +243,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/project/kiley/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/pricing/</loc>
     <xhtml:link
                 rel="alternate"
@@ -282,9 +255,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/pricing/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/project/</loc>
     <xhtml:link
                 rel="alternate"
@@ -296,9 +267,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/project/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/service/</loc>
     <xhtml:link
                 rel="alternate"
@@ -310,9 +279,7 @@
                 hreflang="fr"
                 href="https://aaronswindell.com/fr/service/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aaronswindell.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -325,19 +292,4 @@
                 href="https://aaronswindell.com/fr/tags/"
                 />
   </url>
-  
-  <url>
-    <loc>https://aaronswindell.com/fr/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aaronswindell.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aaronswindell.com/fr/about/"
-                />
-  </url>
-  
 </urlset>

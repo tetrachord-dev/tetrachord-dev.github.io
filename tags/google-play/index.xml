@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google play on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/google-play/</link>
+    <description>Recent content in google play on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Tue, 14 Jun 2022 18:59:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/google-play/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>swapped scripting backend</title>
+      <link>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</link>
+      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</guid>
+      <description>what a rough day i remember it being tricky to go back and forth between scripting backend types (mono, IL2CPP) and needing the internet to do so, but I don&amp;rsquo;t recall having so many problems!</description>
+    </item>
+    
+    <item>
+      <title>data safety form complete</title>
+      <link>https://aaronswindell.com/2022/06/07/data-safety-form-complete/</link>
+      <pubDate>Tue, 07 Jun 2022 16:45:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/06/07/data-safety-form-complete/</guid>
+      <description>i managed to complete Google Play&amp;rsquo;s data safety form within a day, despite my initial expectations of its difficulty. in the end, it was just a matter of hunkering down and doing it.</description>
+    </item>
+    
+    <item>
+      <title>hiatus drawing to a close</title>
+      <link>https://aaronswindell.com/2022/05/09/hiatus-drawing-to-a-close/</link>
+      <pubDate>Mon, 09 May 2022 22:04:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/05/09/hiatus-drawing-to-a-close/</guid>
+      <description>i can feel the pangs of art beginning to return after a month or so of respite. i think i shall try to ease myself back into the actual creative parts by working on some practical aspects, that have been neglected as of late, to begin.</description>
+    </item>
+    
+    <item>
+      <title>with the cadence of peter lorre</title>
+      <link>https://aaronswindell.com/2022/03/28/with-the-cadence-of-peter-lorre/</link>
+      <pubDate>Mon, 28 Mar 2022 18:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/03/28/with-the-cadence-of-peter-lorre/</guid>
+      <description>what feels like an endless endeavour is slowly grinding along. better late than never, at least that&amp;rsquo;s what they say. finally published the second demo to the Google Play app store for internal testing phase 2.</description>
+    </item>
+    
+  </channel>
+</rss>

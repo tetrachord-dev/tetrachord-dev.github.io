@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>particles on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/particles/</link>
+    <description>Recent content in particles on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Sat, 05 Mar 2022 00:24:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/particles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>painting giant beam particle textures</title>
+      <link>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</link>
+      <pubDate>Sat, 05 Mar 2022 00:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</guid>
+      <description>spent the whole week painting textures and creating shaders for the big attack for the primary attack of the second boss. had some issues with photoshop&amp;rsquo;s recognition of my wacom tablets pressure sensitivity, it was weird and I could have swore it was working.</description>
+    </item>
+    
+  </channel>
+</rss>

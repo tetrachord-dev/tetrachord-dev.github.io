@@ -6,8 +6,173 @@
     <description>Recent content in maya on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 03:57:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/maya/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 14 Jul 2022 01:24:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/maya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>difficulty level reckoning</title>
+      <link>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</link>
+      <pubDate>Thu, 14 Jul 2022 01:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</guid>
+      <description>after a bit of first hand experience during my time away from the project with difficulty level, I have decided that a traditional system is indeed needed for my own game.</description>
+    </item>
+    
+    <item>
+      <title>the headless woman &amp;amp; the skip button</title>
+      <link>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</link>
+      <pubDate>Thu, 07 Jul 2022 23:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</guid>
+      <description>it had been awhile since I modeled a human from scratch, so I started one to use as the final boss; shake things up a bit from the machines. progress is going smoothly, mainly because my references seem to be well crafted added a skip button for the dialogue, in case people like to die quickly and numerously.</description>
+    </item>
+    
+    <item>
+      <title>slowly regaining momentum</title>
+      <link>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</link>
+      <pubDate>Wed, 06 Jul 2022 00:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</guid>
+      <description>it is beginning to happen though added a data privacy button for opting out and lighting effects for the desert world</description>
+    </item>
+    
+    <item>
+      <title>feeling lousy</title>
+      <link>https://aaronswindell.com/2022/07/04/feeling-lousy/</link>
+      <pubDate>Mon, 04 Jul 2022 19:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/04/feeling-lousy/</guid>
+      <description>two or three days of depression, so I&amp;rsquo;m working on a holiday. at least it is my least favorite one, maybe second to new year&amp;rsquo;s, i suppose didn&amp;rsquo;t really do much.</description>
+    </item>
+    
+    <item>
+      <title>painting giant beam particle textures</title>
+      <link>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</link>
+      <pubDate>Sat, 05 Mar 2022 00:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</guid>
+      <description>spent the whole week painting textures and creating shaders for the big attack for the primary attack of the second boss. had some issues with photoshop&amp;rsquo;s recognition of my wacom tablets pressure sensitivity, it was weird and I could have swore it was working.</description>
+    </item>
+    
+    <item>
+      <title>boss ship 2 rigged</title>
+      <link>https://aaronswindell.com/2022/02/22/boss-ship-2-rigged/</link>
+      <pubDate>Wed, 23 Feb 2022 00:29:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/02/22/boss-ship-2-rigged/</guid>
+      <description>finally started setting up the second boss, it is tougher going than I had anticipated. for whatever reason, it doesn&amp;rsquo;t feel like I gave as much consideration beforehand to exactly how this particular boss would articulate what its possible attack patterns may be I then began to realise I hadn&amp;rsquo;t decided where either of the remaining two boss&amp;rsquo; weaknesses were going to be located either.</description>
+    </item>
+    
+    <item>
+      <title>sporadic progression</title>
+      <link>https://aaronswindell.com/2022/02/16/sporadic-progression/</link>
+      <pubDate>Thu, 17 Feb 2022 02:54:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/02/16/sporadic-progression/</guid>
+      <description>have only been able to manage to be productive every other week or so. today was the first day i felt like I worked a real day all year the terrain for planet 3 is almost done after around one full day&amp;rsquo;s work, just the baking left to do, but I have many adjustments that are still pending testing still really difficult to make myself play the game to test things.</description>
+    </item>
+    
+    <item>
+      <title>many changes, most recent: item ability functional</title>
+      <link>https://aaronswindell.com/2021/10/21/many-changes-most-recent-item-ability-functional/</link>
+      <pubDate>Fri, 22 Oct 2021 00:51:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/21/many-changes-most-recent-item-ability-functional/</guid>
+      <description>it actually seems to work&amp;hellip; at first test&amp;hellip;
+i just can&amp;rsquo;t use old save data. idk how imma add shit and not break the save data signature&amp;hellip; i didn&amp;rsquo;t even change it, but old files load funny.</description>
+    </item>
+    
+    <item>
+      <title>la, la, bumba</title>
+      <link>https://aaronswindell.com/2021/10/07/la-la-bumba/</link>
+      <pubDate>Fri, 08 Oct 2021 01:41:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/07/la-la-bumba/</guid>
+      <description>i changed like a million things to fix a hundred&amp;hellip; if that isn&amp;rsquo;t a saying, quote me. idk what to even test anymore december I am supposed to add all these people&amp;hellip; the weapon change system seems good&amp;hellip; recent adjustments to equipment strength seems appropriate&amp;hellip; i need to figure out the relic/accessories, the ability system&amp;hellip; what am I missing?</description>
+    </item>
+    
+    <item>
+      <title>short cut?</title>
+      <link>https://aaronswindell.com/2021/09/15/short-cut/</link>
+      <pubDate>Thu, 16 Sep 2021 01:49:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/09/15/short-cut/</guid>
+      <description>today i modeled and rendered a blaster icon in an hour and a half&amp;hellip; stark contrast to the circuit board, but it was a pretty simple model.</description>
+    </item>
+    
+    <item>
+      <title>healing item icons complete</title>
+      <link>https://aaronswindell.com/2021/09/14/healing-item-icons-complete/</link>
+      <pubDate>Wed, 15 Sep 2021 01:41:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/09/14/healing-item-icons-complete/</guid>
+      <description>took awhile, but happy with the end result</description>
+    </item>
+    
+    <item>
+      <title>boss ship 3 model complete</title>
+      <link>https://aaronswindell.com/2021/08/20/boss-ship-3-model-complete/</link>
+      <pubDate>Fri, 20 Aug 2021 17:42:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/08/20/boss-ship-3-model-complete/</guid>
+      <description>got the model imported, all the materials setup and the textures compressed. still need to program the fight and do attack animations</description>
+    </item>
+    
+    <item>
+      <title>uv tip</title>
+      <link>https://aaronswindell.com/2021/08/13/uv-tip/</link>
+      <pubDate>Sat, 14 Aug 2021 00:14:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/08/13/uv-tip/</guid>
+      <description>omg, this will save me so many clicks Modeling &amp;gt; Mesh Display &amp;gt; Soften/Harden Edges Options : Texture Borders</description>
+    </item>
+    
+    <item>
+      <title>vertex color in maya</title>
+      <link>https://aaronswindell.com/2021/07/29/vertex-color-in-maya/</link>
+      <pubDate>Thu, 29 Jul 2021 20:31:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/29/vertex-color-in-maya/</guid>
+      <description>started retopologising boss ship 3 and i actually figured out a way to see the vertex color data from zbrush in Maya, which should make the process a bit more friendly and eliminate the use of TopoGun altogether.</description>
+    </item>
+    
+    <item>
+      <title>procrastinate the date</title>
+      <link>https://aaronswindell.com/2021/07/10/procrastinate-the-date/</link>
+      <pubDate>Sat, 10 Jul 2021 14:13:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/10/procrastinate-the-date/</guid>
+      <description>my birthday vacation seems to have inadvertently become a summer stay, either that or I&amp;rsquo;ve reached a slump. slowly, but surely i am finding fresh motive to continue.
+there was a bit of a temporary detour in attempt to get better internet infrastructure in my home, but in the end my efforts have proven fruitless.</description>
+    </item>
+    
+    <item>
+      <title>spaceship 07 final low resolution model</title>
+      <link>https://aaronswindell.com/2021/04/03/spaceship-07-final-low-resolution-model/</link>
+      <pubDate>Sat, 03 Apr 2021 16:39:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/04/03/spaceship-07-final-low-resolution-model/</guid>
+      <description>ended up swapping to Maya halfway through retopologizing this model. sections started to get really close together, even having tried to eliminate such areas in the modeling stage i feel as though i have discovered this before, but the new Maya modeling toolkit is actually better than using TopoGun.</description>
+    </item>
+    
+    <item>
+      <title>spaceship 07 decimated</title>
+      <link>https://aaronswindell.com/2021/03/31/spaceship-07-decimated/</link>
+      <pubDate>Thu, 01 Apr 2021 03:04:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/31/spaceship-07-decimated/</guid>
+      <description>finished up the high resolution model sculpting and vertex colouring in zBrush, got the model decimated and have started laying out the final topology in topogun
+had some strange issues merging subtools in z&amp;hellip; ended up reloading a save to find a piece disappearing and reappearing, sort of flickering as the camera would rotate.</description>
+    </item>
+    
+    <item>
+      <title>cusp versus edge: fight!</title>
+      <link>https://aaronswindell.com/2021/03/28/cusp-versus-edge-fight/</link>
+      <pubDate>Sun, 28 Mar 2021 23:32:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/28/cusp-versus-edge-fight/</guid>
+      <description>life is so difficult to navigate lately&amp;hellip; this is coming from someone who doesn&amp;rsquo;t go anywhere or do anything except live his pursuit i am either on the cusp of something brilliant, some huge revelation or new threshold of understanding; or at the edge of some immeasurable disaster, a great unravelling of everything i have known or built and perhaps disillusion of everything that may ever come to be it is tough to say, maybe I don&amp;rsquo;t wanna label it, or speak the thought into existence progress is coming along well on the seventh spaceship.</description>
+    </item>
+    
     <item>
       <title>boss ship 2 initial topology done</title>
       <link>https://aaronswindell.com/2021/01/03/boss-ship-2-initial-topology-done/</link>

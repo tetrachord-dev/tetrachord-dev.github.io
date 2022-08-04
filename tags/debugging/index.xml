@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debugging on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/debugging/</link>
+    <description>Recent content in debugging on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Wed, 02 Feb 2022 02:30:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>immense suffering</title>
+      <link>https://aaronswindell.com/2022/02/01/immense-suffering/</link>
+      <pubDate>Wed, 02 Feb 2022 02:30:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/02/01/immense-suffering/</guid>
+      <description>have been doing terrible, but slowly getting back in the swing of things fixed a few bugs this week that weren&amp;rsquo;t game breaking and as such have been lingering around for a year or more.</description>
+    </item>
+    
+    <item>
+      <title>mildly winning</title>
+      <link>https://aaronswindell.com/2021/12/09/mildly-winning/</link>
+      <pubDate>Fri, 10 Dec 2021 02:37:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/12/09/mildly-winning/</guid>
+      <description>so, i didn&amp;rsquo;t do anything today, but the rest of the week has been most productive! i&amp;rsquo;m talking big bugs with single lines; it feels like the home stretch, but honestly it looks halfway there.</description>
+    </item>
+    
+  </channel>
+</rss>

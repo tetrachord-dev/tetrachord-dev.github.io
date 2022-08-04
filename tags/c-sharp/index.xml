@@ -6,8 +6,153 @@
     <description>Recent content in c-sharp on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Wed, 10 Mar 2021 02:44:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>difficulty setting and play time integration</title>
+      <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
+      <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</guid>
+      <description>reintroduced the coding for difficulty setting and programmed a play time clock, so that I can finally see how long the gameplay itself is added the ticker to the menu and save file displays, although doing so required rebuilding a bit of the player&amp;rsquo;s prefab and animator graph.</description>
+    </item>
+    
+    <item>
+      <title>depressive boon?</title>
+      <link>https://aaronswindell.com/2022/07/17/depressive-boon/</link>
+      <pubDate>Sun, 17 Jul 2022 19:47:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/17/depressive-boon/</guid>
+      <description>was feeling the typical Sunday Sadness, so I fired up the PC to try and catch up on some of the work from last week I was planning on redoing this week.</description>
+    </item>
+    
+    <item>
+      <title>wasted week</title>
+      <link>https://aaronswindell.com/2022/07/15/wasted-week/</link>
+      <pubDate>Fri, 15 Jul 2022 23:40:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/15/wasted-week/</guid>
+      <description>something I did broke the save system, not really sure what exactly, so I&amp;rsquo;ve backed everything up as it was broken and am restoring last week&amp;rsquo;s backup, which seems to work.</description>
+    </item>
+    
+    <item>
+      <title>difficulty level reckoning</title>
+      <link>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</link>
+      <pubDate>Thu, 14 Jul 2022 01:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</guid>
+      <description>after a bit of first hand experience during my time away from the project with difficulty level, I have decided that a traditional system is indeed needed for my own game.</description>
+    </item>
+    
+    <item>
+      <title>the headless woman &amp;amp; the skip button</title>
+      <link>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</link>
+      <pubDate>Thu, 07 Jul 2022 23:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</guid>
+      <description>it had been awhile since I modeled a human from scratch, so I started one to use as the final boss; shake things up a bit from the machines. progress is going smoothly, mainly because my references seem to be well crafted added a skip button for the dialogue, in case people like to die quickly and numerously.</description>
+    </item>
+    
+    <item>
+      <title>with the cadence of peter lorre</title>
+      <link>https://aaronswindell.com/2022/03/28/with-the-cadence-of-peter-lorre/</link>
+      <pubDate>Mon, 28 Mar 2022 18:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/03/28/with-the-cadence-of-peter-lorre/</guid>
+      <description>what feels like an endless endeavour is slowly grinding along. better late than never, at least that&amp;rsquo;s what they say. finally published the second demo to the Google Play app store for internal testing phase 2.</description>
+    </item>
+    
+    <item>
+      <title>boss ship 2 rigged</title>
+      <link>https://aaronswindell.com/2022/02/22/boss-ship-2-rigged/</link>
+      <pubDate>Wed, 23 Feb 2022 00:29:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/02/22/boss-ship-2-rigged/</guid>
+      <description>finally started setting up the second boss, it is tougher going than I had anticipated. for whatever reason, it doesn&amp;rsquo;t feel like I gave as much consideration beforehand to exactly how this particular boss would articulate what its possible attack patterns may be I then began to realise I hadn&amp;rsquo;t decided where either of the remaining two boss&amp;rsquo; weaknesses were going to be located either.</description>
+    </item>
+    
+    <item>
+      <title>immense suffering</title>
+      <link>https://aaronswindell.com/2022/02/01/immense-suffering/</link>
+      <pubDate>Wed, 02 Feb 2022 02:30:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/02/01/immense-suffering/</guid>
+      <description>have been doing terrible, but slowly getting back in the swing of things fixed a few bugs this week that weren&amp;rsquo;t game breaking and as such have been lingering around for a year or more.</description>
+    </item>
+    
+    <item>
+      <title>mildly winning</title>
+      <link>https://aaronswindell.com/2021/12/09/mildly-winning/</link>
+      <pubDate>Fri, 10 Dec 2021 02:37:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/12/09/mildly-winning/</guid>
+      <description>so, i didn&amp;rsquo;t do anything today, but the rest of the week has been most productive! i&amp;rsquo;m talking big bugs with single lines; it feels like the home stretch, but honestly it looks halfway there.</description>
+    </item>
+    
+    <item>
+      <title>lengthy lapse</title>
+      <link>https://aaronswindell.com/2021/11/18/lengthy-lapse/</link>
+      <pubDate>Thu, 18 Nov 2021 22:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/11/18/lengthy-lapse/</guid>
+      <description>haven&amp;rsquo;t been able to force myself to work on the game for quite some time, have been on a sort of hiatus added changes to correct the energy ability items/shield ability bug, as well as fixed the energy meter spending and shield ability consumption added reset trigger parameter to player animator controller to facilitate the above basically, the animator Rebind function was resetting the animator parameters too, which i use for the shield ability.</description>
+    </item>
+    
+    <item>
+      <title>ouchie</title>
+      <link>https://aaronswindell.com/2021/10/25/ouchie/</link>
+      <pubDate>Tue, 26 Oct 2021 00:55:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/25/ouchie/</guid>
+      <description>difficult day thought i had the new item ability system working before the weekend five hours of work later today, i think it is working. at first i thought the static variables i was using were the problem, but i ended up keeping them.</description>
+    </item>
+    
+    <item>
+      <title>many changes, most recent: item ability functional</title>
+      <link>https://aaronswindell.com/2021/10/21/many-changes-most-recent-item-ability-functional/</link>
+      <pubDate>Fri, 22 Oct 2021 00:51:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/21/many-changes-most-recent-item-ability-functional/</guid>
+      <description>it actually seems to work&amp;hellip; at first test&amp;hellip;
+i just can&amp;rsquo;t use old save data. idk how imma add shit and not break the save data signature&amp;hellip; i didn&amp;rsquo;t even change it, but old files load funny.</description>
+    </item>
+    
+    <item>
+      <title>la, la, bumba</title>
+      <link>https://aaronswindell.com/2021/10/07/la-la-bumba/</link>
+      <pubDate>Fri, 08 Oct 2021 01:41:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/07/la-la-bumba/</guid>
+      <description>i changed like a million things to fix a hundred&amp;hellip; if that isn&amp;rsquo;t a saying, quote me. idk what to even test anymore december I am supposed to add all these people&amp;hellip; the weapon change system seems good&amp;hellip; recent adjustments to equipment strength seems appropriate&amp;hellip; i need to figure out the relic/accessories, the ability system&amp;hellip; what am I missing?</description>
+    </item>
+    
+    <item>
+      <title>holy wasted week Batman!</title>
+      <link>https://aaronswindell.com/2021/07/23/holy-wasted-week-batman/</link>
+      <pubDate>Fri, 23 Jul 2021 23:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/23/holy-wasted-week-batman/</guid>
+      <description>finished laying out the base colors for boss ship 3 in zbrush, still need to paint the decals and decimate also think the weapon effect system is working, managed to figure out a way to set the default effect when unequipping a weapon altogether, which of course wasn&amp;rsquo;t as difficult of a problem as it seemed to be, once i had written the code supposed to test the stage progression system a bit this weekend, maybe i should add in a third type first&amp;hellip; it is good to be feeling motivated again!</description>
+    </item>
+    
+    <item>
+      <title>groovy</title>
+      <link>https://aaronswindell.com/2021/07/16/groovy/</link>
+      <pubDate>Fri, 16 Jul 2021 23:50:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/16/groovy/</guid>
+      <description>actually opened up zbrush this week and got the model imported, the project started. also, started work on the weapon effect system was harder than expected to get a prototype working.</description>
+    </item>
+    
+    <item>
+      <title>cusp versus edge: fight!</title>
+      <link>https://aaronswindell.com/2021/03/28/cusp-versus-edge-fight/</link>
+      <pubDate>Sun, 28 Mar 2021 23:32:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/28/cusp-versus-edge-fight/</guid>
+      <description>life is so difficult to navigate lately&amp;hellip; this is coming from someone who doesn&amp;rsquo;t go anywhere or do anything except live his pursuit i am either on the cusp of something brilliant, some huge revelation or new threshold of understanding; or at the edge of some immeasurable disaster, a great unravelling of everything i have known or built and perhaps disillusion of everything that may ever come to be it is tough to say, maybe I don&amp;rsquo;t wanna label it, or speak the thought into existence progress is coming along well on the seventh spaceship.</description>
+    </item>
+    
     <item>
       <title>moving forward</title>
       <link>https://aaronswindell.com/2021/03/09/moving-forward/</link>

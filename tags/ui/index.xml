@@ -6,8 +6,26 @@
     <description>Recent content in ui on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Sun, 20 Sep 2020 23:28:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 14 Jul 2022 01:24:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>difficulty level reckoning</title>
+      <link>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</link>
+      <pubDate>Thu, 14 Jul 2022 01:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</guid>
+      <description>after a bit of first hand experience during my time away from the project with difficulty level, I have decided that a traditional system is indeed needed for my own game.</description>
+    </item>
+    
+    <item>
+      <title>the headless woman &amp;amp; the skip button</title>
+      <link>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</link>
+      <pubDate>Thu, 07 Jul 2022 23:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</guid>
+      <description>it had been awhile since I modeled a human from scratch, so I started one to use as the final boss; shake things up a bit from the machines. progress is going smoothly, mainly because my references seem to be well crafted added a skip button for the dialogue, in case people like to die quickly and numerously.</description>
+    </item>
+    
     <item>
       <title>slider &amp; input field link script</title>
       <link>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</link>

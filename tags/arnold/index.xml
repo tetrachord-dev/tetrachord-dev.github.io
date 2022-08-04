@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arnold on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/arnold/</link>
+    <description>Recent content in arnold on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 16 Sep 2021 01:49:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/arnold/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>short cut?</title>
+      <link>https://aaronswindell.com/2021/09/15/short-cut/</link>
+      <pubDate>Thu, 16 Sep 2021 01:49:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/09/15/short-cut/</guid>
+      <description>today i modeled and rendered a blaster icon in an hour and a half&amp;hellip; stark contrast to the circuit board, but it was a pretty simple model.</description>
+    </item>
+    
+    <item>
+      <title>healing item icons complete</title>
+      <link>https://aaronswindell.com/2021/09/14/healing-item-icons-complete/</link>
+      <pubDate>Wed, 15 Sep 2021 01:41:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/09/14/healing-item-icons-complete/</guid>
+      <description>took awhile, but happy with the end result</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,80 @@
     <description>Recent content in photoshop on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Thu, 24 Dec 2020 20:42:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Wed, 06 Jul 2022 00:59:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>slowly regaining momentum</title>
+      <link>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</link>
+      <pubDate>Wed, 06 Jul 2022 00:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</guid>
+      <description>it is beginning to happen though added a data privacy button for opting out and lighting effects for the desert world</description>
+    </item>
+    
+    <item>
+      <title>feeling lousy</title>
+      <link>https://aaronswindell.com/2022/07/04/feeling-lousy/</link>
+      <pubDate>Mon, 04 Jul 2022 19:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/04/feeling-lousy/</guid>
+      <description>two or three days of depression, so I&amp;rsquo;m working on a holiday. at least it is my least favorite one, maybe second to new year&amp;rsquo;s, i suppose didn&amp;rsquo;t really do much.</description>
+    </item>
+    
+    <item>
+      <title>painting giant beam particle textures</title>
+      <link>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</link>
+      <pubDate>Sat, 05 Mar 2022 00:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</guid>
+      <description>spent the whole week painting textures and creating shaders for the big attack for the primary attack of the second boss. had some issues with photoshop&amp;rsquo;s recognition of my wacom tablets pressure sensitivity, it was weird and I could have swore it was working.</description>
+    </item>
+    
+    <item>
+      <title>la, la, bumba</title>
+      <link>https://aaronswindell.com/2021/10/07/la-la-bumba/</link>
+      <pubDate>Fri, 08 Oct 2021 01:41:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/07/la-la-bumba/</guid>
+      <description>i changed like a million things to fix a hundred&amp;hellip; if that isn&amp;rsquo;t a saying, quote me. idk what to even test anymore december I am supposed to add all these people&amp;hellip; the weapon change system seems good&amp;hellip; recent adjustments to equipment strength seems appropriate&amp;hellip; i need to figure out the relic/accessories, the ability system&amp;hellip; what am I missing?</description>
+    </item>
+    
+    <item>
+      <title>boss ship 3 model complete</title>
+      <link>https://aaronswindell.com/2021/08/20/boss-ship-3-model-complete/</link>
+      <pubDate>Fri, 20 Aug 2021 17:42:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/08/20/boss-ship-3-model-complete/</guid>
+      <description>got the model imported, all the materials setup and the textures compressed. still need to program the fight and do attack animations</description>
+    </item>
+    
+    <item>
+      <title>boss ship 3 vertex color complete</title>
+      <link>https://aaronswindell.com/2021/07/26/boss-ship-3-vertex-color-complete/</link>
+      <pubDate>Tue, 27 Jul 2021 01:58:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/26/boss-ship-3-vertex-color-complete/</guid>
+      <description>starting the week out well, productivity apps seem to be helping me be aware of and provide accountability for my time. had to do a tiny bit of sculpting to reshape a few parts, i thought i was done with it at least twice, but kept finding details i missed.</description>
+    </item>
+    
+    <item>
+      <title>bday vacay</title>
+      <link>https://aaronswindell.com/2021/05/17/bday-vacay/</link>
+      <pubDate>Tue, 18 May 2021 01:34:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/05/17/bday-vacay/</guid>
+      <description>so, almost done with my month long birthday break it officially began april 23 to play the Nier remake, still did a few things during it though edited the spawn textures for world 0, section 1 to adjust for difficulty need to start modeling items and get on with it</description>
+    </item>
+    
+    <item>
+      <title>second section of first star world prototype</title>
+      <link>https://aaronswindell.com/2021/04/20/second-section-of-first-star-world-prototype/</link>
+      <pubDate>Wed, 21 Apr 2021 02:34:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/04/20/second-section-of-first-star-world-prototype/</guid>
+      <description>laid out spawn textures will probably need to refine ha, this is a haiku</description>
+    </item>
+    
     <item>
       <title>boss 2 zBrush complete</title>
       <link>https://aaronswindell.com/2020/12/24/boss-2-zbrush-complete/</link>

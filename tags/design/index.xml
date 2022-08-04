@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/design/</link>
+    <description>Recent content in design on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>difficulty setting and play time integration</title>
+      <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
+      <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</guid>
+      <description>reintroduced the coding for difficulty setting and programmed a play time clock, so that I can finally see how long the gameplay itself is added the ticker to the menu and save file displays, although doing so required rebuilding a bit of the player&amp;rsquo;s prefab and animator graph.</description>
+    </item>
+    
+    <item>
+      <title>mildly winning</title>
+      <link>https://aaronswindell.com/2021/12/09/mildly-winning/</link>
+      <pubDate>Fri, 10 Dec 2021 02:37:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/12/09/mildly-winning/</guid>
+      <description>so, i didn&amp;rsquo;t do anything today, but the rest of the week has been most productive! i&amp;rsquo;m talking big bugs with single lines; it feels like the home stretch, but honestly it looks halfway there.</description>
+    </item>
+    
+    <item>
+      <title>second section of first star world prototype</title>
+      <link>https://aaronswindell.com/2021/04/20/second-section-of-first-star-world-prototype/</link>
+      <pubDate>Wed, 21 Apr 2021 02:34:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/04/20/second-section-of-first-star-world-prototype/</guid>
+      <description>laid out spawn textures will probably need to refine ha, this is a haiku</description>
+    </item>
+    
+  </channel>
+</rss>

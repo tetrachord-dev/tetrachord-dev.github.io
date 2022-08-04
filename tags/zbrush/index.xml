@@ -6,8 +6,72 @@
     <description>Recent content in zbrush on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Thu, 31 Dec 2020 23:31:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/zbrush/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Mon, 04 Jul 2022 19:35:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/zbrush/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>feeling lousy</title>
+      <link>https://aaronswindell.com/2022/07/04/feeling-lousy/</link>
+      <pubDate>Mon, 04 Jul 2022 19:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/04/feeling-lousy/</guid>
+      <description>two or three days of depression, so I&amp;rsquo;m working on a holiday. at least it is my least favorite one, maybe second to new year&amp;rsquo;s, i suppose didn&amp;rsquo;t really do much.</description>
+    </item>
+    
+    <item>
+      <title>vertex color in maya</title>
+      <link>https://aaronswindell.com/2021/07/29/vertex-color-in-maya/</link>
+      <pubDate>Thu, 29 Jul 2021 20:31:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/29/vertex-color-in-maya/</guid>
+      <description>started retopologising boss ship 3 and i actually figured out a way to see the vertex color data from zbrush in Maya, which should make the process a bit more friendly and eliminate the use of TopoGun altogether.</description>
+    </item>
+    
+    <item>
+      <title>boss ship 3 vertex color complete</title>
+      <link>https://aaronswindell.com/2021/07/26/boss-ship-3-vertex-color-complete/</link>
+      <pubDate>Tue, 27 Jul 2021 01:58:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/26/boss-ship-3-vertex-color-complete/</guid>
+      <description>starting the week out well, productivity apps seem to be helping me be aware of and provide accountability for my time. had to do a tiny bit of sculpting to reshape a few parts, i thought i was done with it at least twice, but kept finding details i missed.</description>
+    </item>
+    
+    <item>
+      <title>holy wasted week Batman!</title>
+      <link>https://aaronswindell.com/2021/07/23/holy-wasted-week-batman/</link>
+      <pubDate>Fri, 23 Jul 2021 23:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/23/holy-wasted-week-batman/</guid>
+      <description>finished laying out the base colors for boss ship 3 in zbrush, still need to paint the decals and decimate also think the weapon effect system is working, managed to figure out a way to set the default effect when unequipping a weapon altogether, which of course wasn&amp;rsquo;t as difficult of a problem as it seemed to be, once i had written the code supposed to test the stage progression system a bit this weekend, maybe i should add in a third type first&amp;hellip; it is good to be feeling motivated again!</description>
+    </item>
+    
+    <item>
+      <title>groovy</title>
+      <link>https://aaronswindell.com/2021/07/16/groovy/</link>
+      <pubDate>Fri, 16 Jul 2021 23:50:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/16/groovy/</guid>
+      <description>actually opened up zbrush this week and got the model imported, the project started. also, started work on the weapon effect system was harder than expected to get a prototype working.</description>
+    </item>
+    
+    <item>
+      <title>spaceship 07 decimated</title>
+      <link>https://aaronswindell.com/2021/03/31/spaceship-07-decimated/</link>
+      <pubDate>Thu, 01 Apr 2021 03:04:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/31/spaceship-07-decimated/</guid>
+      <description>finished up the high resolution model sculpting and vertex colouring in zBrush, got the model decimated and have started laying out the final topology in topogun
+had some strange issues merging subtools in z&amp;hellip; ended up reloading a save to find a piece disappearing and reappearing, sort of flickering as the camera would rotate.</description>
+    </item>
+    
+    <item>
+      <title>cusp versus edge: fight!</title>
+      <link>https://aaronswindell.com/2021/03/28/cusp-versus-edge-fight/</link>
+      <pubDate>Sun, 28 Mar 2021 23:32:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/28/cusp-versus-edge-fight/</guid>
+      <description>life is so difficult to navigate lately&amp;hellip; this is coming from someone who doesn&amp;rsquo;t go anywhere or do anything except live his pursuit i am either on the cusp of something brilliant, some huge revelation or new threshold of understanding; or at the edge of some immeasurable disaster, a great unravelling of everything i have known or built and perhaps disillusion of everything that may ever come to be it is tough to say, maybe I don&amp;rsquo;t wanna label it, or speak the thought into existence progress is coming along well on the seventh spaceship.</description>
+    </item>
+    
     <item>
       <title>deja poo</title>
       <link>https://aaronswindell.com/2020/12/31/deja-poo/</link>

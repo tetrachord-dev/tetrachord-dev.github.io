@@ -6,8 +6,17 @@
     <description>Recent content in substance on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Tue, 03 Nov 2020 01:59:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/substance/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Tue, 17 Aug 2021 23:36:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/substance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>boss ship 3 textures complete</title>
+      <link>https://aaronswindell.com/2021/08/17/boss-ship-3-textures-complete/</link>
+      <pubDate>Tue, 17 Aug 2021 23:36:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/08/17/boss-ship-3-textures-complete/</guid>
+      <description>finished texturing the third boss ship model in substance painter and exported the textures. still need to setup the shaders and do the final FBX export from Maya i can&amp;rsquo;t decide if i want to continue to do the attack animations in Unity, or go a bit ahead and learn the animation and rigging pipeline, so i would already have it under my belt when i go to animate a humanoid character or anything else with a complex rig hierarchy i&amp;rsquo;d obviously want to animate in Maya hmm, indeed</description>
+    </item>
+    
     <item>
       <title>unwritten words</title>
       <link>https://aaronswindell.com/2020/11/02/unwritten-words/</link>

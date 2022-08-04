@@ -6,8 +6,72 @@
     <description>Recent content in note to self on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Fri, 23 Oct 2020 18:27:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/note-to-self/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Tue, 14 Jun 2022 18:59:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/note-to-self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>swapped scripting backend</title>
+      <link>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</link>
+      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</guid>
+      <description>what a rough day i remember it being tricky to go back and forth between scripting backend types (mono, IL2CPP) and needing the internet to do so, but I don&amp;rsquo;t recall having so many problems!</description>
+    </item>
+    
+    <item>
+      <title>painting giant beam particle textures</title>
+      <link>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</link>
+      <pubDate>Sat, 05 Mar 2022 00:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</guid>
+      <description>spent the whole week painting textures and creating shaders for the big attack for the primary attack of the second boss. had some issues with photoshop&amp;rsquo;s recognition of my wacom tablets pressure sensitivity, it was weird and I could have swore it was working.</description>
+    </item>
+    
+    <item>
+      <title>lengthy lapse</title>
+      <link>https://aaronswindell.com/2021/11/18/lengthy-lapse/</link>
+      <pubDate>Thu, 18 Nov 2021 22:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/11/18/lengthy-lapse/</guid>
+      <description>haven&amp;rsquo;t been able to force myself to work on the game for quite some time, have been on a sort of hiatus added changes to correct the energy ability items/shield ability bug, as well as fixed the energy meter spending and shield ability consumption added reset trigger parameter to player animator controller to facilitate the above basically, the animator Rebind function was resetting the animator parameters too, which i use for the shield ability.</description>
+    </item>
+    
+    <item>
+      <title>uv tip</title>
+      <link>https://aaronswindell.com/2021/08/13/uv-tip/</link>
+      <pubDate>Sat, 14 Aug 2021 00:14:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/08/13/uv-tip/</guid>
+      <description>omg, this will save me so many clicks Modeling &amp;gt; Mesh Display &amp;gt; Soften/Harden Edges Options : Texture Borders</description>
+    </item>
+    
+    <item>
+      <title>vertex color in maya</title>
+      <link>https://aaronswindell.com/2021/07/29/vertex-color-in-maya/</link>
+      <pubDate>Thu, 29 Jul 2021 20:31:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/29/vertex-color-in-maya/</guid>
+      <description>started retopologising boss ship 3 and i actually figured out a way to see the vertex color data from zbrush in Maya, which should make the process a bit more friendly and eliminate the use of TopoGun altogether.</description>
+    </item>
+    
+    <item>
+      <title>spaceship 07 final low resolution model</title>
+      <link>https://aaronswindell.com/2021/04/03/spaceship-07-final-low-resolution-model/</link>
+      <pubDate>Sat, 03 Apr 2021 16:39:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/04/03/spaceship-07-final-low-resolution-model/</guid>
+      <description>ended up swapping to Maya halfway through retopologizing this model. sections started to get really close together, even having tried to eliminate such areas in the modeling stage i feel as though i have discovered this before, but the new Maya modeling toolkit is actually better than using TopoGun.</description>
+    </item>
+    
+    <item>
+      <title>spaceship 07 decimated</title>
+      <link>https://aaronswindell.com/2021/03/31/spaceship-07-decimated/</link>
+      <pubDate>Thu, 01 Apr 2021 03:04:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/31/spaceship-07-decimated/</guid>
+      <description>finished up the high resolution model sculpting and vertex colouring in zBrush, got the model decimated and have started laying out the final topology in topogun
+had some strange issues merging subtools in z&amp;hellip; ended up reloading a save to find a piece disappearing and reappearing, sort of flickering as the camera would rotate.</description>
+    </item>
+    
     <item>
       <title>hey self</title>
       <link>https://aaronswindell.com/2020/10/23/hey-self/</link>

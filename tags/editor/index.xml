@@ -6,8 +6,71 @@
     <description>Recent content in editor on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Tue, 20 Oct 2020 01:50:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/editor/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/editor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>difficulty setting and play time integration</title>
+      <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
+      <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</guid>
+      <description>reintroduced the coding for difficulty setting and programmed a play time clock, so that I can finally see how long the gameplay itself is added the ticker to the menu and save file displays, although doing so required rebuilding a bit of the player&amp;rsquo;s prefab and animator graph.</description>
+    </item>
+    
+    <item>
+      <title>depressive boon?</title>
+      <link>https://aaronswindell.com/2022/07/17/depressive-boon/</link>
+      <pubDate>Sun, 17 Jul 2022 19:47:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/17/depressive-boon/</guid>
+      <description>was feeling the typical Sunday Sadness, so I fired up the PC to try and catch up on some of the work from last week I was planning on redoing this week.</description>
+    </item>
+    
+    <item>
+      <title>wasted week</title>
+      <link>https://aaronswindell.com/2022/07/15/wasted-week/</link>
+      <pubDate>Fri, 15 Jul 2022 23:40:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/15/wasted-week/</guid>
+      <description>something I did broke the save system, not really sure what exactly, so I&amp;rsquo;ve backed everything up as it was broken and am restoring last week&amp;rsquo;s backup, which seems to work.</description>
+    </item>
+    
+    <item>
+      <title>slowly regaining momentum</title>
+      <link>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</link>
+      <pubDate>Wed, 06 Jul 2022 00:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</guid>
+      <description>it is beginning to happen though added a data privacy button for opting out and lighting effects for the desert world</description>
+    </item>
+    
+    <item>
+      <title>feeling lousy</title>
+      <link>https://aaronswindell.com/2022/07/04/feeling-lousy/</link>
+      <pubDate>Mon, 04 Jul 2022 19:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/04/feeling-lousy/</guid>
+      <description>two or three days of depression, so I&amp;rsquo;m working on a holiday. at least it is my least favorite one, maybe second to new year&amp;rsquo;s, i suppose didn&amp;rsquo;t really do much.</description>
+    </item>
+    
+    <item>
+      <title>swapped scripting backend</title>
+      <link>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</link>
+      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</guid>
+      <description>what a rough day i remember it being tricky to go back and forth between scripting backend types (mono, IL2CPP) and needing the internet to do so, but I don&amp;rsquo;t recall having so many problems!</description>
+    </item>
+    
+    <item>
+      <title>mildly winning</title>
+      <link>https://aaronswindell.com/2021/12/09/mildly-winning/</link>
+      <pubDate>Fri, 10 Dec 2021 02:37:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/12/09/mildly-winning/</guid>
+      <description>so, i didn&amp;rsquo;t do anything today, but the rest of the week has been most productive! i&amp;rsquo;m talking big bugs with single lines; it feels like the home stretch, but honestly it looks halfway there.</description>
+    </item>
+    
     <item>
       <title>make it make more sense</title>
       <link>https://aaronswindell.com/2020/10/19/make-it-make-more-sense/</link>

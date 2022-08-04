@@ -6,8 +6,380 @@
     <description>Recent content in Development Log on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Wed, 10 Mar 2021 02:44:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>difficulty setting and play time integration</title>
+      <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
+      <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</guid>
+      <description>reintroduced the coding for difficulty setting and programmed a play time clock, so that I can finally see how long the gameplay itself is added the ticker to the menu and save file displays, although doing so required rebuilding a bit of the player&amp;rsquo;s prefab and animator graph.</description>
+    </item>
+    
+    <item>
+      <title>impatient persistence</title>
+      <link>https://aaronswindell.com/2022/07/17/impatient-persistence/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/17/impatient-persistence/</guid>
+      <description>ended up restoring the project so it will be ready to go on monday</description>
+    </item>
+    
+    <item>
+      <title>depressive boon?</title>
+      <link>https://aaronswindell.com/2022/07/17/depressive-boon/</link>
+      <pubDate>Sun, 17 Jul 2022 19:47:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/17/depressive-boon/</guid>
+      <description>was feeling the typical Sunday Sadness, so I fired up the PC to try and catch up on some of the work from last week I was planning on redoing this week.</description>
+    </item>
+    
+    <item>
+      <title>wasted week</title>
+      <link>https://aaronswindell.com/2022/07/15/wasted-week/</link>
+      <pubDate>Fri, 15 Jul 2022 23:40:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/15/wasted-week/</guid>
+      <description>something I did broke the save system, not really sure what exactly, so I&amp;rsquo;ve backed everything up as it was broken and am restoring last week&amp;rsquo;s backup, which seems to work.</description>
+    </item>
+    
+    <item>
+      <title>difficulty level reckoning</title>
+      <link>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</link>
+      <pubDate>Thu, 14 Jul 2022 01:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</guid>
+      <description>after a bit of first hand experience during my time away from the project with difficulty level, I have decided that a traditional system is indeed needed for my own game.</description>
+    </item>
+    
+    <item>
+      <title>the headless woman &amp;amp; the skip button</title>
+      <link>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</link>
+      <pubDate>Thu, 07 Jul 2022 23:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</guid>
+      <description>it had been awhile since I modeled a human from scratch, so I started one to use as the final boss; shake things up a bit from the machines. progress is going smoothly, mainly because my references seem to be well crafted added a skip button for the dialogue, in case people like to die quickly and numerously.</description>
+    </item>
+    
+    <item>
+      <title>slowly regaining momentum</title>
+      <link>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</link>
+      <pubDate>Wed, 06 Jul 2022 00:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</guid>
+      <description>it is beginning to happen though added a data privacy button for opting out and lighting effects for the desert world</description>
+    </item>
+    
+    <item>
+      <title>feeling lousy</title>
+      <link>https://aaronswindell.com/2022/07/04/feeling-lousy/</link>
+      <pubDate>Mon, 04 Jul 2022 19:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/04/feeling-lousy/</guid>
+      <description>two or three days of depression, so I&amp;rsquo;m working on a holiday. at least it is my least favorite one, maybe second to new year&amp;rsquo;s, i suppose didn&amp;rsquo;t really do much.</description>
+    </item>
+    
+    <item>
+      <title>swapped scripting backend</title>
+      <link>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</link>
+      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</guid>
+      <description>what a rough day i remember it being tricky to go back and forth between scripting backend types (mono, IL2CPP) and needing the internet to do so, but I don&amp;rsquo;t recall having so many problems!</description>
+    </item>
+    
+    <item>
+      <title>operation: paper push</title>
+      <link>https://aaronswindell.com/2022/06/09/operation-paper-push/</link>
+      <pubDate>Fri, 10 Jun 2022 01:52:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/06/09/operation-paper-push/</guid>
+      <description>no, seriously&amp;hellip; i think this might help all of it needs to be done anyhow mayhap a month of dreary upkeep and a return to the masses of the online roleplayers be just what the doctor ordered i should real quick build a three kit kill version for test play during this time, the level progression values as is are definitely off-putting</description>
+    </item>
+    
+    <item>
+      <title>data safety form complete</title>
+      <link>https://aaronswindell.com/2022/06/07/data-safety-form-complete/</link>
+      <pubDate>Tue, 07 Jun 2022 16:45:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/06/07/data-safety-form-complete/</guid>
+      <description>i managed to complete Google Play&amp;rsquo;s data safety form within a day, despite my initial expectations of its difficulty. in the end, it was just a matter of hunkering down and doing it.</description>
+    </item>
+    
+    <item>
+      <title>conclusion of operation: octo-squid</title>
+      <link>https://aaronswindell.com/2022/05/15/conclusion-of-operation-octo-squid/</link>
+      <pubDate>Sun, 15 May 2022 16:40:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/05/15/conclusion-of-operation-octo-squid/</guid>
+      <description>i am formally declaring (announcing?) the conclusion of operation: octo-squid. while the operation&amp;rsquo;s primary objectives will remain in place, i feel that the short-term goal the regimen was put in place to achieve has been accomplished for the time being.</description>
+    </item>
+    
+    <item>
+      <title>hiatus drawing to a close</title>
+      <link>https://aaronswindell.com/2022/05/09/hiatus-drawing-to-a-close/</link>
+      <pubDate>Mon, 09 May 2022 22:04:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/05/09/hiatus-drawing-to-a-close/</guid>
+      <description>i can feel the pangs of art beginning to return after a month or so of respite. i think i shall try to ease myself back into the actual creative parts by working on some practical aspects, that have been neglected as of late, to begin.</description>
+    </item>
+    
+    <item>
+      <title>with the cadence of peter lorre</title>
+      <link>https://aaronswindell.com/2022/03/28/with-the-cadence-of-peter-lorre/</link>
+      <pubDate>Mon, 28 Mar 2022 18:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/03/28/with-the-cadence-of-peter-lorre/</guid>
+      <description>what feels like an endless endeavour is slowly grinding along. better late than never, at least that&amp;rsquo;s what they say. finally published the second demo to the Google Play app store for internal testing phase 2.</description>
+    </item>
+    
+    <item>
+      <title>painting giant beam particle textures</title>
+      <link>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</link>
+      <pubDate>Sat, 05 Mar 2022 00:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</guid>
+      <description>spent the whole week painting textures and creating shaders for the big attack for the primary attack of the second boss. had some issues with photoshop&amp;rsquo;s recognition of my wacom tablets pressure sensitivity, it was weird and I could have swore it was working.</description>
+    </item>
+    
+    <item>
+      <title>boss ship 2 rigged</title>
+      <link>https://aaronswindell.com/2022/02/22/boss-ship-2-rigged/</link>
+      <pubDate>Wed, 23 Feb 2022 00:29:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/02/22/boss-ship-2-rigged/</guid>
+      <description>finally started setting up the second boss, it is tougher going than I had anticipated. for whatever reason, it doesn&amp;rsquo;t feel like I gave as much consideration beforehand to exactly how this particular boss would articulate what its possible attack patterns may be I then began to realise I hadn&amp;rsquo;t decided where either of the remaining two boss&amp;rsquo; weaknesses were going to be located either.</description>
+    </item>
+    
+    <item>
+      <title>sporadic progression</title>
+      <link>https://aaronswindell.com/2022/02/16/sporadic-progression/</link>
+      <pubDate>Thu, 17 Feb 2022 02:54:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/02/16/sporadic-progression/</guid>
+      <description>have only been able to manage to be productive every other week or so. today was the first day i felt like I worked a real day all year the terrain for planet 3 is almost done after around one full day&amp;rsquo;s work, just the baking left to do, but I have many adjustments that are still pending testing still really difficult to make myself play the game to test things.</description>
+    </item>
+    
+    <item>
+      <title>immense suffering</title>
+      <link>https://aaronswindell.com/2022/02/01/immense-suffering/</link>
+      <pubDate>Wed, 02 Feb 2022 02:30:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/02/01/immense-suffering/</guid>
+      <description>have been doing terrible, but slowly getting back in the swing of things fixed a few bugs this week that weren&amp;rsquo;t game breaking and as such have been lingering around for a year or more.</description>
+    </item>
+    
+    <item>
+      <title>extreme progression difficulty</title>
+      <link>https://aaronswindell.com/2021/12/21/extreme-progression-difficulty/</link>
+      <pubDate>Wed, 22 Dec 2021 02:01:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/12/21/extreme-progression-difficulty/</guid>
+      <description>really hard this week having so much trouble finishing this project, in general i really don&amp;rsquo;t know why there was supposed to be a December demo, but it doesn&amp;rsquo;t look like it will be on time i will get it done eventually though you betcha, you betcha</description>
+    </item>
+    
+    <item>
+      <title>mildly winning</title>
+      <link>https://aaronswindell.com/2021/12/09/mildly-winning/</link>
+      <pubDate>Fri, 10 Dec 2021 02:37:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/12/09/mildly-winning/</guid>
+      <description>so, i didn&amp;rsquo;t do anything today, but the rest of the week has been most productive! i&amp;rsquo;m talking big bugs with single lines; it feels like the home stretch, but honestly it looks halfway there.</description>
+    </item>
+    
+    <item>
+      <title>lengthy lapse</title>
+      <link>https://aaronswindell.com/2021/11/18/lengthy-lapse/</link>
+      <pubDate>Thu, 18 Nov 2021 22:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/11/18/lengthy-lapse/</guid>
+      <description>haven&amp;rsquo;t been able to force myself to work on the game for quite some time, have been on a sort of hiatus added changes to correct the energy ability items/shield ability bug, as well as fixed the energy meter spending and shield ability consumption added reset trigger parameter to player animator controller to facilitate the above basically, the animator Rebind function was resetting the animator parameters too, which i use for the shield ability.</description>
+    </item>
+    
+    <item>
+      <title>ouchie</title>
+      <link>https://aaronswindell.com/2021/10/25/ouchie/</link>
+      <pubDate>Tue, 26 Oct 2021 00:55:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/25/ouchie/</guid>
+      <description>difficult day thought i had the new item ability system working before the weekend five hours of work later today, i think it is working. at first i thought the static variables i was using were the problem, but i ended up keeping them.</description>
+    </item>
+    
+    <item>
+      <title>borked beyond bork</title>
+      <link>https://aaronswindell.com/2021/10/24/borked-beyond-bork/</link>
+      <pubDate>Sun, 24 Oct 2021 22:58:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/24/borked-beyond-bork/</guid>
+      <description>nanu, nanu once upon a time i thought i programmed this ability swapping system easy peasy fast track: reality murray&amp;rsquo;s law</description>
+    </item>
+    
+    <item>
+      <title>many changes, most recent: item ability functional</title>
+      <link>https://aaronswindell.com/2021/10/21/many-changes-most-recent-item-ability-functional/</link>
+      <pubDate>Fri, 22 Oct 2021 00:51:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/21/many-changes-most-recent-item-ability-functional/</guid>
+      <description>it actually seems to work&amp;hellip; at first test&amp;hellip;
+i just can&amp;rsquo;t use old save data. idk how imma add shit and not break the save data signature&amp;hellip; i didn&amp;rsquo;t even change it, but old files load funny.</description>
+    </item>
+    
+    <item>
+      <title>la, la, bumba</title>
+      <link>https://aaronswindell.com/2021/10/07/la-la-bumba/</link>
+      <pubDate>Fri, 08 Oct 2021 01:41:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/10/07/la-la-bumba/</guid>
+      <description>i changed like a million things to fix a hundred&amp;hellip; if that isn&amp;rsquo;t a saying, quote me. idk what to even test anymore december I am supposed to add all these people&amp;hellip; the weapon change system seems good&amp;hellip; recent adjustments to equipment strength seems appropriate&amp;hellip; i need to figure out the relic/accessories, the ability system&amp;hellip; what am I missing?</description>
+    </item>
+    
+    <item>
+      <title>short cut?</title>
+      <link>https://aaronswindell.com/2021/09/15/short-cut/</link>
+      <pubDate>Thu, 16 Sep 2021 01:49:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/09/15/short-cut/</guid>
+      <description>today i modeled and rendered a blaster icon in an hour and a half&amp;hellip; stark contrast to the circuit board, but it was a pretty simple model.</description>
+    </item>
+    
+    <item>
+      <title>healing item icons complete</title>
+      <link>https://aaronswindell.com/2021/09/14/healing-item-icons-complete/</link>
+      <pubDate>Wed, 15 Sep 2021 01:41:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/09/14/healing-item-icons-complete/</guid>
+      <description>took awhile, but happy with the end result</description>
+    </item>
+    
+    <item>
+      <title>boss ship 3 model complete</title>
+      <link>https://aaronswindell.com/2021/08/20/boss-ship-3-model-complete/</link>
+      <pubDate>Fri, 20 Aug 2021 17:42:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/08/20/boss-ship-3-model-complete/</guid>
+      <description>got the model imported, all the materials setup and the textures compressed. still need to program the fight and do attack animations</description>
+    </item>
+    
+    <item>
+      <title>boss ship 3 textures complete</title>
+      <link>https://aaronswindell.com/2021/08/17/boss-ship-3-textures-complete/</link>
+      <pubDate>Tue, 17 Aug 2021 23:36:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/08/17/boss-ship-3-textures-complete/</guid>
+      <description>finished texturing the third boss ship model in substance painter and exported the textures. still need to setup the shaders and do the final FBX export from Maya i can&amp;rsquo;t decide if i want to continue to do the attack animations in Unity, or go a bit ahead and learn the animation and rigging pipeline, so i would already have it under my belt when i go to animate a humanoid character or anything else with a complex rig hierarchy i&amp;rsquo;d obviously want to animate in Maya hmm, indeed</description>
+    </item>
+    
+    <item>
+      <title>uv tip</title>
+      <link>https://aaronswindell.com/2021/08/13/uv-tip/</link>
+      <pubDate>Sat, 14 Aug 2021 00:14:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/08/13/uv-tip/</guid>
+      <description>omg, this will save me so many clicks Modeling &amp;gt; Mesh Display &amp;gt; Soften/Harden Edges Options : Texture Borders</description>
+    </item>
+    
+    <item>
+      <title>vertex color in maya</title>
+      <link>https://aaronswindell.com/2021/07/29/vertex-color-in-maya/</link>
+      <pubDate>Thu, 29 Jul 2021 20:31:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/29/vertex-color-in-maya/</guid>
+      <description>started retopologising boss ship 3 and i actually figured out a way to see the vertex color data from zbrush in Maya, which should make the process a bit more friendly and eliminate the use of TopoGun altogether.</description>
+    </item>
+    
+    <item>
+      <title>boss ship 3 vertex color complete</title>
+      <link>https://aaronswindell.com/2021/07/26/boss-ship-3-vertex-color-complete/</link>
+      <pubDate>Tue, 27 Jul 2021 01:58:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/26/boss-ship-3-vertex-color-complete/</guid>
+      <description>starting the week out well, productivity apps seem to be helping me be aware of and provide accountability for my time. had to do a tiny bit of sculpting to reshape a few parts, i thought i was done with it at least twice, but kept finding details i missed.</description>
+    </item>
+    
+    <item>
+      <title>holy wasted week Batman!</title>
+      <link>https://aaronswindell.com/2021/07/23/holy-wasted-week-batman/</link>
+      <pubDate>Fri, 23 Jul 2021 23:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/23/holy-wasted-week-batman/</guid>
+      <description>finished laying out the base colors for boss ship 3 in zbrush, still need to paint the decals and decimate also think the weapon effect system is working, managed to figure out a way to set the default effect when unequipping a weapon altogether, which of course wasn&amp;rsquo;t as difficult of a problem as it seemed to be, once i had written the code supposed to test the stage progression system a bit this weekend, maybe i should add in a third type first&amp;hellip; it is good to be feeling motivated again!</description>
+    </item>
+    
+    <item>
+      <title>groovy</title>
+      <link>https://aaronswindell.com/2021/07/16/groovy/</link>
+      <pubDate>Fri, 16 Jul 2021 23:50:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/16/groovy/</guid>
+      <description>actually opened up zbrush this week and got the model imported, the project started. also, started work on the weapon effect system was harder than expected to get a prototype working.</description>
+    </item>
+    
+    <item>
+      <title>procrastinate the date</title>
+      <link>https://aaronswindell.com/2021/07/10/procrastinate-the-date/</link>
+      <pubDate>Sat, 10 Jul 2021 14:13:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/07/10/procrastinate-the-date/</guid>
+      <description>my birthday vacation seems to have inadvertently become a summer stay, either that or I&amp;rsquo;ve reached a slump. slowly, but surely i am finding fresh motive to continue.
+there was a bit of a temporary detour in attempt to get better internet infrastructure in my home, but in the end my efforts have proven fruitless.</description>
+    </item>
+    
+    <item>
+      <title>bday vacay</title>
+      <link>https://aaronswindell.com/2021/05/17/bday-vacay/</link>
+      <pubDate>Tue, 18 May 2021 01:34:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/05/17/bday-vacay/</guid>
+      <description>so, almost done with my month long birthday break it officially began april 23 to play the Nier remake, still did a few things during it though edited the spawn textures for world 0, section 1 to adjust for difficulty need to start modeling items and get on with it</description>
+    </item>
+    
+    <item>
+      <title>second section of first star world prototype</title>
+      <link>https://aaronswindell.com/2021/04/20/second-section-of-first-star-world-prototype/</link>
+      <pubDate>Wed, 21 Apr 2021 02:34:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/04/20/second-section-of-first-star-world-prototype/</guid>
+      <description>laid out spawn textures will probably need to refine ha, this is a haiku</description>
+    </item>
+    
+    <item>
+      <title>spaceship 07 in game</title>
+      <link>https://aaronswindell.com/2021/04/09/spaceship-07-in-game/</link>
+      <pubDate>Fri, 09 Apr 2021 23:19:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/04/09/spaceship-07-in-game/</guid>
+      <description>another unproductive feeling week. how long did this damn model even take? has it been forever? it feels like it need to test the game and pivot back to programming next week.</description>
+    </item>
+    
+    <item>
+      <title>spaceship 07 final low resolution model</title>
+      <link>https://aaronswindell.com/2021/04/03/spaceship-07-final-low-resolution-model/</link>
+      <pubDate>Sat, 03 Apr 2021 16:39:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/04/03/spaceship-07-final-low-resolution-model/</guid>
+      <description>ended up swapping to Maya halfway through retopologizing this model. sections started to get really close together, even having tried to eliminate such areas in the modeling stage i feel as though i have discovered this before, but the new Maya modeling toolkit is actually better than using TopoGun.</description>
+    </item>
+    
+    <item>
+      <title>spaceship 07 decimated</title>
+      <link>https://aaronswindell.com/2021/03/31/spaceship-07-decimated/</link>
+      <pubDate>Thu, 01 Apr 2021 03:04:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/31/spaceship-07-decimated/</guid>
+      <description>finished up the high resolution model sculpting and vertex colouring in zBrush, got the model decimated and have started laying out the final topology in topogun
+had some strange issues merging subtools in z&amp;hellip; ended up reloading a save to find a piece disappearing and reappearing, sort of flickering as the camera would rotate.</description>
+    </item>
+    
+    <item>
+      <title>cusp versus edge: fight!</title>
+      <link>https://aaronswindell.com/2021/03/28/cusp-versus-edge-fight/</link>
+      <pubDate>Sun, 28 Mar 2021 23:32:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/03/28/cusp-versus-edge-fight/</guid>
+      <description>life is so difficult to navigate lately&amp;hellip; this is coming from someone who doesn&amp;rsquo;t go anywhere or do anything except live his pursuit i am either on the cusp of something brilliant, some huge revelation or new threshold of understanding; or at the edge of some immeasurable disaster, a great unravelling of everything i have known or built and perhaps disillusion of everything that may ever come to be it is tough to say, maybe I don&amp;rsquo;t wanna label it, or speak the thought into existence progress is coming along well on the seventh spaceship.</description>
+    </item>
+    
     <item>
       <title>moving forward</title>
       <link>https://aaronswindell.com/2021/03/09/moving-forward/</link>
@@ -395,7 +767,7 @@ after posting it here, it looks like the entire for loop is unnecessary, after a
       <pubDate>Thu, 28 May 2020 23:43:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/2020/05/28/two-weeks-off/</guid>
-      <description>today was first day I&amp;rsquo;ve tried working on the game in a few weeks. kinda felt good, but I tried to keep it simple for the first day back at.it. still working on the first boss&#39; attack pattern.</description>
+      <description>today was first day I&amp;rsquo;ve tried working on the game in a few weeks. kinda felt good, but I tried to keep it simple for the first day back at.it. still working on the first boss&amp;rsquo; attack pattern.</description>
     </item>
     
     <item>
@@ -799,7 +1171,7 @@ the process is still in progress, but I think I finally figured out how to solve
       <pubDate>Tue, 05 Nov 2019 23:14:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/2019/11/05/first-world-terrain-and-player-leveling-system-implemented/</guid>
-      <description>got the seams out of the terrain, just decided &amp;lsquo;eff it and painted them out in Photoshop. what was weird was I still had some kinda seam between the tiles, but a bit of overlap where the tile repeats took care of the job.</description>
+      <description>got the seams out of the terrain, just decided &amp;rsquo;eff it and painted them out in Photoshop. what was weird was I still had some kinda seam between the tiles, but a bit of overlap where the tile repeats took care of the job.</description>
     </item>
     
     <item>
