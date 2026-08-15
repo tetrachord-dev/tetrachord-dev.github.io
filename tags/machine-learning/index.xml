@@ -6,17 +6,8 @@
     <description>Recent content in machine learning on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 00:48:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aaronswindell.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-=======
     <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Wed, 16 Dec 2020 00:48:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 600ed208664a4c523005523275bb488e6f18ddaa
     <item>
       <title>create &#43; learn</title>
       <link>https://aaronswindell.com/2020/12/15/create-learn/</link>
@@ -27,8 +18,4 @@
     </item>
     
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> 600ed208664a4c523005523275bb488e6f18ddaa

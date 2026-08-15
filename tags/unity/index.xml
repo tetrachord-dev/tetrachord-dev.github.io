@@ -6,53 +6,8 @@
     <description>Recent content in unity on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Thu, 05 Feb 2026 18:08:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aaronswindell.com/tags/unity/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>anti-anxiety export advice</title>
-      <link>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</link>
-      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</guid>
-      <description>i recently had to start using Maya&amp;rsquo;s Game Exporter for some reason my old workflow seemed to produce inconsistent results when working on the final boss previously, using the Send To Unity command seemed to work perfectly however, something changed and had me pulling my hair out foolishly, i neglected to document rectifying the issue, which has led to several instances of pattern balding, all while trying desperately to retrace my steps let this entry serve to alleviate further distress</description>
-    </item>
-    
-    <item>
-      <title>memories</title>
-      <link>https://aaronswindell.com/2024/06/19/memories/</link>
-      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/2024/06/19/memories/</guid>
-      <description>had a profound remembrance today, doing what i had previously thought a mundane task and tried to think positively about during the last log. i suppose i regarded it as a trivial, time consuming thing with no potential of any intellectual benefit however, rendering out these item icons and many times re-rendering them, i remembered a very important factoid from college.</description>
-    </item>
-    
-    <item>
-      <title>again?</title>
-      <link>https://aaronswindell.com/2024/06/17/again/</link>
-      <pubDate>Mon, 17 Jun 2024 14:48:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/2024/06/17/again/</guid>
-      <description>i can&amp;rsquo;t believe it&amp;rsquo;s been over a year since my last post. once again, i have been working on the project here and there when time permits, but full scale development had taken a back seat to life events.</description>
-    </item>
-    
-    <item>
-      <title>long time, no update</title>
-      <link>https://aaronswindell.com/2023/04/24/long-time-no-update/</link>
-      <pubDate>Mon, 24 Apr 2023 21:23:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/2023/04/24/long-time-no-update/</guid>
-      <description>that is not to say there has not been progress. unfortunately development has taken a bit of a back seat to life circumstances, but is starting to get back on track.</description>
-    </item>
-    
-=======
     <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/unity/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 600ed208664a4c523005523275bb488e6f18ddaa
     <item>
       <title>difficulty setting and play time integration</title>
       <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
@@ -398,11 +353,7 @@ you know you wrote some sexy code, when what you added to the code base is less 
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title>slider &amp;amp; input field link script</title>
-=======
       <title>slider &amp; input field link script</title>
->>>>>>> 600ed208664a4c523005523275bb488e6f18ddaa
       <link>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</link>
       <pubDate>Sun, 20 Sep 2020 23:28:00 +0000</pubDate>
       
@@ -421,8 +372,4 @@ after posting it here, it looks like the entire for loop is unnecessary, after a
     </item>
     
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> 600ed208664a4c523005523275bb488e6f18ddaa
