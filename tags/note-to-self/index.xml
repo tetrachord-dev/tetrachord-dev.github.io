@@ -6,26 +6,8 @@
     <description>Recent content in note to self on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 02:03:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aaronswindell.com/tags/note-to-self/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>memories</title>
-      <link>https://aaronswindell.com/2024/06/19/memories/</link>
-      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/2024/06/19/memories/</guid>
-      <description>had a profound remembrance today, doing what i had previously thought a mundane task and tried to think positively about during the last log. i suppose i regarded it as a trivial, time consuming thing with no potential of any intellectual benefit however, rendering out these item icons and many times re-rendering them, i remembered a very important factoid from college.</description>
-    </item>
-    
-=======
     <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Tue, 14 Jun 2022 18:59:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/note-to-self/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
     <item>
       <title>swapped scripting backend</title>
       <link>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</link>
@@ -100,8 +82,4 @@ had some strange issues merging subtools in z&amp;hellip; ended up reloading a s
     </item>
     
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
