@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>launch on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/launch/</link>
+    <description>Recent content in launch on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Sat, 08 Aug 2026 01:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaronswindell.com/tags/launch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Official Release</title>
+      <link>https://aaronswindell.com/2026/08/07/first-official-release/</link>
+      <pubDate>Sat, 08 Aug 2026 01:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2026/08/07/first-official-release/</guid>
+      <description>Dextrora is officially live! Version 1.0 delivers the foundation of the adventure, with many more updates planned. Support the game early by purchasing today, and secure your front-row seat for future expansions.</description>
+    </item>
+    
+  </channel>
+</rss>

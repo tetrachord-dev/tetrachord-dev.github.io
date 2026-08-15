@@ -6,8 +6,35 @@
     <description>Recent content in design on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Mon, 17 Jun 2024 14:48:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaronswindell.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>again?</title>
+      <link>https://aaronswindell.com/2024/06/17/again/</link>
+      <pubDate>Mon, 17 Jun 2024 14:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/06/17/again/</guid>
+      <description>i can&amp;rsquo;t believe it&amp;rsquo;s been over a year since my last post. once again, i have been working on the project here and there when time permits, but full scale development had taken a back seat to life events.</description>
+    </item>
+    
+    <item>
+      <title>long time, no update</title>
+      <link>https://aaronswindell.com/2023/04/24/long-time-no-update/</link>
+      <pubDate>Mon, 24 Apr 2023 21:23:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2023/04/24/long-time-no-update/</guid>
+      <description>that is not to say there has not been progress. unfortunately development has taken a bit of a back seat to life circumstances, but is starting to get back on track.</description>
+    </item>
+    
+=======
     <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
     <item>
       <title>difficulty setting and play time integration</title>
       <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
@@ -36,4 +63,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57

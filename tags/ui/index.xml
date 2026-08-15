@@ -6,8 +6,17 @@
     <description>Recent content in ui on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 14 Jul 2022 01:24:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaronswindell.com/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+=======
     <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Thu, 14 Jul 2022 01:24:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
     <item>
       <title>difficulty level reckoning</title>
       <link>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</link>
@@ -27,7 +36,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>slider &amp;amp; input field link script</title>
+=======
       <title>slider &amp; input field link script</title>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <link>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</link>
       <pubDate>Sun, 20 Sep 2020 23:28:00 +0000</pubDate>
       
@@ -46,4 +59,8 @@ after posting it here, it looks like the entire for loop is unnecessary, after a
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57

@@ -6,8 +6,35 @@
     <description>Recent content in research on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 20 Jun 2024 02:03:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaronswindell.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>memories</title>
+      <link>https://aaronswindell.com/2024/06/19/memories/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/06/19/memories/</guid>
+      <description>had a profound remembrance today, doing what i had previously thought a mundane task and tried to think positively about during the last log. i suppose i regarded it as a trivial, time consuming thing with no potential of any intellectual benefit however, rendering out these item icons and many times re-rendering them, i remembered a very important factoid from college.</description>
+    </item>
+    
+    <item>
+      <title>long time, no update</title>
+      <link>https://aaronswindell.com/2023/04/24/long-time-no-update/</link>
+      <pubDate>Mon, 24 Apr 2023 21:23:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2023/04/24/long-time-no-update/</guid>
+      <description>that is not to say there has not been progress. unfortunately development has taken a bit of a back seat to life circumstances, but is starting to get back on track.</description>
+    </item>
+    
+=======
     <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Tue, 07 Jun 2022 16:45:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
     <item>
       <title>data safety form complete</title>
       <link>https://aaronswindell.com/2022/06/07/data-safety-form-complete/</link>
@@ -27,4 +54,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57

@@ -6,6 +6,29 @@
     <description>Recent content in Tags on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Sat, 08 Aug 2026 01:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaronswindell.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dextrora</title>
+      <link>https://aaronswindell.com/tags/dextrora/</link>
+      <pubDate>Sat, 08 Aug 2026 01:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/dextrora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>launch</title>
+      <link>https://aaronswindell.com/tags/launch/</link>
+      <pubDate>Sat, 08 Aug 2026 01:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/launch/</guid>
+=======
     <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,69 +37,281 @@
       <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/tags/c-sharp/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>release</title>
+      <link>https://aaronswindell.com/tags/release/</link>
+      <pubDate>Sat, 08 Aug 2026 01:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/release/</guid>
+=======
       <title>design</title>
       <link>https://aaronswindell.com/tags/design/</link>
       <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/tags/design/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>tetrachord</title>
+      <link>https://aaronswindell.com/tags/tetrachord/</link>
+      <pubDate>Sat, 08 Aug 2026 01:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/tetrachord/</guid>
+=======
       <title>development</title>
       <link>https://aaronswindell.com/tags/development/</link>
       <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/tags/development/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>animation</title>
+      <link>https://aaronswindell.com/tags/animation/</link>
+      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/animation/</guid>
+=======
       <title>editor</title>
       <link>https://aaronswindell.com/tags/editor/</link>
       <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/tags/editor/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>fbx export</title>
+      <link>https://aaronswindell.com/tags/fbx-export/</link>
+      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/fbx-export/</guid>
+=======
       <title>unity</title>
       <link>https://aaronswindell.com/tags/unity/</link>
       <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/tags/unity/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <description></description>
     </item>
     
     <item>
       <title>maya</title>
       <link>https://aaronswindell.com/tags/maya/</link>
+<<<<<<< HEAD
+      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
+=======
       <pubDate>Thu, 14 Jul 2022 01:24:00 +0000</pubDate>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       
       <guid>https://aaronswindell.com/tags/maya/</guid>
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>note to</title>
+      <link>https://aaronswindell.com/tags/note-to/</link>
+      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/note-to/</guid>
+=======
       <title>ui</title>
       <link>https://aaronswindell.com/tags/ui/</link>
       <pubDate>Thu, 14 Jul 2022 01:24:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/tags/ui/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>unity</title>
+      <link>https://aaronswindell.com/tags/unity/</link>
+      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/unity/</guid>
+=======
       <title>photoshop</title>
       <link>https://aaronswindell.com/tags/photoshop/</link>
       <pubDate>Wed, 06 Jul 2022 00:59:00 +0000</pubDate>
       
       <guid>https://aaronswindell.com/tags/photoshop/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>arnold</title>
+      <link>https://aaronswindell.com/tags/arnold/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/arnold/</guid>
+=======
+      <title>painter</title>
+      <link>https://aaronswindell.com/tags/painter/</link>
+      <pubDate>Mon, 04 Jul 2022 19:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/painter/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>dcc</title>
+      <link>https://aaronswindell.com/tags/dcc/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/dcc/</guid>
+=======
+      <title>zbrush</title>
+      <link>https://aaronswindell.com/tags/zbrush/</link>
+      <pubDate>Mon, 04 Jul 2022 19:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/zbrush/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>development</title>
+      <link>https://aaronswindell.com/tags/development/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/development/</guid>
+=======
+      <title>google play</title>
+      <link>https://aaronswindell.com/tags/google-play/</link>
+      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/google-play/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>note to self</title>
+      <link>https://aaronswindell.com/tags/note-to-self/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/note-to-self/</guid>
+=======
+      <title>gradle</title>
+      <link>https://aaronswindell.com/tags/gradle/</link>
+      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/gradle/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>photoshop</title>
+      <link>https://aaronswindell.com/tags/photoshop/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/photoshop/</guid>
+=======
+      <title>note to self</title>
+      <link>https://aaronswindell.com/tags/note-to-self/</link>
+      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/note-to-self/</guid>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://aaronswindell.com/tags/research/</link>
+<<<<<<< HEAD
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+=======
+      <pubDate>Tue, 07 Jun 2022 16:45:00 +0000</pubDate>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
+      
+      <guid>https://aaronswindell.com/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>shaders</title>
+      <link>https://aaronswindell.com/tags/shaders/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/shaders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c-sharp</title>
+      <link>https://aaronswindell.com/tags/c-sharp/</link>
+      <pubDate>Mon, 17 Jun 2024 14:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/c-sharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://aaronswindell.com/tags/design/</link>
+      <pubDate>Mon, 17 Jun 2024 14:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>editor</title>
+      <link>https://aaronswindell.com/tags/editor/</link>
+      <pubDate>Mon, 17 Jun 2024 14:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/editor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>particles</title>
+      <link>https://aaronswindell.com/tags/particles/</link>
+      <pubDate>Mon, 17 Jun 2024 14:48:00 +0000</pubDate>
+=======
+      <title>particles</title>
+      <link>https://aaronswindell.com/tags/particles/</link>
+      <pubDate>Sat, 05 Mar 2022 00:24:00 +0000</pubDate>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
+      
+      <guid>https://aaronswindell.com/tags/particles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>ui</title>
+      <link>https://aaronswindell.com/tags/ui/</link>
+      <pubDate>Thu, 14 Jul 2022 01:24:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/tags/ui/</guid>
       <description></description>
     </item>
     
@@ -117,33 +352,8 @@
     </item>
     
     <item>
-      <title>note to self</title>
-      <link>https://aaronswindell.com/tags/note-to-self/</link>
-      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/tags/note-to-self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>https://aaronswindell.com/tags/research/</link>
-      <pubDate>Tue, 07 Jun 2022 16:45:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>particles</title>
-      <link>https://aaronswindell.com/tags/particles/</link>
-      <pubDate>Sat, 05 Mar 2022 00:24:00 +0000</pubDate>
-      
-      <guid>https://aaronswindell.com/tags/particles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
+=======
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <title>shuriken</title>
       <link>https://aaronswindell.com/tags/shuriken/</link>
       <pubDate>Sat, 05 Mar 2022 00:24:00 +0000</pubDate>
@@ -198,6 +408,8 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
       <title>arnold</title>
       <link>https://aaronswindell.com/tags/arnold/</link>
       <pubDate>Thu, 16 Sep 2021 01:49:00 +0000</pubDate>
@@ -207,6 +419,7 @@
     </item>
     
     <item>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <title>substance</title>
       <link>https://aaronswindell.com/tags/substance/</link>
       <pubDate>Tue, 17 Aug 2021 23:36:00 +0000</pubDate>
@@ -225,6 +438,8 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
       <title>dcc</title>
       <link>https://aaronswindell.com/tags/dcc/</link>
       <pubDate>Mon, 22 Feb 2021 23:49:00 +0000</pubDate>
@@ -234,6 +449,7 @@
     </item>
     
     <item>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <title>ai</title>
       <link>https://aaronswindell.com/tags/ai/</link>
       <pubDate>Fri, 18 Dec 2020 01:29:00 +0000</pubDate>
@@ -306,4 +522,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
