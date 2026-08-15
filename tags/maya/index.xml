@@ -6,8 +6,30 @@
     <description>Recent content in maya on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Thu, 14 Jul 2022 01:24:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/maya/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 05 Feb 2026 18:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaronswindell.com/tags/maya/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>anti-anxiety export advice</title>
+      <link>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</link>
+      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</guid>
+      <description>i recently had to start using Maya&amp;rsquo;s Game Exporter for some reason my old workflow seemed to produce inconsistent results when working on the final boss previously, using the Send To Unity command seemed to work perfectly however, something changed and had me pulling my hair out foolishly, i neglected to document rectifying the issue, which has led to several instances of pattern balding, all while trying desperately to retrace my steps let this entry serve to alleviate further distress</description>
+    </item>
+    
+    <item>
+      <title>memories</title>
+      <link>https://aaronswindell.com/2024/06/19/memories/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/06/19/memories/</guid>
+      <description>had a profound remembrance today, doing what i had previously thought a mundane task and tried to think positively about during the last log. i suppose i regarded it as a trivial, time consuming thing with no potential of any intellectual benefit however, rendering out these item icons and many times re-rendering them, i remembered a very important factoid from college.</description>
+    </item>
+    
     <item>
       <title>difficulty level reckoning</title>
       <link>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</link>
