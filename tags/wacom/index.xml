@@ -6,12 +6,17 @@
     <description>Recent content in wacom on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Sat, 05 Mar 2022 00:24:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aaronswindell.com/tags/wacom/index.xml" rel="self" type="application/rss+xml" />
     
     
+=======
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Sat, 05 Mar 2022 00:24:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/wacom/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
     <item>
       <title>painting giant beam particle textures</title>
       <link>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</link>
@@ -22,4 +27,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
