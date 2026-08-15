@@ -6,8 +6,89 @@
     <description>Recent content in Development Log on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Sat, 08 Aug 2026 01:25:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Official Release</title>
+      <link>https://aaronswindell.com/2026/08/07/first-official-release/</link>
+      <pubDate>Sat, 08 Aug 2026 01:25:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2026/08/07/first-official-release/</guid>
+      <description>Dextrora is officially live! Version 1.0 delivers the foundation of the adventure, with many more updates planned. Support the game early by purchasing today, and secure your front-row seat for future expansions.</description>
+    </item>
+    
+    <item>
+      <title>anti-anxiety export advice</title>
+      <link>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</link>
+      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</guid>
+      <description>i recently had to start using Maya&amp;rsquo;s Game Exporter for some reason my old workflow seemed to produce inconsistent results when working on the final boss previously, using the Send To Unity command seemed to work perfectly however, something changed and had me pulling my hair out foolishly, i neglected to document rectifying the issue, which has led to several instances of pattern balding, all while trying desperately to retrace my steps let this entry serve to alleviate further distress</description>
+    </item>
+    
+    <item>
+      <title>brink of abandonment</title>
+      <link>https://aaronswindell.com/2026/01/22/brink-of-abandonment/</link>
+      <pubDate>Fri, 23 Jan 2026 01:37:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2026/01/22/brink-of-abandonment/</guid>
+      <description>long time, no update again and again and again over a year even, wow well, that is no longer the case actually, there have some smaller updates, i&amp;rsquo;ve just been too preoccupied to document them</description>
+    </item>
+    
+    <item>
+      <title>ah ha?</title>
+      <link>https://aaronswindell.com/2024/08/25/ah-ha/</link>
+      <pubDate>Sun, 25 Aug 2024 16:45:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/08/25/ah-ha/</guid>
+      <description>been a month or so since anything has actually been updated on the project, unfortunately it has once again taken a back seat to more pressing concerns. there were a few noteworthy undocumented moments from the month prior, however it turns out, i was sort of going in the wrong direction for quite some time, in the way i was handling transparency and transmission.</description>
+    </item>
+    
+    <item>
+      <title>ugh</title>
+      <link>https://aaronswindell.com/2024/06/20/ugh/</link>
+      <pubDate>Fri, 21 Jun 2024 02:44:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/06/20/ugh/</guid>
+      <description>reading my log from yesterday, hearing how smart i thought i was and all that i believed my newfound knowledge would achieve on this day upsets me how wrong i was</description>
+    </item>
+    
+    <item>
+      <title>memories</title>
+      <link>https://aaronswindell.com/2024/06/19/memories/</link>
+      <pubDate>Thu, 20 Jun 2024 02:03:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/06/19/memories/</guid>
+      <description>had a profound remembrance today, doing what i had previously thought a mundane task and tried to think positively about during the last log. i suppose i regarded it as a trivial, time consuming thing with no potential of any intellectual benefit however, rendering out these item icons and many times re-rendering them, i remembered a very important factoid from college.</description>
+    </item>
+    
+    <item>
+      <title>iconic delay</title>
+      <link>https://aaronswindell.com/2024/06/18/iconic-delay/</link>
+      <pubDate>Wed, 19 Jun 2024 01:18:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/06/18/iconic-delay/</guid>
+      <description>i suppose it is sort of a good thing that rendering the icons is taking so long, because i honestly need the time to adjust, but there has to be a faster way more than likely, just rendering at the final resolution would be more efficient, but i did a side-by-side test and the results looked better with my own pipeline.</description>
+    </item>
+    
+    <item>
+      <title>again?</title>
+      <link>https://aaronswindell.com/2024/06/17/again/</link>
+      <pubDate>Mon, 17 Jun 2024 14:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/06/17/again/</guid>
+      <description>i can&amp;rsquo;t believe it&amp;rsquo;s been over a year since my last post. once again, i have been working on the project here and there when time permits, but full scale development had taken a back seat to life events.</description>
+    </item>
+    
+    <item>
+      <title>long time, no update</title>
+      <link>https://aaronswindell.com/2023/04/24/long-time-no-update/</link>
+      <pubDate>Mon, 24 Apr 2023 21:23:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2023/04/24/long-time-no-update/</guid>
+      <description>that is not to say there has not been progress. unfortunately development has taken a bit of a back seat to life circumstances, but is starting to get back on track.</description>
+    </item>
+    
     <item>
       <title>difficulty setting and play time integration</title>
       <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
@@ -599,7 +680,7 @@ working on the second terrain and i realised i couldn&amp;rsquo;t really remembe
     </item>
     
     <item>
-      <title>slider &amp; input field link script</title>
+      <title>slider &amp;amp; input field link script</title>
       <link>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</link>
       <pubDate>Sun, 20 Sep 2020 23:28:00 +0000</pubDate>
       
@@ -1070,7 +1151,7 @@ at first, it seemed like the house of cards i have slowly been building was coll
     </item>
     
     <item>
-      <title>r&amp;d</title>
+      <title>r&amp;amp;d</title>
       <link>https://aaronswindell.com/2019/12/22/rd-2/</link>
       <pubDate>Sun, 22 Dec 2019 16:39:00 +0000</pubDate>
       
@@ -1080,7 +1161,7 @@ this may seem confusing, but i have been using the weekends for inspiration and 
     </item>
     
     <item>
-      <title>r&amp;d</title>
+      <title>r&amp;amp;d</title>
       <link>https://aaronswindell.com/2019/12/22/rd/</link>
       <pubDate>Sun, 22 Dec 2019 16:39:00 +0000</pubDate>
       
@@ -1371,7 +1452,7 @@ fights: had some problems early on in the day, everything i exported from zBrush
     </item>
     
     <item>
-      <title>not finished &gt; no progress</title>
+      <title>not finished &amp;gt; no progress</title>
       <link>https://aaronswindell.com/2019/08/19/not-finished-no-progress/</link>
       <pubDate>Mon, 19 Aug 2019 13:52:00 +0000</pubDate>
       

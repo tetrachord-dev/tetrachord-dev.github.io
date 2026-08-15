@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aaronswindell.com/</loc>
-    <lastmod>2022-08-04T13:50:00+06:00</lastmod>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://aaronswindell.com/faq/</loc>
-    <lastmod>2022-08-04T13:50:00+06:00</lastmod>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -28,17 +28,8 @@
                 href="https://aaronswindell.com/faq/"
                 />
   </url><url>
-    <loc>https://aaronswindell.com/tags/c-sharp/</loc>
-    <lastmod>2022-07-22T18:10:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aaronswindell.com/tags/design/</loc>
-    <lastmod>2022-07-22T18:10:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aaronswindell.com/tags/development/</loc>
-    <lastmod>2022-07-22T18:10:00+00:00</lastmod>
-  </url><url>
     <loc>https://aaronswindell.com/blog/</loc>
-    <lastmod>2022-07-22T18:10:00+00:00</lastmod>
+    <lastmod>2026-08-08T01:25:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -50,14 +41,20 @@
                 href="https://aaronswindell.com/blog/"
                 />
   </url><url>
-    <loc>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</loc>
-    <lastmod>2022-07-22T18:10:00+00:00</lastmod>
+    <loc>https://aaronswindell.com/tags/dextrora/</loc>
+    <lastmod>2026-08-08T01:25:00+00:00</lastmod>
   </url><url>
-    <loc>https://aaronswindell.com/tags/editor/</loc>
-    <lastmod>2022-07-22T18:10:00+00:00</lastmod>
+    <loc>https://aaronswindell.com/2026/08/07/first-official-release/</loc>
+    <lastmod>2026-08-08T01:25:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/launch/</loc>
+    <lastmod>2026-08-08T01:25:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/release/</loc>
+    <lastmod>2026-08-08T01:25:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/tags/</loc>
-    <lastmod>2022-07-22T18:10:00+00:00</lastmod>
+    <lastmod>2026-08-08T01:25:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -69,7 +66,82 @@
                 href="https://aaronswindell.com/tags/"
                 />
   </url><url>
+    <loc>https://aaronswindell.com/tags/tetrachord/</loc>
+    <lastmod>2026-08-08T01:25:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/animation/</loc>
+    <lastmod>2026-02-05T18:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</loc>
+    <lastmod>2026-02-05T18:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/fbx-export/</loc>
+    <lastmod>2026-02-05T18:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/maya/</loc>
+    <lastmod>2026-02-05T18:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/note-to/</loc>
+    <lastmod>2026-02-05T18:08:00+00:00</lastmod>
+  </url><url>
     <loc>https://aaronswindell.com/tags/unity/</loc>
+    <lastmod>2026-02-05T18:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2026/01/22/brink-of-abandonment/</loc>
+    <lastmod>2026-01-23T01:37:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2024/08/25/ah-ha/</loc>
+    <lastmod>2024-08-25T16:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2024/06/20/ugh/</loc>
+    <lastmod>2024-06-21T02:44:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/arnold/</loc>
+    <lastmod>2024-06-20T02:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/dcc/</loc>
+    <lastmod>2024-06-20T02:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/development/</loc>
+    <lastmod>2024-06-20T02:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2024/06/19/memories/</loc>
+    <lastmod>2024-06-20T02:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/note-to-self/</loc>
+    <lastmod>2024-06-20T02:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/photoshop/</loc>
+    <lastmod>2024-06-20T02:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/research/</loc>
+    <lastmod>2024-06-20T02:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/shaders/</loc>
+    <lastmod>2024-06-20T02:03:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2024/06/18/iconic-delay/</loc>
+    <lastmod>2024-06-19T01:18:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2024/06/17/again/</loc>
+    <lastmod>2024-06-17T14:48:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/c-sharp/</loc>
+    <lastmod>2024-06-17T14:48:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/design/</loc>
+    <lastmod>2024-06-17T14:48:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/editor/</loc>
+    <lastmod>2024-06-17T14:48:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/tags/particles/</loc>
+    <lastmod>2024-06-17T14:48:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2023/04/24/long-time-no-update/</loc>
+    <lastmod>2023-04-24T21:23:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</loc>
     <lastmod>2022-07-22T18:10:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/2022/07/17/impatient-persistence/</loc>
@@ -84,17 +156,11 @@
     <loc>https://aaronswindell.com/2022/07/13/difficulty-level-reckoning/</loc>
     <lastmod>2022-07-14T01:24:00+00:00</lastmod>
   </url><url>
-    <loc>https://aaronswindell.com/tags/maya/</loc>
-    <lastmod>2022-07-14T01:24:00+00:00</lastmod>
-  </url><url>
     <loc>https://aaronswindell.com/tags/ui/</loc>
     <lastmod>2022-07-14T01:24:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/2022/07/07/the-headless-woman-the-skip-button/</loc>
     <lastmod>2022-07-07T23:08:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aaronswindell.com/tags/photoshop/</loc>
-    <lastmod>2022-07-06T00:59:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</loc>
     <lastmod>2022-07-06T00:59:00+00:00</lastmod>
@@ -114,9 +180,6 @@
     <loc>https://aaronswindell.com/tags/gradle/</loc>
     <lastmod>2022-06-14T18:59:00+00:00</lastmod>
   </url><url>
-    <loc>https://aaronswindell.com/tags/note-to-self/</loc>
-    <lastmod>2022-06-14T18:59:00+00:00</lastmod>
-  </url><url>
     <loc>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</loc>
     <lastmod>2022-06-14T18:59:00+00:00</lastmod>
   </url><url>
@@ -124,9 +187,6 @@
     <lastmod>2022-06-10T01:52:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/2022/06/07/data-safety-form-complete/</loc>
-    <lastmod>2022-06-07T16:45:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aaronswindell.com/tags/research/</loc>
     <lastmod>2022-06-07T16:45:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/2022/05/15/conclusion-of-operation-octo-squid/</loc>
@@ -139,9 +199,6 @@
     <lastmod>2022-03-28T18:25:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/2022/03/04/painting-giant-beam-particle-textures/</loc>
-    <lastmod>2022-03-05T00:24:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aaronswindell.com/tags/particles/</loc>
     <lastmod>2022-03-05T00:24:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/tags/shuriken/</loc>
@@ -191,9 +248,6 @@
   </url><url>
     <loc>https://aaronswindell.com/2021/10/07/la-la-bumba/</loc>
     <lastmod>2021-10-08T01:41:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aaronswindell.com/tags/arnold/</loc>
-    <lastmod>2021-09-16T01:49:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/2021/09/15/short-cut/</loc>
     <lastmod>2021-09-16T01:49:00+00:00</lastmod>
@@ -251,9 +305,6 @@
   </url><url>
     <loc>https://aaronswindell.com/2021/03/09/moving-forward/</loc>
     <lastmod>2021-03-10T02:44:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aaronswindell.com/tags/dcc/</loc>
-    <lastmod>2021-02-22T23:49:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronswindell.com/2021/02/22/testing-huge-rewrite/</loc>
     <lastmod>2021-02-22T23:49:00+00:00</lastmod>

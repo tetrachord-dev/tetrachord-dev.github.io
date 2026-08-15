@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animation on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/animation/</link>
+    <description>Recent content in animation on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Thu, 05 Feb 2026 18:08:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>anti-anxiety export advice</title>
+      <link>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</link>
+      <pubDate>Thu, 05 Feb 2026 18:08:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2026/02/05/anti-anxiety-export-advice/</guid>
+      <description>i recently had to start using Maya&amp;rsquo;s Game Exporter for some reason my old workflow seemed to produce inconsistent results when working on the final boss previously, using the Send To Unity command seemed to work perfectly however, something changed and had me pulling my hair out foolishly, i neglected to document rectifying the issue, which has led to several instances of pattern balding, all while trying desperately to retrace my steps let this entry serve to alleviate further distress</description>
+    </item>
+    
+  </channel>
+</rss>
