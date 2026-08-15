@@ -6,7 +6,6 @@
     <description>Recent content in c-sharp on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
     <lastBuildDate>Mon, 17 Jun 2024 14:48:00 +0000</lastBuildDate>
     
@@ -22,10 +21,6 @@
       <description>i can&amp;rsquo;t believe it&amp;rsquo;s been over a year since my last post. once again, i have been working on the project here and there when time permits, but full scale development had taken a back seat to life events.</description>
     </item>
     
-=======
-    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
-    <lastBuildDate>Fri, 22 Jul 2022 18:10:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
     <item>
       <title>difficulty setting and play time integration</title>
       <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
@@ -308,11 +303,7 @@ you know you wrote some sexy code, when what you added to the code base is less 
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>slider &amp;amp; input field link script</title>
-=======
-      <title>slider &amp; input field link script</title>
->>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
       <link>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</link>
       <pubDate>Sun, 20 Sep 2020 23:28:00 +0000</pubDate>
       
@@ -322,8 +313,4 @@ after posting it here, it looks like the entire for loop is unnecessary, after a
     </item>
     
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> b8e6abf36dc6b7c457190a91e8dd7af63cef0e57
