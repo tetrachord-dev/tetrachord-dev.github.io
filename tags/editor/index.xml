@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>editor on Aaron McKinley Swindell | Game Developer &amp; Artist</title>
+    <link>https://aaronswindell.com/tags/editor/</link>
+    <description>Recent content in editor on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+    <lastBuildDate>Mon, 17 Jun 2024 14:48:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aaronswindell.com/tags/editor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>again?</title>
+      <link>https://aaronswindell.com/2024/06/17/again/</link>
+      <pubDate>Mon, 17 Jun 2024 14:48:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2024/06/17/again/</guid>
+      <description>i can&amp;rsquo;t believe it&amp;rsquo;s been over a year since my last post. once again, i have been working on the project here and there when time permits, but full scale development had taken a back seat to life events.</description>
+    </item>
+    
+    <item>
+      <title>long time, no update</title>
+      <link>https://aaronswindell.com/2023/04/24/long-time-no-update/</link>
+      <pubDate>Mon, 24 Apr 2023 21:23:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2023/04/24/long-time-no-update/</guid>
+      <description>that is not to say there has not been progress. unfortunately development has taken a bit of a back seat to life circumstances, but is starting to get back on track.</description>
+    </item>
+    
+    <item>
+      <title>difficulty setting and play time integration</title>
+      <link>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</link>
+      <pubDate>Fri, 22 Jul 2022 18:10:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/22/difficulty-setting-and-play-time-integration/</guid>
+      <description>reintroduced the coding for difficulty setting and programmed a play time clock, so that I can finally see how long the gameplay itself is added the ticker to the menu and save file displays, although doing so required rebuilding a bit of the player&amp;rsquo;s prefab and animator graph.</description>
+    </item>
+    
+    <item>
+      <title>depressive boon?</title>
+      <link>https://aaronswindell.com/2022/07/17/depressive-boon/</link>
+      <pubDate>Sun, 17 Jul 2022 19:47:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/17/depressive-boon/</guid>
+      <description>was feeling the typical Sunday Sadness, so I fired up the PC to try and catch up on some of the work from last week I was planning on redoing this week.</description>
+    </item>
+    
+    <item>
+      <title>wasted week</title>
+      <link>https://aaronswindell.com/2022/07/15/wasted-week/</link>
+      <pubDate>Fri, 15 Jul 2022 23:40:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/15/wasted-week/</guid>
+      <description>something I did broke the save system, not really sure what exactly, so I&amp;rsquo;ve backed everything up as it was broken and am restoring last week&amp;rsquo;s backup, which seems to work.</description>
+    </item>
+    
+    <item>
+      <title>slowly regaining momentum</title>
+      <link>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</link>
+      <pubDate>Wed, 06 Jul 2022 00:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/05/slowly-regaining-momentum/</guid>
+      <description>it is beginning to happen though added a data privacy button for opting out and lighting effects for the desert world</description>
+    </item>
+    
+    <item>
+      <title>feeling lousy</title>
+      <link>https://aaronswindell.com/2022/07/04/feeling-lousy/</link>
+      <pubDate>Mon, 04 Jul 2022 19:35:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/07/04/feeling-lousy/</guid>
+      <description>two or three days of depression, so I&amp;rsquo;m working on a holiday. at least it is my least favorite one, maybe second to new year&amp;rsquo;s, i suppose didn&amp;rsquo;t really do much.</description>
+    </item>
+    
+    <item>
+      <title>swapped scripting backend</title>
+      <link>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</link>
+      <pubDate>Tue, 14 Jun 2022 18:59:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2022/06/14/swapped-scripting-backend/</guid>
+      <description>what a rough day i remember it being tricky to go back and forth between scripting backend types (mono, IL2CPP) and needing the internet to do so, but I don&amp;rsquo;t recall having so many problems!</description>
+    </item>
+    
+    <item>
+      <title>mildly winning</title>
+      <link>https://aaronswindell.com/2021/12/09/mildly-winning/</link>
+      <pubDate>Fri, 10 Dec 2021 02:37:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2021/12/09/mildly-winning/</guid>
+      <description>so, i didn&amp;rsquo;t do anything today, but the rest of the week has been most productive! i&amp;rsquo;m talking big bugs with single lines; it feels like the home stretch, but honestly it looks halfway there.</description>
+    </item>
+    
+    <item>
+      <title>make it make more sense</title>
+      <link>https://aaronswindell.com/2020/10/19/make-it-make-more-sense/</link>
+      <pubDate>Tue, 20 Oct 2020 01:50:00 +0000</pubDate>
+      
+      <guid>https://aaronswindell.com/2020/10/19/make-it-make-more-sense/</guid>
+      <description>you&amp;rsquo;d think this sort if thing would be more obvious from a design standpoint, but it&amp;rsquo;s the kind of thing you need to learn first hand or have previous experience, i guess anyway, after questioning the entire health orb mechanic now that healing inventory items work, i came to the conclusion the drop conditions should just be adjusted.</description>
+    </item>
+    
+  </channel>
+</rss>
