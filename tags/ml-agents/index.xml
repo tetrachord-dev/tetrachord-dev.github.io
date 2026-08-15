@@ -6,7 +6,11 @@
     <description>Recent content in ml-agents on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+=======
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+>>>>>>> 40b3e663387fed20008583eee2c3988dcebd7c80
     <lastBuildDate>Fri, 18 Dec 2020 01:29:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/ml-agents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello machines</title>

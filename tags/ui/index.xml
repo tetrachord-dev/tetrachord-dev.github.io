@@ -6,7 +6,11 @@
     <description>Recent content in ui on Aaron McKinley Swindell | Game Developer &amp; Artist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <copyright>Copyright &amp;copy; 2026 [Aaron Swindell](https://aaronswindell.com)</copyright>
+=======
+    <copyright>Copyright &amp;copy; 2022 [Aaron Swindell](https://aaronswindell.com)</copyright>
+>>>>>>> 40b3e663387fed20008583eee2c3988dcebd7c80
     <lastBuildDate>Thu, 14 Jul 2022 01:24:00 +0000</lastBuildDate><atom:link href="https://aaronswindell.com/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>difficulty level reckoning</title>
@@ -27,7 +31,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>slider &amp;amp; input field link script</title>
+=======
+      <title>slider &amp; input field link script</title>
+>>>>>>> 40b3e663387fed20008583eee2c3988dcebd7c80
       <link>https://aaronswindell.com/2020/09/20/slider-input-field-link-script/</link>
       <pubDate>Sun, 20 Sep 2020 23:28:00 +0000</pubDate>
       
